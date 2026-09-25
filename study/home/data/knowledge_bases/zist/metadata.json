@@ -5,8 +5,19 @@
   "version": "1.0",
   "rag_provider": "lightrag",
   "needs_reindex": false,
-  "last_updated": "2026-09-25 10:53:07",
-  "last_indexed_at": "2026-09-25 10:53:07",
-  "last_indexed_count": 2,
-  "last_indexed_action": "create"
+  "last_updated": "2026-09-25 13:34:07",
+  "last_indexed_at": "2026-09-25 13:34:07",
+  "last_indexed_count": 1,
+  "last_indexed_action": "upload",
+  "file_hashes": {
+    "zist3_textbook.md": "9ae922b3a1abb451805ca9e65728a91810dec1ce4aadbcf101c092f7d052dbcb"
+  },
+  "update_history": [
+    {
+      "timestamp": "2026-09-25 13:34:07",
+      "action": "incremental_add",
+      "count": 1,
+      "provider": "lightrag"
+    }
+  ]
 }

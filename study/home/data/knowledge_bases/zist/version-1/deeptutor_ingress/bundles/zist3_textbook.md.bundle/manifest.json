@@ -1,0 +1,24 @@
+{
+  "parser_bridge_schema": 1,
+  "canonical_filename": "zist3_textbook.md",
+  "parser": {
+    "engine": "text_only",
+    "source_hash": "9ae922b3a1abb451",
+    "parser_signature": "a16aaf2359a1ec81"
+  },
+  "source": {
+    "path": "../../pending/zist3_textbook.md",
+    "sha256": "9ae922b3a1abb451805ca9e65728a91810dec1ce4aadbcf101c092f7d052dbcb"
+  },
+  "markdown": {
+    "path": "markdown.utf8",
+    "sha256": "9ae922b3a1abb451805ca9e65728a91810dec1ce4aadbcf101c092f7d052dbcb"
+  },
+  "blocks": null,
+  "assets": [],
+  "process_options": "F",
+  "chunk_options": {
+    "fixed_token": {}
+  },
+  "block_policy": null
+}

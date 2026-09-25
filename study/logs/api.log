@@ -1,0 +1,1137 @@
+INFO:     Started server process [1559]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:53318 - "GET /api/knowledge-bases/zist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38828 - "POST /api/knowledge-bases/zist/upload HTTP/1.1" 200 OK
+INFO: [deeptutor_3134c3542b7ebbe2] Loaded graph from /home/user/books/study/home/data/knowledge_bases/zist/version-1/deeptutor_3134c3542b7ebbe2/graph_chunk_entity_relation.graphml with 536 nodes, 469 edges
+INFO: Role LLM Configuration (initialized):
+INFO:  - extract: custom/1ee7718239b7acb5a52c5d7254d8382c9be0437a325a2f74ec317085036007ca, host=None, max_async=4, timeout=3600
+INFO:  - keyword: None/None, host=None, max_async=4, timeout=3600
+INFO:  - query: None/None, host=None, max_async=4, timeout=3600
+INFO:  - vlm: None/None, host=None, max_async=4, timeout=3600
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load full_docs with 2 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load text_chunks with 43 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load full_entities with 2 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load full_relations with 2 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load entity_chunks with 536 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load relation_chunks with 469 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 KV load llm_response_cache with 45 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1559 doc status load doc_status with 2 records
+INFO: Processing 1 document(s)
+INFO: Parsing (native): doc-44196875fe1b5053df21cd015b3e611e
+INFO: Extracting stage 1/1: zist3_textbook.md
+INFO: Processing d-id: doc-44196875fe1b5053df21cd015b3e611e
+WARNING: [resume] doc-44196875fe1b5053df21cd015b3e611e: filename hint / LIGHTRAG_PARSER implies engine='legacy' but full_docs already has parse_engine='deeptutor'; keeping the existing extraction.  Delete + re-upload to switch engines.
+INFO: Chunking F: size=1200, doc_id: doc-44196875fe1b5053df21cd015b3e611e
+INFO: extract LLM func: 4 new workers initialized (Timeouts: Func: 3600s, Worker: 7200s, Health Check: 7215s)
+INFO:  == LLM cache == saving: default:extract:8fa9f247ee24b6ff3f13af476fb3ac19
+INFO:  == LLM cache == saving: default:extract:4e4ee026fce018246d101f32a13bef90
+INFO:  == LLM cache == saving: default:extract:11fa701a80bbdb14166f05bb7eba7f94
+INFO:  == LLM cache == saving: default:extract:e64614663d4e6e9e7c6f3e6b5eb3dca9
+INFO: Chunk 1 of 75 extracted 11 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-002
+INFO: Chunk 2 of 75 extracted 11 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-001
+INFO: Chunk 3 of 75 extracted 12 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-000
+INFO: Chunk 4 of 75 extracted 8 Ent + 10 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-003
+INFO:  == LLM cache == saving: default:extract:431cff52a9b88669f60c58e422eef34a
+INFO: Chunk 5 of 75 extracted 11 Ent + 11 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-004
+INFO:  == LLM cache == saving: default:extract:e9a86224966659de2fafd53b9d9795a9
+INFO:  == LLM cache == saving: default:extract:3d7cd18a78a7ca9ff8f138e795177203
+INFO:  == LLM cache == saving: default:extract:6a2e0c0cd3ed30966b6b6e758070fc43
+INFO: Chunk 6 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-005
+INFO: Chunk 7 of 75 extracted 10 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-007
+INFO: Chunk 8 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-006
+INFO:  == LLM cache == saving: default:extract:886f16175d851ab5fe4604f1c6fc01f0
+INFO:  == LLM cache == saving: default:extract:9ed0bda5c302173f6966aa39506531b7
+INFO:  == LLM cache == saving: default:extract:d5983f446ceb7d4296db606f95e5b0c2
+INFO:  == LLM cache == saving: default:extract:3c26d4cc6a8bbd01aa2060cab626aa6d
+INFO: Chunk 9 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-009
+INFO: Chunk 10 of 75 extracted 13 Ent + 10 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-008
+INFO: Chunk 11 of 75 extracted 12 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-010
+INFO: Chunk 12 of 75 extracted 11 Ent + 10 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-011
+INFO:  == LLM cache == saving: default:extract:92e43db089ffb6012d11e03e7271d122
+INFO:  == LLM cache == saving: default:extract:0a5d910981543a830a6425495825032f
+INFO:  == LLM cache == saving: default:extract:e0e2bbfab5f0f90c3aec5293b061eb30
+INFO:  == LLM cache == saving: default:extract:da63fe0f8332586c0eb8dfb533ec8f9f
+INFO: Chunk 13 of 75 extracted 7 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-012
+INFO: Chunk 14 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-014
+INFO: Chunk 15 of 75 extracted 6 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-015
+INFO: Chunk 16 of 75 extracted 7 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-013
+INFO:  == LLM cache == saving: default:extract:65c2f590202f5feaf00361ba98c25ebc
+INFO:  == LLM cache == saving: default:extract:66ff721d44888d9875e0379d3d0c0a13
+INFO:  == LLM cache == saving: default:extract:af9702b64ba0b67c186ec3eb7c5bebd6
+INFO:  == LLM cache == saving: default:extract:3636d74596e50ad80eb3f05859e58dcf
+INFO: Chunk 17 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-017
+INFO: Chunk 18 of 75 extracted 10 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-018
+INFO: Chunk 19 of 75 extracted 6 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-016
+INFO: Chunk 20 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-019
+INFO:  == LLM cache == saving: default:extract:60b85a136a6fbd7b65af32b1c97ed584
+INFO: Chunk 21 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-020
+INFO:  == LLM cache == saving: default:extract:05cb597cd1c974a96b06200b5f5ff60d
+INFO:  == LLM cache == saving: default:extract:6bc21ee0749f204b54ceec539b3f195e
+INFO:  == LLM cache == saving: default:extract:8848d7bcb73197738b92d5b6e80a2cdd
+INFO: Chunk 22 of 75 extracted 6 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-021
+INFO: Chunk 23 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-022
+INFO: Chunk 24 of 75 extracted 11 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-023
+INFO:  == LLM cache == saving: default:extract:b58849218e2390ab3e687eda8a546817
+INFO:  == LLM cache == saving: default:extract:e21f3e4f99617c7c7e7072ceecff1182
+INFO:  == LLM cache == saving: default:extract:712b5375949cb798938ce4c48045b69f
+INFO:  == LLM cache == saving: default:extract:b97d09cd7c63bba32f27d1670c956fcb
+INFO: Chunk 25 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-024
+INFO: Chunk 26 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-025
+INFO: Chunk 27 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-026
+INFO: Chunk 28 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-027
+INFO:  == LLM cache == saving: default:extract:61ad893798297f4cc14c7c7092d377ba
+INFO:  == LLM cache == saving: default:extract:996212f1605d464a77c1a26fd1be2ad4
+INFO:  == LLM cache == saving: default:extract:5e15646d6b4551368ac0d367e5ea92b0
+INFO:  == LLM cache == saving: default:extract:2dd2f2170d2824837636ae298defdd32
+INFO: Chunk 29 of 75 extracted 8 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-029
+INFO: Chunk 30 of 75 extracted 11 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-030
+INFO: Chunk 31 of 75 extracted 11 Ent + 10 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-028
+INFO: Chunk 32 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-031
+INFO:  == LLM cache == saving: default:extract:3f7ad3a80d0aeefed3673d0b59b321b4
+INFO:  == LLM cache == saving: default:extract:5fe75b997b9645df2eed16802f30c6dc
+INFO:  == LLM cache == saving: default:extract:d14a81f2ea7d7c9d0833531dc0798983
+INFO:  == LLM cache == saving: default:extract:cb9795e81fa58b41b32f4679d125dfe1
+INFO: Chunk 33 of 75 extracted 8 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-032
+INFO: Chunk 34 of 75 extracted 10 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-033
+INFO: Chunk 35 of 75 extracted 11 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-034
+INFO: Chunk 36 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-035
+INFO:  == LLM cache == saving: default:extract:56942b75f8e54f7addfa875cd71b38be
+INFO:  == LLM cache == saving: default:extract:a3584c84aad1a651a4977590b2fba611
+INFO:  == LLM cache == saving: default:extract:ecc474734afd16d541c94c7d570002ea
+INFO:  == LLM cache == saving: default:extract:e42d9f73b7cdd766f884eb24b5c4e6fd
+INFO: Chunk 37 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-036
+INFO: Chunk 38 of 75 extracted 10 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-037
+INFO: Chunk 39 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-038
+INFO: Chunk 40 of 75 extracted 8 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-039
+INFO:  == LLM cache == saving: default:extract:de5eafdfdfdbff7241641e54fe12a01b
+INFO:  == LLM cache == saving: default:extract:44d3b4dba8fa82ac2cf1bcf957b97054
+INFO:  == LLM cache == saving: default:extract:eda9811f1e01518d5493980f57c2715b
+INFO: Chunk 41 of 75 extracted 6 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-041
+INFO:  == LLM cache == saving: default:extract:010b6298e173dbec69cd49380876c836
+INFO: Chunk 42 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-043
+INFO: Chunk 43 of 75 extracted 7 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-042
+INFO: Chunk 44 of 75 extracted 8 Ent + 10 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-040
+INFO:  == LLM cache == saving: default:extract:79d446d04d1414d7d7a47f27a8e73072
+INFO: Chunk 45 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-044
+INFO:  == LLM cache == saving: default:extract:49567e5cdcb49389cdeef854a9fb523f
+INFO:  == LLM cache == saving: default:extract:a7dd9f245d0d8314179494b92a660216
+INFO:  == LLM cache == saving: default:extract:f2797392e78f0e6696ab9de4820a5b1a
+INFO: Chunk 46 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-045
+INFO: Chunk 47 of 75 extracted 10 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-047
+INFO: Chunk 48 of 75 extracted 9 Ent + 10 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-046
+INFO:  == LLM cache == saving: default:extract:bc46b35bc11a0897fcc26f6e4abd5467
+INFO:  == LLM cache == saving: default:extract:9ab896e7d07046d67a6048c1cd611ec7
+INFO: Chunk 49 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-048
+INFO: Chunk 50 of 75 extracted 7 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-049
+INFO:  == LLM cache == saving: default:extract:cf427522ea0e3839379c1765e3641017
+INFO:  == LLM cache == saving: default:extract:360e1518025a4f3f1dc3456639c30d50
+INFO: Chunk 51 of 75 extracted 7 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-050
+INFO: Chunk 52 of 75 extracted 6 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-051
+INFO:  == LLM cache == saving: default:extract:089b5f7551cd5f1557cc78465f33ed9e
+INFO: Chunk 53 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-052
+INFO:  == LLM cache == saving: default:extract:b9df2acf03d91afb1a6be1d82a2b55be
+INFO: Chunk 54 of 75 extracted 9 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-053
+INFO:  == LLM cache == saving: default:extract:fe151ceeacbde5259b721dad953ed215
+INFO:  == LLM cache == saving: default:extract:e8946ebdd8eb5f7cf4788820bd9ccd8d
+INFO: Chunk 55 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-054
+INFO: Chunk 56 of 75 extracted 9 Ent + 9 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-055
+INFO:  == LLM cache == saving: default:extract:b9beaf0701d01bc7f79dc1878c37a540
+INFO: Chunk 57 of 75 extracted 6 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-056
+INFO:  == LLM cache == saving: default:extract:94847896a9587f4f0e86e9fcdce1ef7c
+INFO: Chunk 58 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-057
+INFO:  == LLM cache == saving: default:extract:47d4e4a8f17cf01d7a2d2aac7ad430fe
+INFO:  == LLM cache == saving: default:extract:2d7ca4e50ebf7f9e4cd6eb3b13d9f2a2
+INFO: Chunk 59 of 75 extracted 6 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-059
+INFO: Chunk 60 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-058
+INFO:  == LLM cache == saving: default:extract:bf11966510dcf6454151a207bcbdb1ca
+INFO: Chunk 61 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-060
+INFO:  == LLM cache == saving: default:extract:d342263a2220f18fbb34ad8c21684a5d
+INFO: Chunk 62 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-061
+INFO:  == LLM cache == saving: default:extract:0eaee060d149bd4444ee9ff5e7afdfc6
+INFO:  == LLM cache == saving: default:extract:c71216d8ca144439b202f6976b7f8af0
+INFO: Chunk 63 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-062
+INFO: Chunk 64 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-063
+INFO:  == LLM cache == saving: default:extract:c4b7ca19f1bbadfe7f652e1b68aef2cc
+INFO: Chunk 65 of 75 extracted 7 Ent + 6 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-064
+INFO:  == LLM cache == saving: default:extract:1120d0dd65a2b06bf4271737c4b33ae7
+INFO: Chunk 66 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-065
+INFO:  == LLM cache == saving: default:extract:d5a401c9bcc2542a189490e8f7dc753a
+INFO:  == LLM cache == saving: default:extract:de28907b147fd9e2411368413aa866c0
+INFO: Chunk 67 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-066
+INFO: Chunk 68 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-067
+INFO:  == LLM cache == saving: default:extract:b1d6b4ce72a743f8999f842dbc3b187f
+INFO: Chunk 69 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-068
+INFO:  == LLM cache == saving: default:extract:6d3d52091ecca0974c4277e50877939f
+INFO: Chunk 70 of 75 extracted 9 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-069
+INFO:  == LLM cache == saving: default:extract:027e3ff8bad73ce8342e86043448b0be
+INFO:  == LLM cache == saving: default:extract:516ff1ae32441684a689dfe8656a28aa
+INFO: Chunk 71 of 75 extracted 8 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-070
+INFO: Chunk 72 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-071
+INFO:     127.0.0.1:39582 - "GET /api/knowledge-bases/zist HTTP/1.1" 200 OK
+INFO:  == LLM cache == saving: default:extract:d3d60ddbba74c64068e0c4bbd4b9be02
+INFO: Chunk 73 of 75 extracted 7 Ent + 7 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-072
+INFO:  == LLM cache == saving: default:extract:c5e2edca7b283bfe131180ec4890e44c
+INFO: Chunk 74 of 75 extracted 8 Ent + 8 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-073
+INFO:  == LLM cache == saving: default:extract:fc24d66e0c45ff784174ef3d6044f26c
+INFO: Chunk 75 of 75 extracted 4 Ent + 4 Rel doc-44196875fe1b5053df21cd015b3e611e-chunk-074
+INFO: Merging stage 1/1: zist3_textbook.md
+INFO: Phase 0: Writing recovery indexes for doc-44196875fe1b5053df21cd015b3e611e: 569 candidate entities, 603 candidate relations
+INFO: Phase 1: Processing 566 entities from doc-44196875fe1b5053df21cd015b3e611e (async: 8)
+INFO: Merged: `دنا` | 1+2
+INFO: Merged: `گریفیت` | 1+1
+INFO: Merged: `باکتری پوشینه‌دار` | 1+1
+INFO: Merged: `آزمایش گریفیت` | 1+2
+INFO: Merged: `ایوری` | 1+1
+INFO: Merged: `پیوند فسفودی‌استر` | 1+1
+INFO: Merged: `چارگاف` | 1+1
+INFO: Merged: `ویلکینز و فرانکلین` | 1+1
+INFO: Merged: `واتسون و کریک` | 1+1
+INFO: Merged: `پیوند هیدروژنی` | 1+2
+INFO: Merged: `رنای پیک` | 1+1
+INFO: Merged: `رنای ناقل` | 2+2
+INFO: Merged: `رناتن` | 1+4
+INFO: Merged: `همانندسازی نیمه‌حفاظتی` | 1+1
+INFO: Merged: `مزلسون و استال` | 2+1
+INFO: Merged: `پروکاریوت` | 1+1
+INFO: Merged: `دیسک` | 1+3
+INFO: Merged: `یوکاریوت` | 1+2
+INFO: Merged: `پیوند پپتیدی` | 1+1
+INFO: Merged: `میوگلوبین` | 2+1
+INFO: Merged: `ساختار دوم پروتئین` | 1+1
+INFO: Merged: `هموگلوبین` | 3+1
+INFO: Merged: `مهارکننده` | 1+2
+INFO: Merged: `پپسین` | 1+1
+INFO: Merged: `رونویسی` | 1+2
+INFO: Merged: `رنابسپاراز` | 3+1
+INFO: Merged: `راه‌انداز` | 3+1
+INFO: Merged: `ترجمه` | 2+1
+INFO: Merged: `رمزهٔ پایان` | 1+1
+INFO: Merged: `رمزهٔ آغاز` | 1+1
+INFO: Merged: `جایگاه P` | 2+1
+INFO: Merged: `جایگاه A` | 2+1
+INFO: Merged: `جایگاه E` | 2+1
+INFO: Merged: `متیونین` | 1+1
+INFO: Merged: `عوامل آزادکننده` | 1+1
+INFO: Merged: `کافنده‌تن` | 1+1
+INFO: Merged: `تنظیم بیان ژن` | 1+1
+INFO: Merged: `تنظیم بیان ژن در پروکاریوت‌ها` | 1+1
+INFO: Merged: `لاکتوز` | 1+1
+INFO: Merged: `یاخته‌های بنیادی مغز استخوان` | 1+1
+INFO: Merged: `تنظیم منفی رونویسی` | 1+1
+INFO: Merged: `اپراتور` | 1+0 (dd 1)
+INFO: Merged: `تنظیم مثبت رونویسی` | 1+1
+INFO: Merged: `فعال‌کننده` | 1+1
+INFO: Merged: `جایگاه اتصال فعال‌کننده` | 1+1
+INFO: Merged: `مالتوز` | 1+1
+INFO: Merged: `تنظیم بیان ژن در یوکاریوت‌ها` | 1+1
+INFO: Merged: `عوامل رونویسی` | 2+1
+INFO: Merged: `توالی افزاینده` | 2+1
+INFO: Merged: `رناهای کوچک مکمل` | 1+1
+INFO: Merged: `طول عمر رنای پیک` | 1+1
+INFO: Merged: `پروتئین D` | 1+1
+INFO: Merged: `هموفیلی` | 2+1
+INFO: Merged: `جهش` | 1+2
+INFO: Merged: `جهش جانشینی` | 1+1
+INFO: Merged: `انتخاب طبیعی` | 3+2
+INFO: Merged: `خزانهٔ ژن` | 1+1
+INFO: Merged: `رانش دگره‌ای` | 1+2
+INFO: Merged: `شارش ژن` | 1+1
+INFO: Merged: `آمیزش غیرتصادفی` | 1+1
+INFO: Merged: `گوناگونی دگره‌ای در گامت‌ها` | 1+1
+INFO: Merged: `نوترکیبی` | 1+1
+INFO: Merged: `چلیپایی شدن` | 1+1
+INFO: Merged: `گامت نوترکیب` | 1+0 (dd 1)
+INFO: Merged: `اهمیت ناخالص‌ها` | 1+1
+INFO: Merged: `مالاریا` | 1+1
+INFO: Merged: `جدایی تولیدمثلی` | 1+1
+INFO: Merged: `تنفس یاخته‌ای هوازی` | 1+1
+INFO: Merged: `قندکافت` | 2+2
+INFO: Merged: `پیرووات` | 1+1
+INFO: Merged: `NADH` | 1+1
+INFO: Merged: `اکسایش پیرووات` | 1+1
+INFO: Merged: `استیل کوآنزیم A` | 1+1
+INFO: Merged: `چرخهٔ کربس` | 1+2
+INFO: Merged: `FADH2` | 1+1
+INFO: Merged: `زنجیرهٔ انتقال الکترون` | 3+1
+INFO: Merged: `آنزیم ATP‌ساز` | 2+3
+INFO: Merged: `اکسیژن` | 1+1
+INFO: Merged: `تخمیر` | 1+1
+INFO: Merged: `کربن مونواکسید` | 1+1
+INFO: Merged: `چرخهٔ کالوین` | 1+1
+INFO: Merged: `روبیسکو` | 1+1
+INFO: Merged: `گیاهان C3` | 1+1
+INFO: Merged: `تنفس نوری` | 1+1
+INFO: Merged: `گیاهان C4` | 1+2
+INFO: Merged: `گیاهان CAM` | 2+1
+INFO: Merged: `سیانوباکتری` | 1+1
+INFO: Merged: `مهندسی پروتئین` | 2+2
+INFO: Merged: `آنزیم برش‌دهنده` | 1+1
+INFO: Merged: `آمیلاز` | 2+1
+INFO: Merged: `اینترفرون` | 2+2
+INFO: Merged: `پلاسمین` | 1+1
+INFO: Merged: `انسولین` | 1+1
+INFO: Merged: `ژن‌درمانی` | 1+1
+INFO: Merged: `اولین ژن‌درمانی موفق` | 1+1
+INFO: Merged: `لنفوسیت` | 1+1
+INFO: Merged: `جانوران تراژنی` | 1+1
+INFO: Merged: `رفتار` | 1+1
+INFO: Merged: `رفتار غریزی` | 1+2
+INFO: Merged: `یادگیری` | 1+2
+INFO: Merged: `حل مسئله` | 1+1
+INFO: Merged: `نقش‌پذیری` | 1+2
+INFO: Merged: `پروانهٔ مونارک` | 1+1
+INFO: Merged: `جیرجیرک` | 1+1
+INFO: Merged: `غذایابی بهینه` | 1+1
+INFO: Merged: `دگرخواهی` | 1+2
+INFO: Merged: `فرومون` | 2+1
+INFO:  == LLM cache == saving: default:summary:ddd238922a30881b7f6f0b3d61b78e5a
+INFO: LLMmrg: `کم‌خونی داسی‌شکل` | 5+3
+INFO: Phase 2: Processing 603 relations from doc-44196875fe1b5053df21cd015b3e611e (async: 8)
+INFO: Merged: `آزمایش گریفیت`~`گریفیت` | 1+1
+INFO: Upserting relation VDB: `آزمایش گریفیت->گریفیت`
+INFO: Upserting relation VDB: `استرپتوکوکوس نومونیا->باکتری پوشینه‌دار`
+INFO: Upserting relation VDB: `میشر->نوکلئیک اسید`
+INFO: Upserting relation VDB: `دنا->فام‌تن`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۱ مولکول‌های اطلاعاتی`
+INFO: Upserting relation VDB: `باکتری پوشینه‌دار->پوشینه`
+INFO: Upserting relation VDB: `آزمایش گریفیت->استرپتوکوکوس نومونیا`
+INFO: Chunks appended from relation: `دنا`
+INFO: Upserting relation VDB: `آزمایش‌های ایوری->ایوری`
+INFO: Upserting relation VDB: `دنا->ژن`
+INFO: Upserting relation VDB: `نوکلئوتید->نوکلئیک اسید`
+INFO: Upserting relation VDB: `دنا->فصل ۱ مولکول‌های اطلاعاتی`
+INFO: Upserting relation VDB: `رنا->ریبوز`
+INFO: Upserting relation VDB: `تیمین->پیریمیدین`
+INFO: Chunks appended from relation: `دنا`
+INFO: Upserting relation VDB: `آزمایش‌های ایوری->دنا`
+INFO: Upserting relation VDB: `پیریمیدین->یوراسیل`
+INFO: Upserting relation VDB: `دئوکسی‌ریبوز->دنا`
+INFO: Upserting relation VDB: `آزمایش‌های ایوری->گریزانه`
+INFO: Upserting relation VDB: `رشتهٔ پلی‌نوکلئوتیدی->پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `رنا->یوراسیل`
+INFO: Upserting relation VDB: `تیمین->دنا`
+INFO: Upserting relation VDB: `آزمایش گریفیت->آزمایش‌های ایوری`
+INFO: Upserting relation VDB: `دنای حلقوی->پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `پورین->پیریمیدین`
+INFO: Upserting relation VDB: `رشتهٔ پلی‌نوکلئوتیدی->رنا`
+INFO: Upserting relation VDB: `جفت بازهای مکمل->چارگاف`
+INFO: Upserting relation VDB: `آزمایش گریفیت->انتقال صفت`
+INFO: Upserting relation VDB: `ویلکینز و فرانکلین->پرتو ایکس`
+INFO: Upserting relation VDB: `مدل مارپیچ دورشته‌ای->واتسون و کریک`
+INFO: Upserting relation VDB: `دنا->رشتهٔ پلی‌نوکلئوتیدی`
+INFO: Merged: `واتسون و کریک`~`چارگاف` | 1+0 (dd 1)
+INFO: Upserting relation VDB: `جفت بازهای مکمل->پیوند هیدروژنی`
+INFO: Upserting relation VDB: `واتسون و کریک->چارگاف`
+INFO: Upserting relation VDB: `رنا->رنای پیک`
+INFO: Merged: `واتسون و کریک`~`ویلکینز و فرانکلین` | 1+1
+INFO: Upserting relation VDB: `مدل مارپیچ دورشته‌ای->پیوند هیدروژنی`
+INFO: Upserting relation VDB: `واتسون و کریک->ویلکینز و فرانکلین`
+INFO: Upserting relation VDB: `رنا->رنای ناقل`
+INFO: Upserting relation VDB: `رناتن->رنای پیک`
+INFO: Chunks appended from relation: `پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `مدل مارپیچ دورشته‌ای->پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `جایزهٔ نوبل ۱۹۶۲->واتسون و کریک`
+INFO: Upserting relation VDB: `رنا->رنای رناتنی`
+INFO: Upserting relation VDB: `رناتن->رنای ناقل`
+INFO: Chunks appended from relation: `نوکلئوتید`
+INFO: Upserting relation VDB: `ATP->نوکلئوتید`
+INFO: Chunks appended from relation: `دنا`
+INFO: Upserting relation VDB: `تاریخچهٔ کشف دنا->میشر`
+INFO: Upserting relation VDB: `رنا->ژن`
+INFO: Upserting relation VDB: `دنا->مدل مارپیچ دورشته‌ای`
+INFO: Upserting relation VDB: `رناتن->رنای رناتنی`
+INFO: Upserting relation VDB: `همانندسازی دنا->همانندسازی نیمه‌حفاظتی`
+INFO: Upserting relation VDB: `آزمایش مزلسون و استال->مزلسون و استال`
+INFO: Chunks appended from relation: `واتسون و کریک`
+INFO: Upserting relation VDB: `تاریخچهٔ کشف دنا->واتسون و کریک`
+INFO: Upserting relation VDB: `همانندسازی حفاظتی->همانندسازی نیمه‌حفاظتی`
+INFO: Upserting relation VDB: `آزمایش مزلسون و استال->نیتروژن ۱۵`
+INFO: Upserting relation VDB: `عوامل همانندسازی->نوکلئوتید سه‌فسفاته`
+INFO: Upserting relation VDB: `همانندسازی غیرحفاظتی->همانندسازی نیمه‌حفاظتی`
+INFO: Chunks appended from relation: `پیوند هیدروژنی`
+INFO: Upserting relation VDB: `هلیکاز->پیوند هیدروژنی`
+INFO: Upserting relation VDB: `آزمایش مزلسون و استال->اشرشیا کلای`
+INFO: Upserting relation VDB: `دنابسپاراز->عوامل همانندسازی`
+INFO: Upserting relation VDB: `فامینه->هیستون`
+INFO: Upserting relation VDB: `باز شدن دو رشتهٔ دنا->هلیکاز`
+INFO: Upserting relation VDB: `آزمایش مزلسون و استال->گریزانهٔ هم‌چگال`
+INFO: Chunks appended from relation: `همانندسازی دنا`
+INFO: Chunks appended from relation: `پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `همانندسازی دنا->همانندسازی دوجهتی`
+INFO: Upserting relation VDB: `دنابسپاراز->پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `فعالیت نوکلئازی->ویرایش`
+INFO: Upserting relation VDB: `آزمایش مزلسون و استال->همانندسازی نیمه‌حفاظتی`
+INFO: Merged: `دیسک`~`پروکاریوت` | 1+1
+INFO: Upserting relation VDB: `هلیکاز->همانندسازی دنا`
+INFO: Upserting relation VDB: `دیسک->پروکاریوت`
+INFO: Upserting relation VDB: `دنابسپاراز->ویرایش`
+INFO: Chunks appended from relation: `آزمایش مزلسون و استال`
+INFO: Upserting relation VDB: `آزمایش مزلسون و استال->نتایج آزمایش مزلسون و استال`
+INFO: Upserting relation VDB: `جایگاه آغاز همانندسازی->پروکاریوت`
+INFO: Upserting relation VDB: `دیسک->پادزیست`
+INFO: Chunks appended from relation: `هیستون`
+INFO: Upserting relation VDB: `دنابسپاراز->فعالیت بسپارازی`
+INFO: Upserting relation VDB: `هیستون->یوکاریوت`
+INFO: Upserting relation VDB: `دنابسپاراز->دوراهی همانندسازی`
+INFO: Upserting relation VDB: `دنای سیتوپلاسمی->یوکاریوت`
+INFO: Upserting relation VDB: `آمینواسید->پروتئین`
+INFO: Merged: `پروکاریوت`~`یوکاریوت` | 1+1
+INFO: Chunks appended from relation: `دنای سیتوپلاسمی`
+INFO: Upserting relation VDB: `پروکاریوت->یوکاریوت`
+INFO: Upserting relation VDB: `آمینواسید->گروه R`
+INFO: Upserting relation VDB: `سنتز آبدهی->پیوند پپتیدی`
+INFO: Upserting relation VDB: `دنای سیتوپلاسمی->راکیزه`
+INFO: Upserting relation VDB: `جایگاه آغاز همانندسازی->یوکاریوت`
+INFO: Upserting relation VDB: `ساختار اول پروتئین->ساختار دوم پروتئین`
+INFO: Upserting relation VDB: `پلی‌پپتید->پیوند پپتیدی`
+INFO: Upserting relation VDB: `دنای سیتوپلاسمی->دیسه`
+INFO: Upserting relation VDB: `جایگاه آغاز همانندسازی->مورولا و بلاستولا`
+INFO: Upserting relation VDB: `ساختار دوم پروتئین->ساختار سوم پروتئین`
+INFO: Upserting relation VDB: `پروتئین->پلی‌پپتید`
+INFO: Chunks appended from relation: `پیوند پپتیدی`
+INFO: Upserting relation VDB: `ساختار اول پروتئین->پیوند پپتیدی`
+INFO: Upserting relation VDB: `شکل فضایی پروتئین->پرتو ایکس`
+INFO: Upserting relation VDB: `برهم‌کنش آب‌گریز->ساختار سوم پروتئین`
+INFO: Chunks appended from relation: `پیوند هیدروژنی`
+INFO: Upserting relation VDB: `ساختار چهارم پروتئین->هموگلوبین`
+INFO: Chunks appended from relation: `پروتئین`
+INFO: Upserting relation VDB: `ساختار دوم پروتئین->پیوند هیدروژنی`
+INFO: Upserting relation VDB: `آنزیم->نقش پروتئین‌ها`
+INFO: Upserting relation VDB: `آمینواسیدهای پروتئینی->پروتئین`
+INFO: Upserting relation VDB: `ساختار سوم پروتئین->میوگلوبین`
+INFO: Upserting relation VDB: `زنجیرهٔ آلفا و بتا->هموگلوبین`
+INFO: Upserting relation VDB: `نقش پروتئین‌ها->کلاژن`
+INFO: Upserting relation VDB: `آنزیم->انرژی فعال‌سازی`
+INFO: Chunks appended from relation: `هموگلوبین`
+INFO: Upserting relation VDB: `هم->هموگلوبین`
+INFO: Upserting relation VDB: `اکتین و میوزین->نقش پروتئین‌ها`
+INFO: Chunks appended from relation: `آنزیم`
+INFO: Upserting relation VDB: `آنزیم->جایگاه فعال`
+INFO: Chunks appended from relation: `میوگلوبین`
+INFO: Upserting relation VDB: `نقش پروتئین‌ها->پمپ سدیم-پتاسیم`
+INFO: Upserting relation VDB: `میوگلوبین->هم`
+INFO: Upserting relation VDB: `جایگاه فعال->پیش‌ماده`
+INFO: Upserting relation VDB: `آنزیم->فراورده`
+INFO: Upserting relation VDB: `مهارکننده->نقش پروتئین‌ها`
+INFO: Upserting relation VDB: `pH بهینه->عوامل مؤثر بر فعالیت آنزیم`
+INFO: Upserting relation VDB: `جایگاه فعال->سیانید و آرسنیک`
+INFO: Upserting relation VDB: `آنزیم->کوآنزیم`
+INFO: Merged: `هموگلوبین`~`کم‌خونی داسی‌شکل` | 2+1
+INFO: Upserting relation VDB: `نقش پروتئین‌ها->هورمون‌های پروتئینی`
+INFO: Upserting relation VDB: `دمای بهینه->عوامل مؤثر بر فعالیت آنزیم`
+INFO: Upserting relation VDB: `pH بهینه->پپسین`
+INFO: Chunks appended from relation: `هموگلوبین`
+INFO: Chunks appended from relation: `پیوند هیدروژنی`
+INFO: Chunks appended from relation: `آنزیم`
+INFO: Upserting relation VDB: `باکتری‌های مقاوم به گرما->پیوند هیدروژنی`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `هموگلوبین->کم‌خونی داسی‌شکل`
+INFO: Upserting relation VDB: `آنزیم->غلظت آنزیم و پیش‌ماده`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۲ جریان اطلاعات در یاخته`
+INFO: Chunks appended from relation: `آمینواسید`
+INFO: Upserting relation VDB: `آمینواسید->رمز`
+INFO: Chunks appended from relation: `ژن`
+INFO: Upserting relation VDB: `رونویسی->فصل ۲ جریان اطلاعات در یاخته`
+INFO: Upserting relation VDB: `ژن->کم‌خونی داسی‌شکل`
+INFO: Chunks appended from relation: `رنا`
+INFO: Upserting relation VDB: `رنا->رونویسی`
+INFO: Merged: `رنابسپاراز`~`رونویسی` | 1+1
+INFO: Upserting relation VDB: `رنابسپاراز->رونویسی`
+INFO: Merged: `راه‌انداز`~`رنابسپاراز` | 1+1
+INFO: Upserting relation VDB: `رونویسی->مرحلهٔ آغاز رونویسی`
+INFO: Upserting relation VDB: `راه‌انداز->رنابسپاراز`
+INFO: Upserting relation VDB: `رونویسی->مرحلهٔ طویل شدن`
+INFO: Upserting relation VDB: `رشتهٔ الگو->رشتهٔ رمزگذار`
+INFO: Chunks appended from relation: `رنای پیک`
+INFO: Upserting relation VDB: `رنابسپاراز->رنای پیک`
+INFO: Upserting relation VDB: `رونویسی->مرحلهٔ پایان رونویسی`
+INFO: Upserting relation VDB: `میانه->پیرایش`
+INFO: Upserting relation VDB: `رنای اولیه->رنای بالغ`
+INFO: Chunks appended from relation: `رنای ناقل`
+INFO: Upserting relation VDB: `رنابسپاراز->رنای ناقل`
+INFO: Upserting relation VDB: `بیانه->پیرایش`
+INFO: Chunks appended from relation: `همانندسازی دنا`
+INFO: Upserting relation VDB: `رونویسی->همانندسازی دنا`
+INFO: Chunks appended from relation: `رنای رناتنی`
+INFO: Upserting relation VDB: `رنای رناتنی->شدت رونویسی`
+INFO: Upserting relation VDB: `تغییرات رنای پیک->پیرایش`
+INFO: Upserting relation VDB: `بیانه->میانه`
+INFO: Chunks appended from relation: `رونویسی`
+INFO: Upserting relation VDB: `نقش زیستی میانه‌ها->پیرایش متفاوت`
+INFO: Upserting relation VDB: `رشتهٔ الگو->رونویسی`
+INFO: Chunks appended from relation: `رنای رناتنی`
+INFO: Upserting relation VDB: `رنابسپاراز->رنای رناتنی`
+INFO: Chunks appended from relation: `رنای پیک`
+INFO: Chunks appended from relation: `بیانه`
+INFO: Upserting relation VDB: `ترجمه->رنای پیک`
+INFO: Chunks appended from relation: `میانه`
+INFO: Upserting relation VDB: `بیانه->پیرایش متفاوت`
+INFO: Upserting relation VDB: `میانه->نقش زیستی میانه‌ها`
+INFO: Merged: `رمزهٔ آغاز`~`متیونین` | 1+1
+INFO: Chunks appended from relation: `رنابسپاراز`
+INFO: Upserting relation VDB: `رنابسپاراز->شدت رونویسی`
+INFO: Chunks appended from relation: `متیونین`
+INFO: Chunks appended from relation: `رنای پیک`
+INFO: Upserting relation VDB: `رمزهٔ آغاز->متیونین`
+INFO: Chunks appended from relation: `پلی‌پپتید`
+INFO: Upserting relation VDB: `رمزه->رنای پیک`
+INFO: Upserting relation VDB: `ترجمه->پلی‌پپتید`
+INFO: Chunks appended from relation: `پادرمزه`
+INFO: Upserting relation VDB: `رنای ناقل->پادرمزه`
+INFO: Chunks appended from relation: `ATP`
+INFO: Upserting relation VDB: `ترجمه->گفتار ۲ به سوی پروتئین`
+INFO: Upserting relation VDB: `ATP->عوامل لازم در ترجمه`
+INFO: Upserting relation VDB: `رمزه->پادرمزه`
+INFO: Chunks appended from relation: `پیوند هیدروژنی`
+INFO: Upserting relation VDB: `رنای ناقل->پیوند هیدروژنی`
+INFO: Chunks appended from relation: `ترجمه`
+INFO: Upserting relation VDB: `جایگاه A->رناتن`
+INFO: Upserting relation VDB: `ترجمه->رمزهٔ پایان`
+INFO: Upserting relation VDB: `آنزیم اتصال‌دهندهٔ آمینواسید به رنای ناقل->پادرمزه`
+INFO: Merged: `جایگاه A`~`پیوند پپتیدی` | 1+0 (dd 1)
+INFO: Upserting relation VDB: `جایگاه P->رناتن`
+INFO: Upserting relation VDB: `ترجمه->عوامل لازم در ترجمه`
+INFO: Chunks appended from relation: `پیوند پپتیدی`
+INFO: Upserting relation VDB: `متیونین->مرحلهٔ آغاز ترجمه`
+INFO: Chunks appended from relation: `رنای ناقل`
+INFO: Upserting relation VDB: `جایگاه A->پیوند پپتیدی`
+INFO: Merged: `جایگاه E`~`رناتن` | 1+1
+INFO: Upserting relation VDB: `آنزیم اتصال‌دهندهٔ آمینواسید به رنای ناقل->رنای ناقل`
+INFO: Upserting relation VDB: `جایگاه E->رناتن`
+INFO: Upserting relation VDB: `عوامل آزادکننده->مرحلهٔ پایان ترجمه`
+INFO: Chunks appended from relation: `ترجمه`
+INFO: Upserting relation VDB: `سرنوشت پروتئین‌ها->شبکهٔ آندوپلاسمی`
+INFO: Upserting relation VDB: `ترجمه->مرحلهٔ آغاز ترجمه`
+INFO: Chunks appended from relation: `رناتن`
+INFO: Upserting relation VDB: `رناتن->پلی‌زوم`
+INFO: Upserting relation VDB: `دستگاه گلژی->شبکهٔ آندوپلاسمی`
+INFO: Upserting relation VDB: `ترجمه->مرحلهٔ طویل شدن ترجمه`
+INFO: Chunks appended from relation: `رونویسی`
+INFO: Upserting relation VDB: `بیان ژن->تنظیم بیان ژن`
+INFO: Upserting relation VDB: `رونویسی->پروتئین‌سازی در پروکاریوت‌ها`
+INFO: Chunks appended from relation: `رنای پیک`
+INFO: Chunks appended from relation: `ترجمه`
+INFO: Upserting relation VDB: `دستگاه گلژی->کافنده‌تن`
+INFO: Upserting relation VDB: `رنای پیک->پلی‌زوم`
+INFO: Chunks appended from relation: `رنابسپاراز`
+INFO: Upserting relation VDB: `تنظیم بیان ژن->یاخته‌های بنیادی مغز استخوان`
+INFO: Upserting relation VDB: `ترجمه->مرحلهٔ پایان ترجمه`
+INFO: Upserting relation VDB: `تنظیم بیان ژن در پروکاریوت‌ها->رنابسپاراز`
+INFO: Upserting relation VDB: `اشرشیا کلای->لاکتوز`
+INFO: Merged: `تنظیم منفی رونویسی`~`مهارکننده` | 1+1
+INFO: Upserting relation VDB: `تنظیم بیان ژن->تنظیم بیان ژن نوری در گیاه`
+INFO: Merged: `تنظیم مثبت رونویسی`~`فعال‌کننده` | 1+1
+INFO: Upserting relation VDB: `اپران->تنظیم بیان ژن در پروکاریوت‌ها`
+INFO: Upserting relation VDB: `تنظیم منفی رونویسی->مهارکننده`
+INFO: Upserting relation VDB: `تنظیم مثبت رونویسی->فعال‌کننده`
+INFO: Merged: `اپراتور`~`مهارکننده` | 1+1
+INFO: Merged: `جایگاه اتصال فعال‌کننده`~`فعال‌کننده` | 1+1
+INFO: Chunks appended from relation: `راه‌انداز`
+INFO: Upserting relation VDB: `اپراتور->مهارکننده`
+INFO: Upserting relation VDB: `تنظیم بیان ژن در پروکاریوت‌ها->راه‌انداز`
+INFO: Upserting relation VDB: `جایگاه اتصال فعال‌کننده->فعال‌کننده`
+INFO: Upserting relation VDB: `تریپتوفان->تنظیم القایی و مهاری`
+INFO: Merged: `لاکتوز`~`مهارکننده` | 1+1
+INFO: Merged: `فعال‌کننده`~`مالتوز` | 1+1
+INFO: Merged: `تنظیم بیان ژن در یوکاریوت‌ها`~`عوامل رونویسی` | 1+1
+INFO: Chunks appended from relation: `لاکتوز`
+INFO: Upserting relation VDB: `فعال‌کننده->مالتوز`
+INFO: Upserting relation VDB: `تنظیم بیان ژن در یوکاریوت‌ها->عوامل رونویسی`
+INFO: Upserting relation VDB: `لاکتوز->مهارکننده`
+INFO: Merged: `رنابسپاراز`~`فعال‌کننده` | 1+1
+INFO: Merged: `توالی افزاینده`~`عوامل رونویسی` | 2+1
+INFO: Chunks appended from relation: `رنابسپاراز`
+INFO: Upserting relation VDB: `اپران->لاکتوز`
+INFO: Upserting relation VDB: `توالی افزاینده->عوامل رونویسی`
+INFO: Upserting relation VDB: `رنابسپاراز->فعال‌کننده`
+INFO: Upserting relation VDB: `تنظیم بیان ژن در یوکاریوت‌ها->تنظیم در سطح فام‌تنی`
+INFO: Chunks appended from relation: `رنای پیک`
+INFO: Upserting relation VDB: `رناهای کوچک مکمل->رنای پیک`
+INFO: Merged: `راه‌انداز`~`عوامل رونویسی` | 1+1
+INFO: Merged: `تنظیم بیان ژن در یوکاریوت‌ها`~`طول عمر رنای پیک` | 1+1
+INFO: Upserting relation VDB: `تنظیم القایی و مهاری->لاکتوز`
+INFO: Chunks appended from relation: `راه‌انداز`
+INFO: Chunks appended from relation: `رناتن`
+INFO: Upserting relation VDB: `تنظیم بیان ژن در یوکاریوت‌ها->طول عمر رنای پیک`
+INFO: Upserting relation VDB: `راه‌انداز->عوامل رونویسی`
+INFO: Chunks appended from relation: `تنظیم بیان ژن`
+INFO: Upserting relation VDB: `رناتن->ژن‌های همیشه‌بیان`
+INFO: Chunks appended from relation: `رنای رناتنی`
+INFO: Upserting relation VDB: `افزایش تعداد نسخهٔ ژن->رنای رناتنی`
+INFO: Upserting relation VDB: `تنظیم بیان ژن->غیرفعال شدن فام‌تن X`
+INFO: Merged: `رنابسپاراز`~`عوامل رونویسی` | 1+1
+INFO: Upserting relation VDB: `فصل ۳ انتقال اطلاعات در نسل‌ها->مندل`
+INFO: Upserting relation VDB: `تنظیم بیان ژن در یوکاریوت‌ها->رناهای کوچک مکمل`
+INFO: Chunks appended from relation: `رنابسپاراز`
+INFO: Chunks appended from relation: `دنا`
+INFO: Upserting relation VDB: `رنابسپاراز->عوامل رونویسی`
+INFO: Upserting relation VDB: `صفت->ژن‌شناسی`
+INFO: Upserting relation VDB: `پروتئین D->گروه خونی Rh`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `دنا->گامت`
+INFO: Upserting relation VDB: `مندل->نظریهٔ آمیختگی صفات`
+INFO: Upserting relation VDB: `جایگاه ژنی->دگره`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۳ انتقال اطلاعات در نسل‌ها`
+INFO: Upserting relation VDB: `بارز و نهفتگی->گروه خونی Rh`
+INFO: Upserting relation VDB: `رخ‌نمود->ژن‌نمود`
+INFO: Upserting relation VDB: `خالص و ناخالص->دگره`
+INFO: Upserting relation VDB: `جایگاه ژنی->فام‌تن شمارهٔ ۱`
+INFO: Chunks appended from relation: `صفت`
+INFO: Upserting relation VDB: `شکل‌های صفت->صفت`
+INFO: Upserting relation VDB: `گروه خونی ABO->گروه خونی Rh`
+INFO: Upserting relation VDB: `بارزیت ناقص->گل میمونی`
+INFO: Upserting relation VDB: `کربوهیدرات A و B->گروه خونی ABO`
+INFO: Chunks appended from relation: `گروه خونی Rh`
+INFO: Upserting relation VDB: `ژن‌نمودهای Rh->گروه خونی Rh`
+INFO: Upserting relation VDB: `بارزیت ناقص->هم‌توانی`
+INFO: Upserting relation VDB: `دگره‌های ABO->گروه خونی ABO`
+INFO: Upserting relation VDB: `صفت وابسته به X->فام‌تن جنسی`
+INFO: Chunks appended from relation: `گروه خونی Rh`
+INFO: Upserting relation VDB: `صفت مستقل از جنس->گروه خونی Rh`
+INFO: Upserting relation VDB: `ناقل->هموفیلی`
+INFO: Upserting relation VDB: `دگره‌های ABO->فام‌تن شمارهٔ ۹`
+INFO: Upserting relation VDB: `مربع پانت->پانت`
+INFO: Upserting relation VDB: `صفت وابسته به X->هموفیلی`
+INFO: Chunks appended from relation: `فصل ۳ انتقال اطلاعات در نسل‌ها`
+INFO: Upserting relation VDB: `فصل ۳ انتقال اطلاعات در نسل‌ها->گفتار ۲ انواع صفات`
+INFO: Upserting relation VDB: `دگره‌های ABO->هم‌توانی`
+INFO: Upserting relation VDB: `رنگ ذرت->صفت چندجایگاهی`
+INFO: Chunks appended from relation: `ژن‌نمود`
+INFO: Upserting relation VDB: `مربع پانت->ژن‌نمود`
+INFO: Upserting relation VDB: `هموفیلی->ژن‌نمودهای هموفیلی`
+INFO: Chunks appended from relation: `گروه خونی ABO`
+INFO: Upserting relation VDB: `صفت تک‌جایگاهی->گروه خونی ABO`
+INFO: Chunks appended from relation: `گروه خونی Rh`
+INFO: Chunks appended from relation: `بارز و نهفتگی`
+INFO: Upserting relation VDB: `صفت گسسته->گروه خونی Rh`
+INFO: Upserting relation VDB: `صفت پیوسته->صفت چندجایگاهی`
+INFO: Upserting relation VDB: `فنیل‌آلانین->فنیل‌کتونوری`
+INFO: Upserting relation VDB: `بارز و نهفتگی->دگره‌های ABO`
+INFO: Chunks appended from relation: `مربع پانت`
+INFO: Upserting relation VDB: `مثال ازدواج مرد هموفیل->مربع پانت`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `اثر محیط->فنیل‌کتونوری`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۴ تغییر در اطلاعات وراثتی`
+INFO: Upserting relation VDB: `زنجیرهٔ بتای هموگلوبین->کم‌خونی داسی‌شکل`
+INFO: Chunks appended from relation: `هموفیلی`
+INFO: Upserting relation VDB: `مثال ازدواج مرد هموفیل->هموفیلی`
+INFO: Upserting relation VDB: `جهش->فصل ۴ تغییر در اطلاعات وراثتی`
+INFO: Chunks appended from relation: `فنیل‌کتونوری`
+INFO: Upserting relation VDB: `آزمایش بدو تولد PKU->فنیل‌کتونوری`
+INFO: Chunks appended from relation: `جهش کوچک`
+INFO: Upserting relation VDB: `جهش جانشینی->جهش کوچک`
+INFO: Upserting relation VDB: `جهش->کم‌خونی داسی‌شکل`
+INFO: Upserting relation VDB: `جهش جانشینی->جهش دگرمعنا`
+INFO: Upserting relation VDB: `جهش اضافه و حذف->جهش کوچک`
+INFO: Upserting relation VDB: `جهش جانشینی->جهش خاموش`
+INFO: Upserting relation VDB: `جهش->جهش کوچک`
+INFO: Upserting relation VDB: `جهش اضافه و حذف->جهش تغییر چارچوب خواندن`
+INFO: Upserting relation VDB: `جهش دگرمعنا->کم‌خونی داسی‌شکل`
+INFO: Upserting relation VDB: `جهش بزرگ->کاریوتیپ`
+INFO: Upserting relation VDB: `جهش بی‌معنا->جهش جانشینی`
+INFO: Upserting relation VDB: `ناهنجاری عددی->نشانگان داون`
+INFO: Upserting relation VDB: `جهش->جهش بزرگ`
+INFO: Upserting relation VDB: `حذف فام‌تنی->ناهنجاری ساختاری`
+INFO: Chunks appended from relation: `رمزهٔ پایان`
+INFO: Upserting relation VDB: `جهش بی‌معنا->رمزهٔ پایان`
+INFO: Upserting relation VDB: `تغییرپذیری مادهٔ وراثتی->جهش`
+INFO: Upserting relation VDB: `جابه‌جایی->ناهنجاری ساختاری`
+INFO: Upserting relation VDB: `پیامدهای جهش->ژنگان`
+INFO: Upserting relation VDB: `مضاعف‌شدگی->ناهنجاری ساختاری`
+INFO: Chunks appended from relation: `راکیزه`
+INFO: Upserting relation VDB: `توالی بین ژنی->پیامدهای جهش`
+INFO: Upserting relation VDB: `علت جهش->پرتو فرابنفش`
+INFO: Upserting relation VDB: `راکیزه->ژنگان`
+INFO: Chunks appended from relation: `جهش بزرگ`
+INFO: Upserting relation VDB: `دوپار تیمین->پرتو فرابنفش`
+INFO: Upserting relation VDB: `جهش بزرگ->ناهنجاری ساختاری`
+INFO: Upserting relation VDB: `بنزوپیرن->علت جهش`
+INFO: Chunks appended from relation: `گامت`
+INFO: Upserting relation VDB: `جهش ارثی->گامت`
+INFO: Chunks appended from relation: `دنابسپاراز`
+INFO: Upserting relation VDB: `ناهنجاری ساختاری->واژگونی`
+INFO: Chunks appended from relation: `ناهنجاری عددی`
+INFO: Upserting relation VDB: `سدیم نیتریت->پیشگیری از سرطان`
+INFO: Upserting relation VDB: `دنابسپاراز->دوپار تیمین`
+INFO: Chunks appended from relation: `راه‌انداز`
+INFO: Upserting relation VDB: `جهش بزرگ->ناهنجاری عددی`
+INFO: Upserting relation VDB: `بنزوپیرن->جهش اکتسابی`
+INFO: Upserting relation VDB: `مقاومت باکتری به پادزیست->گفتار ۲ تغییر در جمعیت‌ها`
+INFO: Upserting relation VDB: `انتخاب طبیعی->تفاوت‌های فردی`
+INFO: Upserting relation VDB: `راه‌انداز->پیامدهای جهش`
+INFO: Upserting relation VDB: `جمعیت->خزانهٔ ژن`
+INFO: Upserting relation VDB: `تعادل ژنی->جهش`
+INFO: Upserting relation VDB: `انتخاب طبیعی->صفت سازگارتر با محیط`
+INFO: Merged: `جهش`~`خزانهٔ ژن` | 1+1
+INFO: Chunks appended from relation: `تعادل ژنی`
+INFO: Upserting relation VDB: `جهش->خزانهٔ ژن`
+INFO: Upserting relation VDB: `انتخاب طبیعی->جمعیت`
+INFO: Upserting relation VDB: `تعادل ژنی->رانش دگره‌ای`
+INFO: Merged: `خزانهٔ ژن`~`شارش ژن` | 1+1
+INFO: Chunks appended from relation: `مقاومت باکتری به پادزیست`
+INFO: Chunks appended from relation: `خزانهٔ ژن`
+INFO: Upserting relation VDB: `انتخاب طبیعی->مقاومت باکتری به پادزیست`
+INFO: Upserting relation VDB: `خزانهٔ ژن->شارش ژن`
+INFO: Upserting relation VDB: `انتخاب طبیعی->مثال تحمل سرما`
+INFO: Upserting relation VDB: `تعادل ژنی->شارش ژن`
+INFO: Chunks appended from relation: `تداوم گوناگونی`
+INFO: Upserting relation VDB: `آمیزش غیرتصادفی->تعادل ژنی`
+INFO: Upserting relation VDB: `تداوم گوناگونی->گوناگونی دگره‌ای در گامت‌ها`
+INFO: Upserting relation VDB: `آمیزش تصادفی->تعادل ژنی`
+INFO: Upserting relation VDB: `تداوم گوناگونی->نوترکیبی`
+INFO: Upserting relation VDB: `انتخاب طبیعی->تعادل ژنی`
+INFO: Upserting relation VDB: `چلیپایی شدن->چهارتایه`
+INFO: Upserting relation VDB: `اهمیت ناخالص‌ها->تداوم گوناگونی`
+INFO: Upserting relation VDB: `HbAHbS->مالاریا`
+INFO: Merged: `انتخاب طبیعی`~`رانش دگره‌ای` | 1+1
+INFO: Merged: `نوترکیبی`~`چلیپایی شدن` | 1+1
+INFO: Upserting relation VDB: `انتخاب طبیعی->رانش دگره‌ای`
+INFO: Upserting relation VDB: `نوترکیبی->چلیپایی شدن`
+INFO: Chunks appended from relation: `کم‌خونی داسی‌شکل`
+INFO: Upserting relation VDB: `میوز ۱->گوناگونی دگره‌ای در گامت‌ها`
+INFO: Upserting relation VDB: `HbSHbS->کم‌خونی داسی‌شکل`
+INFO: Upserting relation VDB: `سنگواره->شواهد تغییر گونه‌ها`
+INFO: Upserting relation VDB: `انتخاب طبیعی->داروین و والاس`
+INFO: Upserting relation VDB: `چلیپایی شدن->گامت نوترکیب`
+INFO: Upserting relation VDB: `تشریح مقایسه‌ای->شواهد تغییر گونه‌ها`
+INFO: Upserting relation VDB: `دیرینه‌شناس->سنگواره`
+INFO: Upserting relation VDB: `ساختار همتا->نیای مشترک`
+INFO: Upserting relation VDB: `انتخاب طبیعی->تداوم گوناگونی`
+INFO: Upserting relation VDB: `درخت گیسو->سنگواره`
+INFO: Upserting relation VDB: `نیای مشترک->گونه‌های خویشاوند`
+INFO: Upserting relation VDB: `ساختار آنالوگ->ساختار همتا`
+INFO: Chunks appended from relation: `ساختار وستیجیال`
+INFO: Chunks appended from relation: `شواهد تغییر گونه‌ها`
+INFO: Upserting relation VDB: `ساختار وستیجیال->مار پیتون`
+INFO: Upserting relation VDB: `شواهد تغییر گونه‌ها->مطالعات مولکولی`
+INFO: Upserting relation VDB: `ارنست مایر->گونه`
+INFO: Upserting relation VDB: `جدایی تولیدمثلی->گونه‌زایی`
+INFO: Upserting relation VDB: `تشریح مقایسه‌ای->ساختار همتا`
+INFO: Upserting relation VDB: `توالی‌های حفظ‌شده->مطالعات مولکولی`
+INFO: Chunks appended from relation: `شارش ژن`
+INFO: Upserting relation VDB: `شارش ژن->گونه‌زایی دگرمیهنی`
+INFO: Upserting relation VDB: `تشریح مقایسه‌ای->ساختار وستیجیال`
+INFO: Upserting relation VDB: `چندلادی->گونه‌زایی هم‌میهنی`
+INFO: Upserting relation VDB: `هوگو دووری->گل مغربی`
+INFO: Upserting relation VDB: `گونه‌زایی->گونه‌زایی دگرمیهنی`
+INFO: Upserting relation VDB: `گیاه سه‌لاد->گیاه چارلاد`
+INFO: Upserting relation VDB: `خطای میوزی->چندلادی`
+INFO: Chunks appended from relation: `گونه‌زایی دگرمیهنی`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `گونه‌زایی دگرمیهنی->گونه‌زایی هم‌میهنی`
+INFO: Upserting relation VDB: `گل مغربی->گیاه چارلاد`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۵ از ماده به انرژی`
+INFO: Upserting relation VDB: `ATP->تنفس یاخته‌ای هوازی`
+INFO: Upserting relation VDB: `گونه‌زایی->گونه‌زایی هم‌میهنی`
+INFO: Chunks appended from relation: `رانش دگره‌ای`
+INFO: Upserting relation VDB: `ساخته شدن ATP در سطح پیش‌ماده->کرآتین فسفات`
+INFO: Upserting relation VDB: `ADP->ATP`
+INFO: Upserting relation VDB: `رانش دگره‌ای->گونه‌زایی دگرمیهنی`
+INFO: Upserting relation VDB: `راکیزه->ساخته شدن اکسایشی ATP`
+INFO: Upserting relation VDB: `تنفس یاخته‌ای هوازی->فصل ۵ از ماده به انرژی`
+INFO: Chunks appended from relation: `گفتار ۳ تغییر در گونه‌ها`
+INFO: Merged: `قندکافت`~`پیرووات` | 1+1
+INFO: Upserting relation VDB: `گفتار ۳ تغییر در گونه‌ها->گونه‌زایی`
+INFO: Upserting relation VDB: `ATP->ساخته شدن نوری ATP`
+INFO: Upserting relation VDB: `ADP->AMP`
+INFO: Upserting relation VDB: `ساکارز->کربوهیدرات`
+INFO: Upserting relation VDB: `قندکافت->پیرووات`
+INFO: Merged: `NADH`~`قندکافت` | 1+1
+INFO: Upserting relation VDB: `راکیزه->غشای درونی راکیزه`
+INFO: Upserting relation VDB: `NADH->قندکافت`
+INFO: Upserting relation VDB: `راکیزه->فضای بین دو غشا`
+INFO: Upserting relation VDB: `فروکتوز دوفسفاته->قندکافت`
+INFO: Upserting relation VDB: `NAD+->NADH`
+INFO: Chunks appended from relation: `پیرووات`
+INFO: Upserting relation VDB: `اکسایش پیرووات->پیرووات`
+INFO: Chunks appended from relation: `ATP`
+INFO: Merged: `استیل کوآنزیم A`~`اکسایش پیرووات` | 1+1
+INFO: Upserting relation VDB: `NADH->اکسایش و کاهش`
+INFO: Upserting relation VDB: `چرخهٔ کربس->کربس`
+INFO: Upserting relation VDB: `ATP->قندکافت`
+INFO: Upserting relation VDB: `استیل کوآنزیم A->اکسایش پیرووات`
+INFO: Upserting relation VDB: `چرخهٔ کربس->گفتار ۲ اکسایش بیشتر`
+INFO: Chunks appended from relation: `تنفس یاخته‌ای هوازی`
+INFO: Upserting relation VDB: `اکسایش پیرووات->راکیزه`
+INFO: Upserting relation VDB: `تنفس یاخته‌ای هوازی->قندکافت`
+INFO: Chunks appended from relation: `غشای درونی راکیزه`
+INFO: Merged: `FADH2`~`چرخهٔ کربس` | 1+1
+INFO: Upserting relation VDB: `زنجیرهٔ انتقال الکترون->غشای درونی راکیزه`
+INFO: Upserting relation VDB: `FADH2->چرخهٔ کربس`
+INFO: Upserting relation VDB: `اکسیژن->زنجیرهٔ انتقال الکترون`
+INFO: Upserting relation VDB: `FAD->FADH2`
+INFO: Chunks appended from relation: `NADH`
+INFO: Upserting relation VDB: `آنزیم ATP‌ساز->شیب غلظت پروتون`
+INFO: Upserting relation VDB: `NADH->چرخهٔ کربس`
+INFO: Upserting relation VDB: `اکسیژن->یون اکسید`
+INFO: Merged: `استیل کوآنزیم A`~`چرخهٔ کربس` | 1+0 (dd 1)
+INFO: Upserting relation VDB: `زنجیرهٔ انتقال الکترون->شیب غلظت پروتون`
+INFO: Chunks appended from relation: `ساخته شدن اکسایشی ATP`
+INFO: Upserting relation VDB: `آنزیم ATP‌ساز->ساخته شدن اکسایشی ATP`
+INFO: Chunks appended from relation: `ATP`
+INFO: Chunks appended from relation: `کوآنزیم`
+INFO: Upserting relation VDB: `استیل کوآنزیم A->چرخهٔ کربس`
+INFO: Chunks appended from relation: `قندکافت`
+INFO: Upserting relation VDB: `ویتامین‌های B->کوآنزیم`
+INFO: Upserting relation VDB: `ATP->مغز`
+INFO: Upserting relation VDB: `قندکافت->مروری بر تنفس یاخته‌ای`
+INFO: Upserting relation VDB: `NADH->زنجیرهٔ انتقال الکترون`
+INFO: Chunks appended from relation: `راکیزه`
+INFO: Chunks appended from relation: `تنفس یاخته‌ای هوازی`
+INFO: Chunks appended from relation: `استیل کوآنزیم A`
+INFO: Upserting relation VDB: `تنفس باکتری‌ها->راکیزه`
+INFO: Chunks appended from relation: `ATP`
+INFO: Upserting relation VDB: `تنفس یاخته‌ای هوازی->منابع دیگر انرژی`
+INFO: Chunks appended from relation: `NAD+`
+INFO: Upserting relation VDB: `استیل کوآنزیم A->ویتامین‌های B`
+INFO: Chunks appended from relation: `چرخهٔ کربس`
+INFO: Upserting relation VDB: `ATP->تنظیم تنفس یاخته‌ای`
+INFO: Upserting relation VDB: `مروری بر تنفس یاخته‌ای->چرخهٔ کربس`
+INFO: Upserting relation VDB: `NAD+->تخمیر`
+INFO: Chunks appended from relation: `ADP`
+INFO: Chunks appended from relation: `تنفس یاخته‌ای هوازی`
+INFO: Upserting relation VDB: `ADP->تنظیم تنفس یاخته‌ای`
+INFO: Upserting relation VDB: `اتانال->تخمیر الکلی`
+INFO: Chunks appended from relation: `قندکافت`
+INFO: Upserting relation VDB: `بازده تنفس یاخته‌ای->تنفس یاخته‌ای هوازی`
+INFO: Upserting relation VDB: `تخمیر->قندکافت`
+INFO: Upserting relation VDB: `اتانول->تخمیر الکلی`
+INFO: Upserting relation VDB: `الکتات->تخمیر لاکتیکی`
+INFO: Upserting relation VDB: `تخمیر الکلی->ساکارومایسس سرویزیه`
+INFO: Upserting relation VDB: `تخمیر لاکتیکی->ماهیچهٔ اسکلتی`
+INFO: Chunks appended from relation: `زنجیرهٔ انتقال الکترون`
+INFO: Upserting relation VDB: `رادیکال آزاد->زنجیرهٔ انتقال الکترون`
+INFO: Upserting relation VDB: `تخمیر->تخمیر الکلی`
+INFO: Upserting relation VDB: `پاداکسنده->کاروتنوئید`
+INFO: Upserting relation VDB: `تخمیر الکلی->تخمیر در گیاهان`
+INFO: Upserting relation VDB: `تخمیر->تخمیر لاکتیکی`
+INFO: Chunks appended from relation: `زنجیرهٔ انتقال الکترون`
+INFO: Upserting relation VDB: `رادیکال آزاد->پاداکسنده`
+INFO: Upserting relation VDB: `زنجیرهٔ انتقال الکترون->سیانید`
+INFO: Chunks appended from relation: `هموگلوبین`
+INFO: Upserting relation VDB: `تخمیر->گفتار ۳ زیستن مستقل از اکسیژن`
+INFO: Upserting relation VDB: `اثر الکل بر کبد->رادیکال آزاد`
+INFO: Upserting relation VDB: `هموگلوبین->کربن مونواکسید`
+INFO: Upserting relation VDB: `زنجیرهٔ انتقال الکترون->هیدروژن سیانید`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۶ از انرژی به ماده`
+INFO: Upserting relation VDB: `رادیکال آزاد->نقص ژنی زنجیرهٔ انتقال الکترون`
+INFO: Chunks appended from relation: `راکیزه`
+INFO: Upserting relation VDB: `زنجیرهٔ انتقال الکترون->کربن مونواکسید`
+INFO: Upserting relation VDB: `میانبرگ->پهنک`
+INFO: Upserting relation VDB: `اثر الکل بر کبد->راکیزه`
+INFO: Upserting relation VDB: `فتوسنتز->فصل ۶ از انرژی به ماده`
+INFO: Chunks appended from relation: `اثر الکل بر کبد`
+INFO: Upserting relation VDB: `برگ->فتوسنتز`
+INFO: Upserting relation VDB: `اثر الکل بر کبد->سیروز کبدی`
+INFO: Upserting relation VDB: `فتوسیستم->مرکز واکنش`
+INFO: Chunks appended from relation: `سبزدیسه`
+INFO: Upserting relation VDB: `برگ->پهنک`
+INFO: Upserting relation VDB: `سبزینهٔ a و b->فتوسیستم`
+INFO: Upserting relation VDB: `سبزدیسه->فتوسنتز`
+INFO: Upserting relation VDB: `فتوسیستم->کاروتنوئید`
+INFO: Upserting relation VDB: `تیلاکوئید->سبزدیسه`
+INFO: Chunks appended from relation: `فتوسیستم ۱`
+INFO: Upserting relation VDB: `فتوسیستم ۱->مرکز واکنش`
+INFO: Upserting relation VDB: `فتوسیستم->ناقل الکترون`
+INFO: Upserting relation VDB: `بستره->سبزدیسه`
+INFO: Upserting relation VDB: `آزمایش اسپیروژیر->اسپیروژیر`
+INFO: Chunks appended from relation: `هم`
+INFO: Chunks appended from relation: `فتوسیستم ۲`
+INFO: Upserting relation VDB: `سبزینه->هم`
+INFO: Upserting relation VDB: `الکترون برانگیخته->واکنش‌های وابسته به نور`
+INFO: Upserting relation VDB: `فتوسیستم ۲->مرکز واکنش`
+INFO: Upserting relation VDB: `تیلاکوئید->فتوسیستم`
+INFO: Chunks appended from relation: `راکیزه`
+INFO: Upserting relation VDB: `راکیزه->سبزدیسه`
+INFO: Upserting relation VDB: `واکنش‌های وابسته به نور->گفتار ۲ واکنش‌های فتوسنتزی`
+INFO: Upserting relation VDB: `آزمایش اسپیروژیر->سبزینه`
+INFO: Upserting relation VDB: `فتوسیستم ۱->فتوسیستم ۲`
+INFO: Upserting relation VDB: `شیب پروتون تیلاکوئید->پمپ پروتون تیلاکوئید`
+INFO: Upserting relation VDB: `تجزیهٔ نوری آب->فتوسیستم ۲`
+INFO: Upserting relation VDB: `NADPH->فتوسیستم ۱`
+INFO: Upserting relation VDB: `آنزیم ATP‌ساز->شیب پروتون تیلاکوئید`
+INFO: Upserting relation VDB: `ریبولوزبیس‌فسفات->چرخهٔ کالوین`
+INFO: Chunks appended from relation: `اکسیژن`
+INFO: Chunks appended from relation: `NADPH`
+INFO: Upserting relation VDB: `اکسیژن->تجزیهٔ نوری آب`
+INFO: Upserting relation VDB: `NADP+->NADPH`
+INFO: Chunks appended from relation: `تیلاکوئید`
+INFO: Chunks appended from relation: `بستره`
+INFO: Upserting relation VDB: `آنزیم ATP‌ساز->تیلاکوئید`
+INFO: Upserting relation VDB: `روبیسکو->ریبولوزبیس‌فسفات`
+INFO: Upserting relation VDB: `بستره->چرخهٔ کالوین`
+INFO: Upserting relation VDB: `تجزیهٔ نوری آب->شیب پروتون تیلاکوئید`
+INFO: Chunks appended from relation: `آنزیم ATP‌ساز`
+INFO: Chunks appended from relation: `ATP`
+INFO: Upserting relation VDB: `کالوین->کربن ۱۴`
+INFO: Upserting relation VDB: `بسته شدن روزنه->تنفس نوری`
+INFO: Upserting relation VDB: `آنزیم ATP‌ساز->ساخته شدن نوری ATP`
+INFO: Upserting relation VDB: `ATP->چرخهٔ کالوین`
+INFO: Merged: `چرخهٔ کالوین`~`گیاهان C3` | 1+1
+INFO: Chunks appended from relation: `روبیسکو`
+INFO: Upserting relation VDB: `چرخهٔ کالوین->گیاهان C3`
+INFO: Upserting relation VDB: `تنفس نوری->روبیسکو`
+INFO: Chunks appended from relation: `NADPH`
+INFO: Chunks appended from relation: `راکیزه`
+INFO: Upserting relation VDB: `NADPH->چرخهٔ کالوین`
+INFO: Chunks appended from relation: `فتوسنتز`
+INFO: Upserting relation VDB: `تنفس نوری->راکیزه`
+INFO: Upserting relation VDB: `اثر محیط بر فتوسنتز->فتوسنتز`
+INFO: Upserting relation VDB: `تثبیت کربن->چرخهٔ کالوین`
+INFO: Upserting relation VDB: `گیاهان C4->یاختهٔ غلاف آوندی`
+INFO: Upserting relation VDB: `تنفس نوری->فتوسنتز`
+INFO: Chunks appended from relation: `چرخهٔ کالوین`
+INFO: Upserting relation VDB: `فسفوانول‌پیرووات کربوکسیلاز->گیاهان C4`
+INFO: Upserting relation VDB: `تنفس نوری->گفتار ۳ فتوسنتز در شرایط دشوار`
+INFO: Upserting relation VDB: `چرخهٔ کالوین->کالوین`
+INFO: Upserting relation VDB: `آناناس->گیاهان CAM`
+INFO: Upserting relation VDB: `پلاسمودسم->گیاهان C4`
+INFO: Chunks appended from relation: `چرخهٔ کالوین`
+INFO: Upserting relation VDB: `جانداران فتوسنتزکنندهٔ دیگر->سیانوباکتری`
+INFO: Upserting relation VDB: `چرخهٔ کالوین->گیاهان CAM`
+INFO: Chunks appended from relation: `سبزینهٔ a و b`
+INFO: Upserting relation VDB: `باکتریوکلروفیل->باکتری‌های گوگردی ارغوانی و سبز`
+INFO: Upserting relation VDB: `گیاهان C4->گیاهان CAM`
+INFO: Upserting relation VDB: `سبزینهٔ a و b->سیانوباکتری`
+INFO: Upserting relation VDB: `باکتری‌های گوگردی ارغوانی و سبز->هیدروژن سولفید`
+INFO: Chunks appended from relation: `گیاهان C3`
+INFO: Upserting relation VDB: `آغازیان فتوسنتزکننده->اوگلنا`
+INFO: Upserting relation VDB: `گیاهان C3->گیاهان C4`
+INFO: Chunks appended from relation: `گیاهان CAM`
+INFO: Upserting relation VDB: `مقایسهٔ فتوسنتز C3، C4 و CAM->گیاهان CAM`
+INFO: Upserting relation VDB: `باکتری‌های گوگردی ارغوانی و سبز->سیانوباکتری`
+INFO: Merged: `تنفس نوری`~`گیاهان C4` | 1+1
+INFO: Upserting relation VDB: `باکتری‌های شیمیوسنتزکننده->شیمیوسنتز`
+INFO: Chunks appended from relation: `تنفس نوری`
+INFO: Upserting relation VDB: `تنفس نوری->گیاهان C4`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `باکتری‌های شیمیوسنتزکننده->باکتری‌های نیترات‌ساز`
+INFO: Chunks appended from relation: `هیدروژن سولفید`
+INFO: Upserting relation VDB: `شیمیوسنتز->هیدروژن سولفید`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۷ فناوری‌های نوین زیستی`
+INFO: Upserting relation VDB: `ذرت->گیاهان C4`
+INFO: Upserting relation VDB: `باکتری‌های شیمیوسنتزکننده->کرم‌های لوله‌ای`
+INFO: Upserting relation VDB: `زیست‌فناوری->فصل ۷ فناوری‌های نوین زیستی`
+INFO: Upserting relation VDB: `تاج خروس->گیاهان C4`
+INFO: Upserting relation VDB: `زیست‌فناوری نوین->مهندسی ژنتیک`
+INFO: Upserting relation VDB: `جاندار تراژنی->مهندسی ژنتیک`
+INFO: Chunks appended from relation: `تخمیر`
+INFO: Upserting relation VDB: `تخمیر->زیست‌فناوری سنتی`
+INFO: Upserting relation VDB: `زیست‌فناوری->مهندسی ژنتیک`
+INFO: Upserting relation VDB: `آنزیم برش‌دهنده->همسانه‌سازی دنا`
+INFO: Upserting relation VDB: `زیست‌فناوری->زیست‌فناوری سنتی`
+INFO: Upserting relation VDB: `EcoRI->آنزیم برش‌دهنده`
+INFO: Upserting relation VDB: `زیست‌فناوری->زیست‌فناوری کلاسیک`
+INFO: Upserting relation VDB: `EcoRI->جایگاه تشخیص`
+INFO: Upserting relation VDB: `دنای نوترکیب->ناقل همسانه‌سازی`
+INFO: Upserting relation VDB: `زیست‌فناوری->زیست‌فناوری نوین`
+INFO: Upserting relation VDB: `EcoRI->انتهای چسبنده`
+INFO: Upserting relation VDB: `دیسک->ناقل همسانه‌سازی`
+INFO: Upserting relation VDB: `دنای نوترکیب->همسانه‌سازی دنا`
+INFO: Chunks appended from relation: `مهندسی ژنتیک`
+INFO: Upserting relation VDB: `مراحل تولید گیاه تراژنی->مهندسی ژنتیک`
+INFO: Upserting relation VDB: `زیست‌فناوری->شاخه‌های رنگی زیست‌فناوری`
+INFO: Chunks appended from relation: `پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `آنزیم لیگاز->دنای نوترکیب`
+INFO: Upserting relation VDB: `EcoRI->پیوند فسفودی‌استر`
+INFO: Chunks appended from relation: `دیسک`
+INFO: Upserting relation VDB: `دیسک->ژن مقاومت به پادزیست`
+INFO: Upserting relation VDB: `زیست‌فناوری->مهندسی پروتئین`
+INFO: Chunks appended from relation: `ناقل همسانه‌سازی`
+INFO: Upserting relation VDB: `باکتری‌خوار->ناقل همسانه‌سازی`
+INFO: Upserting relation VDB: `دنای نوترکیب->وارد کردن دنای نوترکیب به یاختهٔ میزبان`
+INFO: Chunks appended from relation: `پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `آنزیم لیگاز->پیوند فسفودی‌استر`
+INFO: Upserting relation VDB: `آمپی‌سیلین->جداسازی یاخته‌های تراژنی`
+INFO: Upserting relation VDB: `جایگاه شروع همانندسازی->دیسک`
+INFO: Chunks appended from relation: `همسانه‌سازی دنا`
+INFO: Upserting relation VDB: `افزایش پایداری پروتئین->مهندسی پروتئین`
+INFO: Upserting relation VDB: `همسانه‌سازی دنا->وارد کردن دنای نوترکیب به یاختهٔ میزبان`
+INFO: Chunks appended from relation: `انتهای چسبنده`
+INFO: Upserting relation VDB: `آنزیم لیگاز->انتهای چسبنده`
+INFO: Chunks appended from relation: `ژن مقاومت به پادزیست`
+INFO: Upserting relation VDB: `جداسازی یاخته‌های تراژنی->ژن مقاومت به پادزیست`
+INFO: Upserting relation VDB: `مهندسی پروتئین->گفتار ۲ فناوری مهندسی پروتئین و بافت`
+INFO: Upserting relation VDB: `آمیلاز->افزایش پایداری پروتئین`
+INFO: Upserting relation VDB: `لخته در سرخرگ‌ها->پلاسمین`
+INFO: Upserting relation VDB: `مهندسی بافت->یاخته‌های بنیادی`
+INFO: Chunks appended from relation: `مهندسی پروتئین`
+INFO: Chunks appended from relation: `باکتری‌های مقاوم به گرما`
+INFO: Upserting relation VDB: `اینترفرون->مهندسی پروتئین`
+INFO: Upserting relation VDB: `آمیلاز->باکتری‌های مقاوم به گرما`
+INFO: Upserting relation VDB: `غضروف->مهندسی بافت`
+INFO: Merged: `مهندسی پروتئین`~`پلاسمین` | 1+1
+INFO: Upserting relation VDB: `یاخته‌های بنیادی->یاخته‌های بنیادی بالغ`
+INFO: Upserting relation VDB: `افزایش پایداری پروتئین->اینترفرون`
+INFO: Upserting relation VDB: `مهندسی پروتئین->پلاسمین`
+INFO: Upserting relation VDB: `گفتار ۳ کاربردهای زیست‌فناوری->گیاه مقاوم به آفت`
+INFO: Upserting relation VDB: `یاخته‌های بنیادی->یاخته‌های بنیادی جنینی`
+INFO: Chunks appended from relation: `یاخته‌های بنیادی مغز استخوان`
+INFO: Upserting relation VDB: `یاخته‌های بنیادی بالغ->یاخته‌های بنیادی مغز استخوان`
+INFO: Upserting relation VDB: `پیش‌سم باکتری خاکزی->گیاه مقاوم به آفت`
+INFO: Chunks appended from relation: `مورولا و بلاستولا`
+INFO: Upserting relation VDB: `انسولین->تولید دارو با دنای نوترکیب`
+INFO: Upserting relation VDB: `مورولا و بلاستولا->یاخته‌های بنیادی جنینی`
+INFO: Upserting relation VDB: `پنبهٔ مقاوم->گیاه مقاوم به آفت`
+INFO: Chunks appended from relation: `آنزیم`
+INFO: Chunks appended from relation: `دیسک`
+INFO: Upserting relation VDB: `آنزیم->پیش‌سم باکتری خاکزی`
+INFO: Upserting relation VDB: `تولید انسولین با مهندسی ژنتیک->دیسک`
+INFO: Upserting relation VDB: `انسولین->زنجیرهٔ C`
+INFO: Upserting relation VDB: `واکسن نوترکیب->واکسن هپاتیت B`
+INFO: Chunks appended from relation: `همسانه‌سازی دنا`
+INFO: Merged: `اولین ژن‌درمانی موفق`~`ژن‌درمانی` | 1+1
+INFO: Chunks appended from relation: `گفتار ۳ کاربردهای زیست‌فناوری`
+INFO: Upserting relation VDB: `همسانه‌سازی دنا->گیاه مقاوم به آفت`
+INFO: Upserting relation VDB: `تولید دارو با دنای نوترکیب->گفتار ۳ کاربردهای زیست‌فناوری`
+INFO: Upserting relation VDB: `اولین ژن‌درمانی موفق->ژن‌درمانی`
+INFO: Upserting relation VDB: `انسولین->دیابت نوع یک`
+INFO: Upserting relation VDB: `ایدز->تشخیص بیماری با زیست‌فناوری`
+INFO: Merged: `اولین ژن‌درمانی موفق`~`لنفوسیت` | 1+1
+INFO: Upserting relation VDB: `کشاورزی نوین->گیاه مقاوم به آفت`
+INFO: Upserting relation VDB: `کاربردهای زیست‌فناوری در کشاورزی->گفتار ۳ کاربردهای زیست‌فناوری`
+INFO: Upserting relation VDB: `شبیه‌سازی->پژوهشکدهٔ رویان`
+INFO: Upserting relation VDB: `اولین ژن‌درمانی موفق->لنفوسیت`
+INFO: Chunks appended from relation: `نوکلئیک اسید`
+INFO: Upserting relation VDB: `جانوران تراژنی->گوسفند تراژنی`
+INFO: Upserting relation VDB: `ایدز->نوکلئیک اسید`
+INFO: Chunks appended from relation: `زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `ایمنی زیستی->زیست‌فناوری و اخلاق`
+INFO: Chunks appended from relation: `گفتار ۳ کاربردهای زیست‌فناوری`
+INFO: Upserting relation VDB: `ژن‌درمانی->گفتار ۳ کاربردهای زیست‌فناوری`
+INFO: Upserting relation VDB: `زیست‌شناسی ۳->فصل ۸ رفتارهای جانوران`
+INFO: Upserting relation VDB: `جوجه کاکایی->رفتار غریزی`
+INFO: Upserting relation VDB: `رفتار مراقبت مادری موش->ژن B موش`
+INFO: Upserting relation VDB: `رفتار->فصل ۸ رفتارهای جانوران`
+INFO: Upserting relation VDB: `ویروس->ژن‌درمانی`
+INFO: Upserting relation VDB: `زیرنهنج->ژن B موش`
+INFO: Upserting relation VDB: `رفتار غریزی->رفتار مراقبت مادری موش`
+INFO: Chunks appended from relation: `جوجه کاکایی`
+INFO: Chunks appended from relation: `انتخاب طبیعی`
+INFO: Upserting relation VDB: `تین‌برگن، لورنز و فون فریش->رفتارشناسی`
+INFO: Upserting relation VDB: `جوجه کاکایی->یادگیری`
+INFO: Upserting relation VDB: `انتخاب طبیعی->فصل ۸ رفتارهای جانوران`
+INFO: Upserting relation VDB: `رفتار غریزی->یادگیری`
+INFO: Chunks appended from relation: `انتخاب طبیعی`
+INFO: Upserting relation VDB: `انتخاب طبیعی->بوم‌شناسی رفتاری`
+INFO: Merged: `رفتار`~`رفتار غریزی` | 1+0 (dd 1)
+INFO: Upserting relation VDB: `خوگیری->یادگیری`
+INFO: Upserting relation VDB: `رفتار->رفتار غریزی`
+INFO: Chunks appended from relation: `جوجه کاکایی`
+INFO: Upserting relation VDB: `جوجه کاکایی->کاکایی سرسیاه`
+INFO: Upserting relation VDB: `اسکینر->جعبهٔ اسکینر`
+INFO: Upserting relation VDB: `شرطی شدن کلاسیک->یادگیری`
+INFO: Upserting relation VDB: `شرطی شدن فعال->یادگیری`
+INFO: Upserting relation VDB: `شرطی شدن کلاسیک->پاولوف`
+INFO: Upserting relation VDB: `شرطی شدن فعال->پروانهٔ مونارک`
+INFO: Chunks appended from relation: `یادگیری`
+INFO: Upserting relation VDB: `شرطی شدن کلاسیک->محرک شرطی`
+INFO: Upserting relation VDB: `حل مسئله->یادگیری`
+INFO: Upserting relation VDB: `اسکینر->شرطی شدن فعال`
+INFO: Upserting relation VDB: `نقش‌پذیری->یادگیری`
+INFO: Upserting relation VDB: `حل مسئله->شامپانزه`
+INFO: Chunks appended from relation: `رفتار غریزی`
+INFO: Upserting relation VDB: `برهم‌کنش غریزه و یادگیری->رفتار غریزی`
+INFO: Upserting relation VDB: `لورنز->نقش‌پذیری`
+INFO: Chunks appended from relation: `خوگیری`
+INFO: Upserting relation VDB: `حل مسئله->کلاغ سیاه`
+INFO: Chunks appended from relation: `فصل ۸ رفتارهای جانوران`
+INFO: Upserting relation VDB: `خوگیری->شقایق دریایی`
+INFO: Chunks appended from relation: `یادگیری`
+INFO: Upserting relation VDB: `فصل ۸ رفتارهای جانوران->گفتار ۲ انتخاب طبیعی و رفتار`
+INFO: Upserting relation VDB: `آزمایش پوستهٔ تخم کاکایی->تین‌برگن`
+INFO: Upserting relation VDB: `برهم‌کنش غریزه و یادگیری->یادگیری`
+INFO: Upserting relation VDB: `دورهٔ حساس->نقش‌پذیری`
+INFO: Chunks appended from relation: `انتخاب طبیعی`
+INFO: Upserting relation VDB: `انتخاب طبیعی->رفتار سازگارکننده`
+INFO: Upserting relation VDB: `انتخاب جفت->زادآوری`
+INFO: Upserting relation VDB: `رنگ درخشان پرنده->طاووس`
+INFO: Upserting relation VDB: `جوجه‌غاز->نقش‌پذیری`
+INFO: Upserting relation VDB: `آزمایش پوستهٔ تخم کاکایی->رفتار سازگارکننده`
+INFO: Upserting relation VDB: `انتخاب جفت->طاووس`
+INFO: Upserting relation VDB: `نظام جفت‌گیری->چندهمسری`
+INFO: Upserting relation VDB: `غذایابی->غذایابی بهینه`
+INFO: Chunks appended from relation: `آمیزش غیرتصادفی`
+INFO: Chunks appended from relation: `طاووس`
+INFO: Upserting relation VDB: `تک‌همسری->نظام جفت‌گیری`
+INFO: Upserting relation VDB: `آمیزش غیرتصادفی->انتخاب جفت`
+INFO: Upserting relation VDB: `طاووس->چندهمسری`
+INFO: Upserting relation VDB: `خرچنگ ساحلی->غذایابی بهینه`
+INFO: Upserting relation VDB: `قلمرو->قلمروخواهی`
+INFO: Upserting relation VDB: `جهت‌یابی->مهاجرت`
+INFO: Chunks appended from relation: `انتخاب جفت`
+INFO: Upserting relation VDB: `میدان مغناطیسی زمین->کبوتر خانگی`
+INFO: Upserting relation VDB: `انتخاب جفت->صفات ثانویهٔ جنسی`
+INFO: Chunks appended from relation: `انتخاب طبیعی`
+INFO: Upserting relation VDB: `انتخاب طبیعی->غذایابی بهینه`
+INFO: Upserting relation VDB: `مهاجرت->پرندگان مهاجر`
+INFO: Upserting relation VDB: `الک‌پشت دریایی->میدان مغناطیسی زمین`
+INFO: Upserting relation VDB: `الک‌پشت منقار عقابی->جزیرهٔ شیدور`
+INFO: Upserting relation VDB: `انتخاب جفت->جیرجیرک`
+INFO: Upserting relation VDB: `خرس قهوه‌ای->خواب زمستانی`
+INFO: Upserting relation VDB: `جهت‌یابی->میدان مغناطیسی زمین`
+INFO: Chunks appended from relation: `یادگیری`
+INFO: Upserting relation VDB: `مهاجرت->یادگیری`
+INFO: Upserting relation VDB: `الک‌پشت منقار عقابی->ردیابی ماهواره‌ای الک‌پشت‌ها`
+INFO: Upserting relation VDB: `ارتباط بین جانوران->گفتار ۳ ارتباط و زندگی گروهی`
+INFO: Upserting relation VDB: `خواب زمستانی->رکود تابستانی`
+INFO: Upserting relation VDB: `ارتباط در زنبور عسل->فون فریش`
+INFO: Upserting relation VDB: `زندگی گروهی->مورچهٔ برگ‌بر`
+INFO: Chunks appended from relation: `مهاجرت`
+INFO: Upserting relation VDB: `الک‌پشت منقار عقابی->مهاجرت`
+INFO: Chunks appended from relation: `جیرجیرک`
+INFO: Upserting relation VDB: `ارتباط بین جانوران->جیرجیرک`
+INFO: Upserting relation VDB: `ارتباط در زنبور عسل->زنبور کارگر`
+INFO: Upserting relation VDB: `دگرخواهی->زندگی گروهی`
+INFO: Chunks appended from relation: `ارتباط بین جانوران`
+INFO: Upserting relation VDB: `ارتباط بین جانوران->فرومون`
+INFO: Upserting relation VDB: `دگرخواهی->زنبور کارگر`
+INFO: Upserting relation VDB: `ارتباط بین جانوران->ارتباط در زنبور عسل`
+INFO: Chunks appended from relation: `زندگی گروهی`
+INFO: Upserting relation VDB: `خویشاوندان->دگرخواهی`
+INFO: Upserting relation VDB: `زندگی گروهی->مزیت زندگی گروهی کبوترها`
+INFO: Upserting relation VDB: `دگره->واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Upserting relation VDB: `خفاش خون‌آشام->دگرخواهی`
+INFO: Chunks appended from relation: `زنبور کارگر`
+INFO: Upserting relation VDB: `خویشاوندان->زنبور کارگر`
+INFO: Upserting relation VDB: `رمزه->واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Upserting relation VDB: `دم‌عصایی->دگرخواهی`
+INFO: Upserting relation VDB: `واژه‌های مصوب فرهنگستان زیست ۳->پادرمزه`
+INFO: Upserting relation VDB: `دگرخواهی->یاریگر`
+INFO: Upserting relation VDB: `دفتر تألیف کتاب‌های درسی->کتاب زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `فام‌تن->واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Chunks appended from relation: `انتخاب طبیعی`
+INFO: Upserting relation VDB: `دفتر تألیف کتاب‌های درسی->سازمان پژوهش و برنامه‌ریزی آموزشی`
+INFO: Upserting relation VDB: `اعتبارسنجی کتاب زیست ۳->کتاب زیست‌شناسی ۳`
+INFO: Upserting relation VDB: `انتخاب طبیعی->دگرخواهی`
+INFO: Upserting relation VDB: `رناتن->واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Upserting relation VDB: `دیسک->واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Upserting relation VDB: `قندکافت->واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Chunks appended from relation: `واژه‌های مصوب فرهنگستان زیست ۳`
+INFO: Upserting relation VDB: `واژه‌های مصوب فرهنگستان زیست ۳->کتاب زیست‌شناسی ۳`
+INFO: Phase 2 relation processing completed for doc-44196875fe1b5053df21cd015b3e611e: edges=603 added_entities=3
+INFO: Completed merging: 566 entities, 3 extra entities, 603 relations
+INFO: [deeptutor_3134c3542b7ebbe2] entities flush: embedding 569 vectors in 57 batch(es) (batch_num=10)
+INFO: [deeptutor_3134c3542b7ebbe2] relationships flush: applied 0 deferred deletes (603 queued, 0 awaiting save)
+INFO: [deeptutor_3134c3542b7ebbe2] relationships flush: embedding 603 vectors in 61 batch(es) (batch_num=10)
+INFO: [deeptutor_3134c3542b7ebbe2] chunks flush: embedding 75 vectors in 8 batch(es) (batch_num=10)
+INFO: Embedding func: 8 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+INFO: [deeptutor_3134c3542b7ebbe2] Writing graph with 997 nodes, 1034 edges
+INFO: In memory DB persist to disk
+INFO: Completed processing file 1/1: zist3_textbook.md
+INFO: Enqueued document processing pipeline stopped
+INFO: extract LLM func: Shutting down priority queue workers
+INFO: keyword LLM func: Shutting down priority queue workers
+INFO: keyword LLM func: Priority queue workers shutdown complete
+INFO: query LLM func: Shutting down priority queue workers
+INFO: query LLM func: Priority queue workers shutdown complete
+INFO: vlm LLM func: Shutting down priority queue workers
+INFO: vlm LLM func: Priority queue workers shutdown complete
+INFO: Embedding func: Shutting down priority queue workers
+INFO: extract LLM func: Priority queue workers shutdown complete
+INFO: Embedding func: Priority queue workers shutdown complete
+INFO: Successfully finalized 12 storages
+INFO:     127.0.0.1:57890 - "GET /api/knowledge-bases/zist HTTP/1.1" 200 OK

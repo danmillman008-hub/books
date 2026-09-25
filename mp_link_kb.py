@@ -1,4 +1,4 @@
-"""Attach KB 'zist' (+ its two documents) as Mastery Path topic sources."""
+"""Attach KB 'zist' (+ its three documents) as Mastery Path topic sources."""
 import sys
 from pathlib import Path
 from deeptutor.learning.storage import LearningStore
@@ -12,6 +12,7 @@ src += [
   TopicSource(id="kb-zist", kind=TopicSourceKind.KNOWLEDGE_BASE, source_id="zist", label="پایگاه دانش زیست (LightRAG)"),
   TopicSource(id="file-jozve", kind=TopicSourceKind.FILE, source_id="jozve_nokte_test_zist.pdf", label="جزوهٔ نکته و تست زیست سنجش", metadata={"kb_name": "zist"}),
   TopicSource(id="file-booklet", kind=TopicSourceKind.FILE, source_id="konkur1405_zist_booklet.md", label="دفترچهٔ زیست کنکور ۱۴۰۵", metadata={"kb_name": "zist"}),
+  TopicSource(id="file-zist3", kind=TopicSourceKind.FILE, source_id="zist3_textbook.md", label="کتاب درسی زیست‌شناسی ۳ (پایهٔ دوازدهم)", metadata={"kb_name": "zist"}),
 ]
 t = s.put_topic(meta, src)
 print(path, [(x.kind.value, x.source_id) for x in t.sources])

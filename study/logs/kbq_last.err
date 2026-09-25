@@ -1,0 +1,42 @@
+INFO: [deeptutor_3134c3542b7ebbe2] Loaded graph from /home/user/books/study/home/data/knowledge_bases/zist/version-1/deeptutor_3134c3542b7ebbe2/graph_chunk_entity_relation.graphml with 997 nodes, 1034 edges
+INFO: Role LLM Configuration (initialized):
+INFO:  - extract: None/None, host=None, max_async=4, timeout=3600
+INFO:  - keyword: custom/843efa0e2e95d85f49f9f9006888193ba8c3cfa2ce7c9a7663431909d8c2ed34, host=None, max_async=4, timeout=3600
+INFO:  - query: custom/843efa0e2e95d85f49f9f9006888193ba8c3cfa2ce7c9a7663431909d8c2ed34, host=None, max_async=4, timeout=3600
+INFO:  - vlm: None/None, host=None, max_async=4, timeout=3600
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load full_docs with 3 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load text_chunks with 118 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load full_entities with 3 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load full_relations with 3 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load entity_chunks with 997 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load relation_chunks with 1034 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 KV load llm_response_cache with 121 records
+INFO: [deeptutor_3134c3542b7ebbe2] Process 1908 doc status load doc_status with 3 records
+INFO: keyword LLM func: 4 new workers initialized (Timeouts: Func: 3600s, Worker: 7200s, Health Check: 7215s)
+INFO:  == LLM cache == saving: hybrid:keywords:6da36fae3766536d99ad674f26d5dcb8
+INFO: Embedding func: 8 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+INFO: Query nodes: نقش‌پذیری, دورهٔ حساس, جوجه‌غاز, لورنز (top_k:40, cosine:0.2)
+INFO: Local query: 6 entites, 9 relations
+INFO: Query edges: یادگیری, رفتار جانوران (top_k:40, cosine:0.2)
+INFO: Global query: 26 entites, 23 relations
+INFO: Raw search results: 31 entities, 31 relations, 0 vector chunks
+INFO: After truncation: 31 entities, 31 relations
+INFO: Selecting 30 from 30 entity-related chunks by vector similarity
+INFO: Find no additional relations-related chunks from 31 relations
+INFO: Round-robin merged chunks: 30 -> 30 (deduplicated 0)
+WARNING: Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+INFO: Final context: 31 entities, 31 relations, 20 chunks
+INFO: Final chunks S+F/O: E10/1 E4/2 E3/3 E1/4 E5/5 E1/6 E1/7 E5/8 E1/9 E1/10 E2/11 E2/12 E1/13 E3/14 E1/15 E1/16 E2/17 E4/18 E1/19 E1/20
+INFO: query LLM func: 4 new workers initialized (Timeouts: Func: 3600s, Worker: 7200s, Health Check: 7215s)
+INFO:  == LLM cache == saving: hybrid:query:f4a075bcac1dcce839e6fba593166318
+INFO: extract LLM func: Shutting down priority queue workers
+INFO: extract LLM func: Priority queue workers shutdown complete
+INFO: keyword LLM func: Shutting down priority queue workers
+INFO: query LLM func: Shutting down priority queue workers
+INFO: vlm LLM func: Shutting down priority queue workers
+INFO: vlm LLM func: Priority queue workers shutdown complete
+INFO: Embedding func: Shutting down priority queue workers
+INFO: keyword LLM func: Priority queue workers shutdown complete
+INFO: query LLM func: Priority queue workers shutdown complete
+INFO: Embedding func: Priority queue workers shutdown complete
+INFO: Successfully finalized 12 storages

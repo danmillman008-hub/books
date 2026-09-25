@@ -209,10 +209,11 @@
   "توالی افزاینده<SEP>عوامل رونویسی": {
     "chunk_ids": [
       "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001",
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
     ],
-    "count": 2,
-    "update_time": 1790333582,
+    "count": 3,
+    "update_time": 1790343240,
     "_id": "توالی افزاینده<SEP>عوامل رونویسی"
   },
   "سؤال ۱۰ کنکور ۱۴۰۵<SEP>کم‌خونی داسی‌شکل": {
@@ -1218,21 +1219,21 @@
   },
   "رنابسپاراز<SEP>رونویسی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "رنابسپاراز<SEP>رونویسی"
   },
   "هموگلوبین<SEP>کم‌خونی داسی‌شکل": {
     "chunk_ids": [
       "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
     ],
-    "count": 2,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 3,
+    "update_time": 1790343240,
     "_id": "هموگلوبین<SEP>کم‌خونی داسی‌شکل"
   },
   "آغاز رونویسی<SEP>رونویسی": {
@@ -1246,11 +1247,11 @@
   },
   "راه‌انداز<SEP>رنابسپاراز": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "راه‌انداز<SEP>رنابسپاراز"
   },
   "هموگلوبین<SEP>گویچهٔ قرمز": {
@@ -1282,11 +1283,11 @@
   },
   "رمزهٔ آغاز<SEP>متیونین": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "رمزهٔ آغاز<SEP>متیونین"
   },
   "رونویسی<SEP>پایان رونویسی": {
@@ -1318,20 +1319,20 @@
   },
   "جایگاه A<SEP>پیوند پپتیدی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "جایگاه A<SEP>پیوند پپتیدی"
   },
   "جایگاه E<SEP>رناتن": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "جایگاه E<SEP>رناتن"
   },
   "رنای ناقل<SEP>رنای پیک": {
@@ -1426,11 +1427,11 @@
   },
   "اپراتور<SEP>مهارکننده": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "اپراتور<SEP>مهارکننده"
   },
   "جایگاه E<SEP>طویل‌شدن ترجمه": {
@@ -1453,29 +1454,29 @@
   },
   "تنظیم مثبت رونویسی<SEP>فعال‌کننده": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "تنظیم مثبت رونویسی<SEP>فعال‌کننده"
   },
   "لاکتوز<SEP>مهارکننده": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "لاکتوز<SEP>مهارکننده"
   },
   "جایگاه اتصال فعال‌کننده<SEP>فعال‌کننده": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "جایگاه اتصال فعال‌کننده<SEP>فعال‌کننده"
   },
   "تنظیم بیان ژن در پروکاریوت‌ها<SEP>تنظیم مثبت رونویسی": {
@@ -1498,47 +1499,47 @@
   },
   "فعال‌کننده<SEP>مالتوز": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "فعال‌کننده<SEP>مالتوز"
   },
   "تنظیم بیان ژن در یوکاریوت‌ها<SEP>عوامل رونویسی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "تنظیم بیان ژن در یوکاریوت‌ها<SEP>عوامل رونویسی"
   },
   "تنظیم منفی رونویسی<SEP>مهارکننده": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "تنظیم منفی رونویسی<SEP>مهارکننده"
   },
   "رنابسپاراز<SEP>فعال‌کننده": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "رنابسپاراز<SEP>فعال‌کننده"
   },
   "راه‌انداز<SEP>عوامل رونویسی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "راه‌انداز<SEP>عوامل رونویسی"
   },
   "اشرشیاکلای<SEP>تنظیم منفی رونویسی": {
@@ -1579,20 +1580,20 @@
   },
   "تنظیم بیان ژن در یوکاریوت‌ها<SEP>طول عمر رنای پیک": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "تنظیم بیان ژن در یوکاریوت‌ها<SEP>طول عمر رنای پیک"
   },
   "رنابسپاراز<SEP>عوامل رونویسی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "رنابسپاراز<SEP>عوامل رونویسی"
   },
   "توالی افزاینده<SEP>خمیدگی دنا": {
@@ -1651,20 +1652,20 @@
   },
   "NADH<SEP>قندکافت": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "NADH<SEP>قندکافت"
   },
   "استیل کوآنزیم A<SEP>اکسایش پیرووات": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "استیل کوآنزیم A<SEP>اکسایش پیرووات"
   },
   "اگزالواستات<SEP>چرخهٔ کربس": {
@@ -1687,20 +1688,20 @@
   },
   "قندکافت<SEP>پیرووات": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "قندکافت<SEP>پیرووات"
   },
   "FADH2<SEP>چرخهٔ کربس": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "FADH2<SEP>چرخهٔ کربس"
   },
   "تقسیم یاخته<SEP>میتوز": {
@@ -1759,11 +1760,11 @@
   },
   "استیل کوآنزیم A<SEP>چرخهٔ کربس": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "استیل کوآنزیم A<SEP>چرخهٔ کربس"
   },
   "تنفس یاخته‌ای هوازی<SEP>زنجیرهٔ انتقال الکترون": {
@@ -1858,11 +1859,11 @@
   },
   "آزمایش گریفیت<SEP>گریفیت": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "آزمایش گریفیت<SEP>گریفیت"
   },
   "تتراد<SEP>پروفاز ۱": {
@@ -1885,11 +1886,11 @@
   },
   "واتسون و کریک<SEP>چارگاف": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "واتسون و کریک<SEP>چارگاف"
   },
   "ایوری<SEP>گریفیت": {
@@ -1921,11 +1922,11 @@
   },
   "واتسون و کریک<SEP>ویلکینز و فرانکلین": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "واتسون و کریک<SEP>ویلکینز و فرانکلین"
   },
   "مزلسون و استال<SEP>همانندسازی نیمه‌حفاظتی": {
@@ -1939,11 +1940,11 @@
   },
   "پروکاریوت<SEP>یوکاریوت": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "پروکاریوت<SEP>یوکاریوت"
   },
   "دنا<SEP>واتسون و کریک": {
@@ -1984,11 +1985,11 @@
   },
   "دیسک<SEP>پروکاریوت": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "دیسک<SEP>پروکاریوت"
   },
   "تعادل ژنی جمعیت<SEP>رانش دگره‌ای": {
@@ -2029,11 +2030,11 @@
   },
   "جهش<SEP>خزانهٔ ژن": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "جهش<SEP>خزانهٔ ژن"
   },
   "آمیزش غیرتصادفی<SEP>تعادل ژنی جمعیت": {
@@ -2056,20 +2057,20 @@
   },
   "خزانهٔ ژن<SEP>شارش ژن": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "خزانهٔ ژن<SEP>شارش ژن"
   },
   "نوترکیبی<SEP>چلیپایی شدن": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "نوترکیبی<SEP>چلیپایی شدن"
   },
   "انتخاب طبیعی<SEP>تعادل ژنی جمعیت": {
@@ -2119,11 +2120,11 @@
   },
   "انتخاب طبیعی<SEP>رانش دگره‌ای": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "انتخاب طبیعی<SEP>رانش دگره‌ای"
   },
   "آمیلاز<SEP>مهندسی پروتئین": {
@@ -2173,20 +2174,20 @@
   },
   "مهندسی پروتئین<SEP>پلاسمین": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "مهندسی پروتئین<SEP>پلاسمین"
   },
   "اولین ژن‌درمانی موفق<SEP>ژن‌درمانی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "اولین ژن‌درمانی موفق<SEP>ژن‌درمانی"
   },
   "انسولین<SEP>فناوری دنای نوترکیب": {
@@ -2209,11 +2210,11 @@
   },
   "اولین ژن‌درمانی موفق<SEP>لنفوسیت": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "اولین ژن‌درمانی موفق<SEP>لنفوسیت"
   },
   "انسولین<SEP>پیش‌هورمون انسولین": {
@@ -2236,20 +2237,20 @@
   },
   "تنفس نوری<SEP>گیاهان C4": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "تنفس نوری<SEP>گیاهان C4"
   },
   "چرخهٔ کالوین<SEP>گیاهان C3": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "چرخهٔ کالوین<SEP>گیاهان C3"
   },
   "زنجیرهٔ انتقال الکترون راکیزه<SEP>زنجیرهٔ انتقال الکترون سبزدیسه": {
@@ -3172,11 +3173,11 @@
   },
   "رفتار<SEP>رفتار غریزی": {
     "chunk_ids": [
-      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
     ],
-    "count": 1,
-    "create_time": 1790333582,
-    "update_time": 1790333582,
+    "count": 2,
+    "update_time": 1790343240,
     "_id": "رفتار<SEP>رفتار غریزی"
   },
   "جفت<SEP>پستانداران جفت‌دار": {
@@ -4222,5 +4223,5095 @@
     "create_time": 1790333582,
     "update_time": 1790333582,
     "_id": "آنتی‌ژن<SEP>خط سوم دفاع"
+  },
+  "استرپتوکوکوس نومونیا<SEP>باکتری پوشینه‌دار": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "استرپتوکوکوس نومونیا<SEP>باکتری پوشینه‌دار"
+  },
+  "میشر<SEP>نوکلئیک اسید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میشر<SEP>نوکلئیک اسید"
+  },
+  "دنا<SEP>فام‌تن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنا<SEP>فام‌تن"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۱ مولکول‌های اطلاعاتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۱ مولکول‌های اطلاعاتی"
+  },
+  "باکتری پوشینه‌دار<SEP>پوشینه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری پوشینه‌دار<SEP>پوشینه"
+  },
+  "آزمایش گریفیت<SEP>استرپتوکوکوس نومونیا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش گریفیت<SEP>استرپتوکوکوس نومونیا"
+  },
+  "دنا<SEP>ژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنا<SEP>ژن"
+  },
+  "آزمایش‌های ایوری<SEP>ایوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش‌های ایوری<SEP>ایوری"
+  },
+  "نوکلئوتید<SEP>نوکلئیک اسید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نوکلئوتید<SEP>نوکلئیک اسید"
+  },
+  "دنا<SEP>فصل ۱ مولکول‌های اطلاعاتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنا<SEP>فصل ۱ مولکول‌های اطلاعاتی"
+  },
+  "رنا<SEP>ریبوز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>ریبوز"
+  },
+  "تیمین<SEP>پیریمیدین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تیمین<SEP>پیریمیدین"
+  },
+  "آزمایش‌های ایوری<SEP>دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش‌های ایوری<SEP>دنا"
+  },
+  "پیریمیدین<SEP>یوراسیل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پیریمیدین<SEP>یوراسیل"
+  },
+  "دئوکسی‌ریبوز<SEP>دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دئوکسی‌ریبوز<SEP>دنا"
+  },
+  "آزمایش‌های ایوری<SEP>گریزانه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش‌های ایوری<SEP>گریزانه"
+  },
+  "رشتهٔ پلی‌نوکلئوتیدی<SEP>پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رشتهٔ پلی‌نوکلئوتیدی<SEP>پیوند فسفودی‌استر"
+  },
+  "رنا<SEP>یوراسیل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>یوراسیل"
+  },
+  "تیمین<SEP>دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تیمین<SEP>دنا"
+  },
+  "آزمایش گریفیت<SEP>آزمایش‌های ایوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش گریفیت<SEP>آزمایش‌های ایوری"
+  },
+  "دنای حلقوی<SEP>پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای حلقوی<SEP>پیوند فسفودی‌استر"
+  },
+  "پورین<SEP>پیریمیدین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پورین<SEP>پیریمیدین"
+  },
+  "رشتهٔ پلی‌نوکلئوتیدی<SEP>رنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رشتهٔ پلی‌نوکلئوتیدی<SEP>رنا"
+  },
+  "جفت بازهای مکمل<SEP>چارگاف": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جفت بازهای مکمل<SEP>چارگاف"
+  },
+  "آزمایش گریفیت<SEP>انتقال صفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش گریفیت<SEP>انتقال صفت"
+  },
+  "ویلکینز و فرانکلین<SEP>پرتو ایکس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ویلکینز و فرانکلین<SEP>پرتو ایکس"
+  },
+  "مدل مارپیچ دورشته‌ای<SEP>واتسون و کریک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مدل مارپیچ دورشته‌ای<SEP>واتسون و کریک"
+  },
+  "دنا<SEP>رشتهٔ پلی‌نوکلئوتیدی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنا<SEP>رشتهٔ پلی‌نوکلئوتیدی"
+  },
+  "جفت بازهای مکمل<SEP>پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جفت بازهای مکمل<SEP>پیوند هیدروژنی"
+  },
+  "رنا<SEP>رنای پیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>رنای پیک"
+  },
+  "مدل مارپیچ دورشته‌ای<SEP>پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مدل مارپیچ دورشته‌ای<SEP>پیوند هیدروژنی"
+  },
+  "رنا<SEP>رنای ناقل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>رنای ناقل"
+  },
+  "رناتن<SEP>رنای پیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناتن<SEP>رنای پیک"
+  },
+  "مدل مارپیچ دورشته‌ای<SEP>پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مدل مارپیچ دورشته‌ای<SEP>پیوند فسفودی‌استر"
+  },
+  "جایزهٔ نوبل ۱۹۶۲<SEP>واتسون و کریک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایزهٔ نوبل ۱۹۶۲<SEP>واتسون و کریک"
+  },
+  "رنا<SEP>رنای رناتنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>رنای رناتنی"
+  },
+  "رناتن<SEP>رنای ناقل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناتن<SEP>رنای ناقل"
+  },
+  "ATP<SEP>نوکلئوتید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>نوکلئوتید"
+  },
+  "دنا<SEP>مدل مارپیچ دورشته‌ای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنا<SEP>مدل مارپیچ دورشته‌ای"
+  },
+  "تاریخچهٔ کشف دنا<SEP>میشر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تاریخچهٔ کشف دنا<SEP>میشر"
+  },
+  "رنا<SEP>ژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>ژن"
+  },
+  "رناتن<SEP>رنای رناتنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناتن<SEP>رنای رناتنی"
+  },
+  "همانندسازی دنا<SEP>همانندسازی نیمه‌حفاظتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "همانندسازی دنا<SEP>همانندسازی نیمه‌حفاظتی"
+  },
+  "تاریخچهٔ کشف دنا<SEP>واتسون و کریک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تاریخچهٔ کشف دنا<SEP>واتسون و کریک"
+  },
+  "آزمایش مزلسون و استال<SEP>مزلسون و استال": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش مزلسون و استال<SEP>مزلسون و استال"
+  },
+  "همانندسازی حفاظتی<SEP>همانندسازی نیمه‌حفاظتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "همانندسازی حفاظتی<SEP>همانندسازی نیمه‌حفاظتی"
+  },
+  "آزمایش مزلسون و استال<SEP>نیتروژن ۱۵": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش مزلسون و استال<SEP>نیتروژن ۱۵"
+  },
+  "عوامل همانندسازی<SEP>نوکلئوتید سه‌فسفاته": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "عوامل همانندسازی<SEP>نوکلئوتید سه‌فسفاته"
+  },
+  "همانندسازی غیرحفاظتی<SEP>همانندسازی نیمه‌حفاظتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "همانندسازی غیرحفاظتی<SEP>همانندسازی نیمه‌حفاظتی"
+  },
+  "هلیکاز<SEP>پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هلیکاز<SEP>پیوند هیدروژنی"
+  },
+  "آزمایش مزلسون و استال<SEP>اشرشیا کلای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش مزلسون و استال<SEP>اشرشیا کلای"
+  },
+  "دنابسپاراز<SEP>عوامل همانندسازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنابسپاراز<SEP>عوامل همانندسازی"
+  },
+  "فامینه<SEP>هیستون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فامینه<SEP>هیستون"
+  },
+  "باز شدن دو رشتهٔ دنا<SEP>هلیکاز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باز شدن دو رشتهٔ دنا<SEP>هلیکاز"
+  },
+  "آزمایش مزلسون و استال<SEP>گریزانهٔ هم‌چگال": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش مزلسون و استال<SEP>گریزانهٔ هم‌چگال"
+  },
+  "همانندسازی دنا<SEP>همانندسازی دوجهتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "همانندسازی دنا<SEP>همانندسازی دوجهتی"
+  },
+  "دنابسپاراز<SEP>پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنابسپاراز<SEP>پیوند فسفودی‌استر"
+  },
+  "فعالیت نوکلئازی<SEP>ویرایش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فعالیت نوکلئازی<SEP>ویرایش"
+  },
+  "آزمایش مزلسون و استال<SEP>همانندسازی نیمه‌حفاظتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش مزلسون و استال<SEP>همانندسازی نیمه‌حفاظتی"
+  },
+  "هلیکاز<SEP>همانندسازی دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هلیکاز<SEP>همانندسازی دنا"
+  },
+  "دنابسپاراز<SEP>ویرایش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنابسپاراز<SEP>ویرایش"
+  },
+  "آزمایش مزلسون و استال<SEP>نتایج آزمایش مزلسون و استال": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش مزلسون و استال<SEP>نتایج آزمایش مزلسون و استال"
+  },
+  "جایگاه آغاز همانندسازی<SEP>پروکاریوت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه آغاز همانندسازی<SEP>پروکاریوت"
+  },
+  "دیسک<SEP>پادزیست": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دیسک<SEP>پادزیست"
+  },
+  "دنابسپاراز<SEP>فعالیت بسپارازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنابسپاراز<SEP>فعالیت بسپارازی"
+  },
+  "هیستون<SEP>یوکاریوت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هیستون<SEP>یوکاریوت"
+  },
+  "دنابسپاراز<SEP>دوراهی همانندسازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنابسپاراز<SEP>دوراهی همانندسازی"
+  },
+  "دنای سیتوپلاسمی<SEP>یوکاریوت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای سیتوپلاسمی<SEP>یوکاریوت"
+  },
+  "آمینواسید<SEP>پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمینواسید<SEP>پروتئین"
+  },
+  "دنای سیتوپلاسمی<SEP>راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 2,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای سیتوپلاسمی<SEP>راکیزه"
+  },
+  "آمینواسید<SEP>گروه R": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمینواسید<SEP>گروه R"
+  },
+  "سنتز آبدهی<SEP>پیوند پپتیدی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سنتز آبدهی<SEP>پیوند پپتیدی"
+  },
+  "جایگاه آغاز همانندسازی<SEP>یوکاریوت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه آغاز همانندسازی<SEP>یوکاریوت"
+  },
+  "ساختار اول پروتئین<SEP>ساختار دوم پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار اول پروتئین<SEP>ساختار دوم پروتئین"
+  },
+  "پلی‌پپتید<SEP>پیوند پپتیدی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پلی‌پپتید<SEP>پیوند پپتیدی"
+  },
+  "دنای سیتوپلاسمی<SEP>دیسه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای سیتوپلاسمی<SEP>دیسه"
+  },
+  "جایگاه آغاز همانندسازی<SEP>مورولا و بلاستولا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه آغاز همانندسازی<SEP>مورولا و بلاستولا"
+  },
+  "ساختار دوم پروتئین<SEP>ساختار سوم پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار دوم پروتئین<SEP>ساختار سوم پروتئین"
+  },
+  "ساختار اول پروتئین<SEP>پیوند پپتیدی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار اول پروتئین<SEP>پیوند پپتیدی"
+  },
+  "پروتئین<SEP>پلی‌پپتید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پروتئین<SEP>پلی‌پپتید"
+  },
+  "شکل فضایی پروتئین<SEP>پرتو ایکس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شکل فضایی پروتئین<SEP>پرتو ایکس"
+  },
+  "برهم‌کنش آب‌گریز<SEP>ساختار سوم پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "برهم‌کنش آب‌گریز<SEP>ساختار سوم پروتئین"
+  },
+  "ساختار دوم پروتئین<SEP>پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار دوم پروتئین<SEP>پیوند هیدروژنی"
+  },
+  "ساختار چهارم پروتئین<SEP>هموگلوبین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار چهارم پروتئین<SEP>هموگلوبین"
+  },
+  "آمینواسیدهای پروتئینی<SEP>پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمینواسیدهای پروتئینی<SEP>پروتئین"
+  },
+  "آنزیم<SEP>نقش پروتئین‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>نقش پروتئین‌ها"
+  },
+  "ساختار سوم پروتئین<SEP>میوگلوبین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار سوم پروتئین<SEP>میوگلوبین"
+  },
+  "زنجیرهٔ آلفا و بتا<SEP>هموگلوبین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ آلفا و بتا<SEP>هموگلوبین"
+  },
+  "نقش پروتئین‌ها<SEP>کلاژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نقش پروتئین‌ها<SEP>کلاژن"
+  },
+  "آنزیم<SEP>انرژی فعال‌سازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>انرژی فعال‌سازی"
+  },
+  "هم<SEP>هموگلوبین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هم<SEP>هموگلوبین"
+  },
+  "اکتین و میوزین<SEP>نقش پروتئین‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اکتین و میوزین<SEP>نقش پروتئین‌ها"
+  },
+  "آنزیم<SEP>جایگاه فعال": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>جایگاه فعال"
+  },
+  "میوگلوبین<SEP>هم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میوگلوبین<SEP>هم"
+  },
+  "نقش پروتئین‌ها<SEP>پمپ سدیم-پتاسیم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نقش پروتئین‌ها<SEP>پمپ سدیم-پتاسیم"
+  },
+  "جایگاه فعال<SEP>پیش‌ماده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه فعال<SEP>پیش‌ماده"
+  },
+  "آنزیم<SEP>فراورده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>فراورده"
+  },
+  "مهارکننده<SEP>نقش پروتئین‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مهارکننده<SEP>نقش پروتئین‌ها"
+  },
+  "pH بهینه<SEP>عوامل مؤثر بر فعالیت آنزیم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "pH بهینه<SEP>عوامل مؤثر بر فعالیت آنزیم"
+  },
+  "جایگاه فعال<SEP>سیانید و آرسنیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه فعال<SEP>سیانید و آرسنیک"
+  },
+  "آنزیم<SEP>کوآنزیم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>کوآنزیم"
+  },
+  "نقش پروتئین‌ها<SEP>هورمون‌های پروتئینی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نقش پروتئین‌ها<SEP>هورمون‌های پروتئینی"
+  },
+  "دمای بهینه<SEP>عوامل مؤثر بر فعالیت آنزیم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دمای بهینه<SEP>عوامل مؤثر بر فعالیت آنزیم"
+  },
+  "pH بهینه<SEP>پپسین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "pH بهینه<SEP>پپسین"
+  },
+  "باکتری‌های مقاوم به گرما<SEP>پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌های مقاوم به گرما<SEP>پیوند هیدروژنی"
+  },
+  "آنزیم<SEP>غلظت آنزیم و پیش‌ماده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>غلظت آنزیم و پیش‌ماده"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۲ جریان اطلاعات در یاخته": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۲ جریان اطلاعات در یاخته"
+  },
+  "آمینواسید<SEP>رمز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمینواسید<SEP>رمز"
+  },
+  "ژن<SEP>کم‌خونی داسی‌شکل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ژن<SEP>کم‌خونی داسی‌شکل"
+  },
+  "رونویسی<SEP>فصل ۲ جریان اطلاعات در یاخته": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رونویسی<SEP>فصل ۲ جریان اطلاعات در یاخته"
+  },
+  "رنا<SEP>رونویسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنا<SEP>رونویسی"
+  },
+  "رونویسی<SEP>مرحلهٔ آغاز رونویسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رونویسی<SEP>مرحلهٔ آغاز رونویسی"
+  },
+  "رونویسی<SEP>مرحلهٔ طویل شدن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رونویسی<SEP>مرحلهٔ طویل شدن"
+  },
+  "رنابسپاراز<SEP>رنای پیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنابسپاراز<SEP>رنای پیک"
+  },
+  "رشتهٔ الگو<SEP>رشتهٔ رمزگذار": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رشتهٔ الگو<SEP>رشتهٔ رمزگذار"
+  },
+  "رونویسی<SEP>مرحلهٔ پایان رونویسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رونویسی<SEP>مرحلهٔ پایان رونویسی"
+  },
+  "میانه<SEP>پیرایش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میانه<SEP>پیرایش"
+  },
+  "رنابسپاراز<SEP>رنای ناقل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنابسپاراز<SEP>رنای ناقل"
+  },
+  "رنای اولیه<SEP>رنای بالغ": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنای اولیه<SEP>رنای بالغ"
+  },
+  "رونویسی<SEP>همانندسازی دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رونویسی<SEP>همانندسازی دنا"
+  },
+  "بیانه<SEP>پیرایش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بیانه<SEP>پیرایش"
+  },
+  "رنای رناتنی<SEP>شدت رونویسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنای رناتنی<SEP>شدت رونویسی"
+  },
+  "تغییرات رنای پیک<SEP>پیرایش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تغییرات رنای پیک<SEP>پیرایش"
+  },
+  "بیانه<SEP>میانه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بیانه<SEP>میانه"
+  },
+  "رشتهٔ الگو<SEP>رونویسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رشتهٔ الگو<SEP>رونویسی"
+  },
+  "نقش زیستی میانه‌ها<SEP>پیرایش متفاوت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نقش زیستی میانه‌ها<SEP>پیرایش متفاوت"
+  },
+  "رنابسپاراز<SEP>رنای رناتنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنابسپاراز<SEP>رنای رناتنی"
+  },
+  "ترجمه<SEP>رنای پیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>رنای پیک"
+  },
+  "بیانه<SEP>پیرایش متفاوت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بیانه<SEP>پیرایش متفاوت"
+  },
+  "میانه<SEP>نقش زیستی میانه‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میانه<SEP>نقش زیستی میانه‌ها"
+  },
+  "رنابسپاراز<SEP>شدت رونویسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنابسپاراز<SEP>شدت رونویسی"
+  },
+  "رمزه<SEP>رنای پیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رمزه<SEP>رنای پیک"
+  },
+  "ترجمه<SEP>پلی‌پپتید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>پلی‌پپتید"
+  },
+  "رنای ناقل<SEP>پادرمزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنای ناقل<SEP>پادرمزه"
+  },
+  "ATP<SEP>عوامل لازم در ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>عوامل لازم در ترجمه"
+  },
+  "ترجمه<SEP>گفتار ۲ به سوی پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>گفتار ۲ به سوی پروتئین"
+  },
+  "رمزه<SEP>پادرمزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 2,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رمزه<SEP>پادرمزه"
+  },
+  "رنای ناقل<SEP>پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنای ناقل<SEP>پیوند هیدروژنی"
+  },
+  "ترجمه<SEP>رمزهٔ پایان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>رمزهٔ پایان"
+  },
+  "جایگاه A<SEP>رناتن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه A<SEP>رناتن"
+  },
+  "آنزیم اتصال‌دهندهٔ آمینواسید به رنای ناقل<SEP>پادرمزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم اتصال‌دهندهٔ آمینواسید به رنای ناقل<SEP>پادرمزه"
+  },
+  "جایگاه P<SEP>رناتن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه P<SEP>رناتن"
+  },
+  "ترجمه<SEP>عوامل لازم در ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>عوامل لازم در ترجمه"
+  },
+  "متیونین<SEP>مرحلهٔ آغاز ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "متیونین<SEP>مرحلهٔ آغاز ترجمه"
+  },
+  "آنزیم اتصال‌دهندهٔ آمینواسید به رنای ناقل<SEP>رنای ناقل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم اتصال‌دهندهٔ آمینواسید به رنای ناقل<SEP>رنای ناقل"
+  },
+  "عوامل آزادکننده<SEP>مرحلهٔ پایان ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "عوامل آزادکننده<SEP>مرحلهٔ پایان ترجمه"
+  },
+  "ترجمه<SEP>مرحلهٔ آغاز ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>مرحلهٔ آغاز ترجمه"
+  },
+  "سرنوشت پروتئین‌ها<SEP>شبکهٔ آندوپلاسمی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سرنوشت پروتئین‌ها<SEP>شبکهٔ آندوپلاسمی"
+  },
+  "رناتن<SEP>پلی‌زوم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناتن<SEP>پلی‌زوم"
+  },
+  "دستگاه گلژی<SEP>شبکهٔ آندوپلاسمی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دستگاه گلژی<SEP>شبکهٔ آندوپلاسمی"
+  },
+  "ترجمه<SEP>مرحلهٔ طویل شدن ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>مرحلهٔ طویل شدن ترجمه"
+  },
+  "رونویسی<SEP>پروتئین‌سازی در پروکاریوت‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رونویسی<SEP>پروتئین‌سازی در پروکاریوت‌ها"
+  },
+  "بیان ژن<SEP>تنظیم بیان ژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بیان ژن<SEP>تنظیم بیان ژن"
+  },
+  "رنای پیک<SEP>پلی‌زوم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنای پیک<SEP>پلی‌زوم"
+  },
+  "دستگاه گلژی<SEP>کافنده‌تن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دستگاه گلژی<SEP>کافنده‌تن"
+  },
+  "ترجمه<SEP>مرحلهٔ پایان ترجمه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ترجمه<SEP>مرحلهٔ پایان ترجمه"
+  },
+  "تنظیم بیان ژن در پروکاریوت‌ها<SEP>رنابسپاراز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن در پروکاریوت‌ها<SEP>رنابسپاراز"
+  },
+  "تنظیم بیان ژن<SEP>یاخته‌های بنیادی مغز استخوان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن<SEP>یاخته‌های بنیادی مغز استخوان"
+  },
+  "اشرشیا کلای<SEP>لاکتوز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اشرشیا کلای<SEP>لاکتوز"
+  },
+  "تنظیم بیان ژن<SEP>تنظیم بیان ژن نوری در گیاه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن<SEP>تنظیم بیان ژن نوری در گیاه"
+  },
+  "اپران<SEP>تنظیم بیان ژن در پروکاریوت‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اپران<SEP>تنظیم بیان ژن در پروکاریوت‌ها"
+  },
+  "تنظیم بیان ژن در پروکاریوت‌ها<SEP>راه‌انداز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن در پروکاریوت‌ها<SEP>راه‌انداز"
+  },
+  "تریپتوفان<SEP>تنظیم القایی و مهاری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تریپتوفان<SEP>تنظیم القایی و مهاری"
+  },
+  "اپران<SEP>لاکتوز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اپران<SEP>لاکتوز"
+  },
+  "رناهای کوچک مکمل<SEP>رنای پیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناهای کوچک مکمل<SEP>رنای پیک"
+  },
+  "تنظیم بیان ژن در یوکاریوت‌ها<SEP>تنظیم در سطح فام‌تنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن در یوکاریوت‌ها<SEP>تنظیم در سطح فام‌تنی"
+  },
+  "تنظیم القایی و مهاری<SEP>لاکتوز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم القایی و مهاری<SEP>لاکتوز"
+  },
+  "رناتن<SEP>ژن‌های همیشه‌بیان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناتن<SEP>ژن‌های همیشه‌بیان"
+  },
+  "افزایش تعداد نسخهٔ ژن<SEP>رنای رناتنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "افزایش تعداد نسخهٔ ژن<SEP>رنای رناتنی"
+  },
+  "تنظیم بیان ژن<SEP>غیرفعال شدن فام‌تن X": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن<SEP>غیرفعال شدن فام‌تن X"
+  },
+  "فصل ۳ انتقال اطلاعات در نسل‌ها<SEP>مندل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فصل ۳ انتقال اطلاعات در نسل‌ها<SEP>مندل"
+  },
+  "تنظیم بیان ژن در یوکاریوت‌ها<SEP>رناهای کوچک مکمل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنظیم بیان ژن در یوکاریوت‌ها<SEP>رناهای کوچک مکمل"
+  },
+  "دنا<SEP>گامت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنا<SEP>گامت"
+  },
+  "صفت<SEP>ژن‌شناسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت<SEP>ژن‌شناسی"
+  },
+  "پروتئین D<SEP>گروه خونی Rh": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پروتئین D<SEP>گروه خونی Rh"
+  },
+  "مندل<SEP>نظریهٔ آمیختگی صفات": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مندل<SEP>نظریهٔ آمیختگی صفات"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۳ انتقال اطلاعات در نسل‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۳ انتقال اطلاعات در نسل‌ها"
+  },
+  "جایگاه ژنی<SEP>دگره": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه ژنی<SEP>دگره"
+  },
+  "بارز و نهفتگی<SEP>گروه خونی Rh": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بارز و نهفتگی<SEP>گروه خونی Rh"
+  },
+  "رخ‌نمود<SEP>ژن‌نمود": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رخ‌نمود<SEP>ژن‌نمود"
+  },
+  "خالص و ناخالص<SEP>دگره": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خالص و ناخالص<SEP>دگره"
+  },
+  "جایگاه ژنی<SEP>فام‌تن شمارهٔ ۱": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه ژنی<SEP>فام‌تن شمارهٔ ۱"
+  },
+  "شکل‌های صفت<SEP>صفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شکل‌های صفت<SEP>صفت"
+  },
+  "گروه خونی ABO<SEP>گروه خونی Rh": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گروه خونی ABO<SEP>گروه خونی Rh"
+  },
+  "بارزیت ناقص<SEP>گل میمونی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بارزیت ناقص<SEP>گل میمونی"
+  },
+  "ژن‌نمودهای Rh<SEP>گروه خونی Rh": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ژن‌نمودهای Rh<SEP>گروه خونی Rh"
+  },
+  "کربوهیدرات A و B<SEP>گروه خونی ABO": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "کربوهیدرات A و B<SEP>گروه خونی ABO"
+  },
+  "بارزیت ناقص<SEP>هم‌توانی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بارزیت ناقص<SEP>هم‌توانی"
+  },
+  "دگره‌های ABO<SEP>گروه خونی ABO": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگره‌های ABO<SEP>گروه خونی ABO"
+  },
+  "صفت وابسته به X<SEP>فام‌تن جنسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت وابسته به X<SEP>فام‌تن جنسی"
+  },
+  "صفت مستقل از جنس<SEP>گروه خونی Rh": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت مستقل از جنس<SEP>گروه خونی Rh"
+  },
+  "ناقل<SEP>هموفیلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ناقل<SEP>هموفیلی"
+  },
+  "دگره‌های ABO<SEP>فام‌تن شمارهٔ ۹": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگره‌های ABO<SEP>فام‌تن شمارهٔ ۹"
+  },
+  "مربع پانت<SEP>پانت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مربع پانت<SEP>پانت"
+  },
+  "صفت وابسته به X<SEP>هموفیلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت وابسته به X<SEP>هموفیلی"
+  },
+  "فصل ۳ انتقال اطلاعات در نسل‌ها<SEP>گفتار ۲ انواع صفات": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فصل ۳ انتقال اطلاعات در نسل‌ها<SEP>گفتار ۲ انواع صفات"
+  },
+  "دگره‌های ABO<SEP>هم‌توانی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگره‌های ABO<SEP>هم‌توانی"
+  },
+  "مربع پانت<SEP>ژن‌نمود": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مربع پانت<SEP>ژن‌نمود"
+  },
+  "رنگ ذرت<SEP>صفت چندجایگاهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنگ ذرت<SEP>صفت چندجایگاهی"
+  },
+  "هموفیلی<SEP>ژن‌نمودهای هموفیلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هموفیلی<SEP>ژن‌نمودهای هموفیلی"
+  },
+  "صفت تک‌جایگاهی<SEP>گروه خونی ABO": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت تک‌جایگاهی<SEP>گروه خونی ABO"
+  },
+  "صفت گسسته<SEP>گروه خونی Rh": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت گسسته<SEP>گروه خونی Rh"
+  },
+  "بارز و نهفتگی<SEP>دگره‌های ABO": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بارز و نهفتگی<SEP>دگره‌های ABO"
+  },
+  "صفت پیوسته<SEP>صفت چندجایگاهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "صفت پیوسته<SEP>صفت چندجایگاهی"
+  },
+  "فنیل‌آلانین<SEP>فنیل‌کتونوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فنیل‌آلانین<SEP>فنیل‌کتونوری"
+  },
+  "مثال ازدواج مرد هموفیل<SEP>مربع پانت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مثال ازدواج مرد هموفیل<SEP>مربع پانت"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۴ تغییر در اطلاعات وراثتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۴ تغییر در اطلاعات وراثتی"
+  },
+  "اثر محیط<SEP>فنیل‌کتونوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اثر محیط<SEP>فنیل‌کتونوری"
+  },
+  "زنجیرهٔ بتای هموگلوبین<SEP>کم‌خونی داسی‌شکل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ بتای هموگلوبین<SEP>کم‌خونی داسی‌شکل"
+  },
+  "مثال ازدواج مرد هموفیل<SEP>هموفیلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مثال ازدواج مرد هموفیل<SEP>هموفیلی"
+  },
+  "آزمایش بدو تولد PKU<SEP>فنیل‌کتونوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش بدو تولد PKU<SEP>فنیل‌کتونوری"
+  },
+  "جهش<SEP>فصل ۴ تغییر در اطلاعات وراثتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش<SEP>فصل ۴ تغییر در اطلاعات وراثتی"
+  },
+  "جهش جانشینی<SEP>جهش کوچک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش جانشینی<SEP>جهش کوچک"
+  },
+  "جهش<SEP>کم‌خونی داسی‌شکل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش<SEP>کم‌خونی داسی‌شکل"
+  },
+  "جهش جانشینی<SEP>جهش دگرمعنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش جانشینی<SEP>جهش دگرمعنا"
+  },
+  "جهش اضافه و حذف<SEP>جهش کوچک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش اضافه و حذف<SEP>جهش کوچک"
+  },
+  "جهش جانشینی<SEP>جهش خاموش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش جانشینی<SEP>جهش خاموش"
+  },
+  "جهش<SEP>جهش کوچک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش<SEP>جهش کوچک"
+  },
+  "جهش اضافه و حذف<SEP>جهش تغییر چارچوب خواندن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش اضافه و حذف<SEP>جهش تغییر چارچوب خواندن"
+  },
+  "جهش دگرمعنا<SEP>کم‌خونی داسی‌شکل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش دگرمعنا<SEP>کم‌خونی داسی‌شکل"
+  },
+  "جهش بزرگ<SEP>کاریوتیپ": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش بزرگ<SEP>کاریوتیپ"
+  },
+  "جهش بی‌معنا<SEP>جهش جانشینی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش بی‌معنا<SEP>جهش جانشینی"
+  },
+  "ناهنجاری عددی<SEP>نشانگان داون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ناهنجاری عددی<SEP>نشانگان داون"
+  },
+  "جهش<SEP>جهش بزرگ": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش<SEP>جهش بزرگ"
+  },
+  "حذف فام‌تنی<SEP>ناهنجاری ساختاری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "حذف فام‌تنی<SEP>ناهنجاری ساختاری"
+  },
+  "جهش بی‌معنا<SEP>رمزهٔ پایان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش بی‌معنا<SEP>رمزهٔ پایان"
+  },
+  "تغییرپذیری مادهٔ وراثتی<SEP>جهش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تغییرپذیری مادهٔ وراثتی<SEP>جهش"
+  },
+  "جابه‌جایی<SEP>ناهنجاری ساختاری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جابه‌جایی<SEP>ناهنجاری ساختاری"
+  },
+  "پیامدهای جهش<SEP>ژنگان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پیامدهای جهش<SEP>ژنگان"
+  },
+  "مضاعف‌شدگی<SEP>ناهنجاری ساختاری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مضاعف‌شدگی<SEP>ناهنجاری ساختاری"
+  },
+  "توالی بین ژنی<SEP>پیامدهای جهش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "توالی بین ژنی<SEP>پیامدهای جهش"
+  },
+  "راکیزه<SEP>ژنگان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "راکیزه<SEP>ژنگان"
+  },
+  "علت جهش<SEP>پرتو فرابنفش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "علت جهش<SEP>پرتو فرابنفش"
+  },
+  "جهش بزرگ<SEP>ناهنجاری ساختاری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش بزرگ<SEP>ناهنجاری ساختاری"
+  },
+  "دوپار تیمین<SEP>پرتو فرابنفش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دوپار تیمین<SEP>پرتو فرابنفش"
+  },
+  "بنزوپیرن<SEP>علت جهش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بنزوپیرن<SEP>علت جهش"
+  },
+  "جهش ارثی<SEP>گامت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش ارثی<SEP>گامت"
+  },
+  "دنابسپاراز<SEP>دوپار تیمین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنابسپاراز<SEP>دوپار تیمین"
+  },
+  "ناهنجاری ساختاری<SEP>واژگونی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ناهنجاری ساختاری<SEP>واژگونی"
+  },
+  "جهش بزرگ<SEP>ناهنجاری عددی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهش بزرگ<SEP>ناهنجاری عددی"
+  },
+  "سدیم نیتریت<SEP>پیشگیری از سرطان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سدیم نیتریت<SEP>پیشگیری از سرطان"
+  },
+  "راه‌انداز<SEP>پیامدهای جهش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "راه‌انداز<SEP>پیامدهای جهش"
+  },
+  "بنزوپیرن<SEP>جهش اکتسابی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بنزوپیرن<SEP>جهش اکتسابی"
+  },
+  "مقاومت باکتری به پادزیست<SEP>گفتار ۲ تغییر در جمعیت‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مقاومت باکتری به پادزیست<SEP>گفتار ۲ تغییر در جمعیت‌ها"
+  },
+  "انتخاب طبیعی<SEP>تفاوت‌های فردی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>تفاوت‌های فردی"
+  },
+  "جمعیت<SEP>خزانهٔ ژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جمعیت<SEP>خزانهٔ ژن"
+  },
+  "تعادل ژنی<SEP>جهش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تعادل ژنی<SEP>جهش"
+  },
+  "انتخاب طبیعی<SEP>صفت سازگارتر با محیط": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>صفت سازگارتر با محیط"
+  },
+  "تعادل ژنی<SEP>رانش دگره‌ای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 2,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تعادل ژنی<SEP>رانش دگره‌ای"
+  },
+  "انتخاب طبیعی<SEP>جمعیت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>جمعیت"
+  },
+  "انتخاب طبیعی<SEP>مقاومت باکتری به پادزیست": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>مقاومت باکتری به پادزیست"
+  },
+  "انتخاب طبیعی<SEP>مثال تحمل سرما": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>مثال تحمل سرما"
+  },
+  "تعادل ژنی<SEP>شارش ژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تعادل ژنی<SEP>شارش ژن"
+  },
+  "تداوم گوناگونی<SEP>گوناگونی دگره‌ای در گامت‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تداوم گوناگونی<SEP>گوناگونی دگره‌ای در گامت‌ها"
+  },
+  "آمیزش غیرتصادفی<SEP>تعادل ژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمیزش غیرتصادفی<SEP>تعادل ژنی"
+  },
+  "آمیزش تصادفی<SEP>تعادل ژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمیزش تصادفی<SEP>تعادل ژنی"
+  },
+  "تداوم گوناگونی<SEP>نوترکیبی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تداوم گوناگونی<SEP>نوترکیبی"
+  },
+  "انتخاب طبیعی<SEP>تعادل ژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>تعادل ژنی"
+  },
+  "چلیپایی شدن<SEP>چهارتایه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چلیپایی شدن<SEP>چهارتایه"
+  },
+  "اهمیت ناخالص‌ها<SEP>تداوم گوناگونی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اهمیت ناخالص‌ها<SEP>تداوم گوناگونی"
+  },
+  "HbAHbS<SEP>مالاریا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "HbAHbS<SEP>مالاریا"
+  },
+  "HbSHbS<SEP>کم‌خونی داسی‌شکل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "HbSHbS<SEP>کم‌خونی داسی‌شکل"
+  },
+  "میوز ۱<SEP>گوناگونی دگره‌ای در گامت‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میوز ۱<SEP>گوناگونی دگره‌ای در گامت‌ها"
+  },
+  "سنگواره<SEP>شواهد تغییر گونه‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سنگواره<SEP>شواهد تغییر گونه‌ها"
+  },
+  "انتخاب طبیعی<SEP>داروین و والاس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>داروین و والاس"
+  },
+  "چلیپایی شدن<SEP>گامت نوترکیب": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چلیپایی شدن<SEP>گامت نوترکیب"
+  },
+  "تشریح مقایسه‌ای<SEP>شواهد تغییر گونه‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تشریح مقایسه‌ای<SEP>شواهد تغییر گونه‌ها"
+  },
+  "دیرینه‌شناس<SEP>سنگواره": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دیرینه‌شناس<SEP>سنگواره"
+  },
+  "ساختار همتا<SEP>نیای مشترک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار همتا<SEP>نیای مشترک"
+  },
+  "انتخاب طبیعی<SEP>تداوم گوناگونی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>تداوم گوناگونی"
+  },
+  "درخت گیسو<SEP>سنگواره": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "درخت گیسو<SEP>سنگواره"
+  },
+  "نیای مشترک<SEP>گونه‌های خویشاوند": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نیای مشترک<SEP>گونه‌های خویشاوند"
+  },
+  "ساختار آنالوگ<SEP>ساختار همتا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار آنالوگ<SEP>ساختار همتا"
+  },
+  "ساختار وستیجیال<SEP>مار پیتون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساختار وستیجیال<SEP>مار پیتون"
+  },
+  "شواهد تغییر گونه‌ها<SEP>مطالعات مولکولی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شواهد تغییر گونه‌ها<SEP>مطالعات مولکولی"
+  },
+  "ارنست مایر<SEP>گونه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارنست مایر<SEP>گونه"
+  },
+  "جدایی تولیدمثلی<SEP>گونه‌زایی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جدایی تولیدمثلی<SEP>گونه‌زایی"
+  },
+  "تشریح مقایسه‌ای<SEP>ساختار همتا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تشریح مقایسه‌ای<SEP>ساختار همتا"
+  },
+  "توالی‌های حفظ‌شده<SEP>مطالعات مولکولی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "توالی‌های حفظ‌شده<SEP>مطالعات مولکولی"
+  },
+  "شارش ژن<SEP>گونه‌زایی دگرمیهنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شارش ژن<SEP>گونه‌زایی دگرمیهنی"
+  },
+  "تشریح مقایسه‌ای<SEP>ساختار وستیجیال": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تشریح مقایسه‌ای<SEP>ساختار وستیجیال"
+  },
+  "چندلادی<SEP>گونه‌زایی هم‌میهنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چندلادی<SEP>گونه‌زایی هم‌میهنی"
+  },
+  "هوگو دووری<SEP>گل مغربی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هوگو دووری<SEP>گل مغربی"
+  },
+  "گونه‌زایی<SEP>گونه‌زایی دگرمیهنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گونه‌زایی<SEP>گونه‌زایی دگرمیهنی"
+  },
+  "گیاه سه‌لاد<SEP>گیاه چارلاد": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گیاه سه‌لاد<SEP>گیاه چارلاد"
+  },
+  "خطای میوزی<SEP>چندلادی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خطای میوزی<SEP>چندلادی"
+  },
+  "گونه‌زایی دگرمیهنی<SEP>گونه‌زایی هم‌میهنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گونه‌زایی دگرمیهنی<SEP>گونه‌زایی هم‌میهنی"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۵ از ماده به انرژی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۵ از ماده به انرژی"
+  },
+  "گل مغربی<SEP>گیاه چارلاد": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گل مغربی<SEP>گیاه چارلاد"
+  },
+  "ATP<SEP>تنفس یاخته‌ای هوازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>تنفس یاخته‌ای هوازی"
+  },
+  "گونه‌زایی<SEP>گونه‌زایی هم‌میهنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گونه‌زایی<SEP>گونه‌زایی هم‌میهنی"
+  },
+  "رانش دگره‌ای<SEP>گونه‌زایی دگرمیهنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رانش دگره‌ای<SEP>گونه‌زایی دگرمیهنی"
+  },
+  "ساخته شدن ATP در سطح پیش‌ماده<SEP>کرآتین فسفات": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساخته شدن ATP در سطح پیش‌ماده<SEP>کرآتین فسفات"
+  },
+  "ADP<SEP>ATP": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ADP<SEP>ATP"
+  },
+  "راکیزه<SEP>ساخته شدن اکسایشی ATP": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "راکیزه<SEP>ساخته شدن اکسایشی ATP"
+  },
+  "تنفس یاخته‌ای هوازی<SEP>فصل ۵ از ماده به انرژی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس یاخته‌ای هوازی<SEP>فصل ۵ از ماده به انرژی"
+  },
+  "گفتار ۳ تغییر در گونه‌ها<SEP>گونه‌زایی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گفتار ۳ تغییر در گونه‌ها<SEP>گونه‌زایی"
+  },
+  "ATP<SEP>ساخته شدن نوری ATP": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>ساخته شدن نوری ATP"
+  },
+  "ADP<SEP>AMP": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ADP<SEP>AMP"
+  },
+  "ساکارز<SEP>کربوهیدرات": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ساکارز<SEP>کربوهیدرات"
+  },
+  "راکیزه<SEP>غشای درونی راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "راکیزه<SEP>غشای درونی راکیزه"
+  },
+  "راکیزه<SEP>فضای بین دو غشا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "راکیزه<SEP>فضای بین دو غشا"
+  },
+  "فروکتوز دوفسفاته<SEP>قندکافت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فروکتوز دوفسفاته<SEP>قندکافت"
+  },
+  "NAD+<SEP>NADH": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NAD+<SEP>NADH"
+  },
+  "اکسایش پیرووات<SEP>پیرووات": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اکسایش پیرووات<SEP>پیرووات"
+  },
+  "ATP<SEP>قندکافت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>قندکافت"
+  },
+  "NADH<SEP>اکسایش و کاهش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NADH<SEP>اکسایش و کاهش"
+  },
+  "چرخهٔ کربس<SEP>کربس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چرخهٔ کربس<SEP>کربس"
+  },
+  "چرخهٔ کربس<SEP>گفتار ۲ اکسایش بیشتر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چرخهٔ کربس<SEP>گفتار ۲ اکسایش بیشتر"
+  },
+  "تنفس یاخته‌ای هوازی<SEP>قندکافت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس یاخته‌ای هوازی<SEP>قندکافت"
+  },
+  "اکسایش پیرووات<SEP>راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اکسایش پیرووات<SEP>راکیزه"
+  },
+  "زنجیرهٔ انتقال الکترون<SEP>غشای درونی راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ انتقال الکترون<SEP>غشای درونی راکیزه"
+  },
+  "اکسیژن<SEP>زنجیرهٔ انتقال الکترون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اکسیژن<SEP>زنجیرهٔ انتقال الکترون"
+  },
+  "NADH<SEP>چرخهٔ کربس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NADH<SEP>چرخهٔ کربس"
+  },
+  "FAD<SEP>FADH2": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "FAD<SEP>FADH2"
+  },
+  "آنزیم ATP‌ساز<SEP>شیب غلظت پروتون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم ATP‌ساز<SEP>شیب غلظت پروتون"
+  },
+  "اکسیژن<SEP>یون اکسید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اکسیژن<SEP>یون اکسید"
+  },
+  "زنجیرهٔ انتقال الکترون<SEP>شیب غلظت پروتون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ انتقال الکترون<SEP>شیب غلظت پروتون"
+  },
+  "آنزیم ATP‌ساز<SEP>ساخته شدن اکسایشی ATP": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم ATP‌ساز<SEP>ساخته شدن اکسایشی ATP"
+  },
+  "ویتامین‌های B<SEP>کوآنزیم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ویتامین‌های B<SEP>کوآنزیم"
+  },
+  "ATP<SEP>مغز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>مغز"
+  },
+  "قندکافت<SEP>مروری بر تنفس یاخته‌ای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "قندکافت<SEP>مروری بر تنفس یاخته‌ای"
+  },
+  "NADH<SEP>زنجیرهٔ انتقال الکترون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NADH<SEP>زنجیرهٔ انتقال الکترون"
+  },
+  "تنفس باکتری‌ها<SEP>راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس باکتری‌ها<SEP>راکیزه"
+  },
+  "تنفس یاخته‌ای هوازی<SEP>منابع دیگر انرژی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس یاخته‌ای هوازی<SEP>منابع دیگر انرژی"
+  },
+  "استیل کوآنزیم A<SEP>ویتامین‌های B": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "استیل کوآنزیم A<SEP>ویتامین‌های B"
+  },
+  "ATP<SEP>تنظیم تنفس یاخته‌ای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>تنظیم تنفس یاخته‌ای"
+  },
+  "مروری بر تنفس یاخته‌ای<SEP>چرخهٔ کربس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مروری بر تنفس یاخته‌ای<SEP>چرخهٔ کربس"
+  },
+  "NAD+<SEP>تخمیر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NAD+<SEP>تخمیر"
+  },
+  "ADP<SEP>تنظیم تنفس یاخته‌ای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ADP<SEP>تنظیم تنفس یاخته‌ای"
+  },
+  "بازده تنفس یاخته‌ای<SEP>تنفس یاخته‌ای هوازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بازده تنفس یاخته‌ای<SEP>تنفس یاخته‌ای هوازی"
+  },
+  "تخمیر<SEP>قندکافت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر<SEP>قندکافت"
+  },
+  "اتانال<SEP>تخمیر الکلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اتانال<SEP>تخمیر الکلی"
+  },
+  "اتانول<SEP>تخمیر الکلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اتانول<SEP>تخمیر الکلی"
+  },
+  "الکتات<SEP>تخمیر لاکتیکی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "الکتات<SEP>تخمیر لاکتیکی"
+  },
+  "تخمیر الکلی<SEP>ساکارومایسس سرویزیه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر الکلی<SEP>ساکارومایسس سرویزیه"
+  },
+  "تخمیر لاکتیکی<SEP>ماهیچهٔ اسکلتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر لاکتیکی<SEP>ماهیچهٔ اسکلتی"
+  },
+  "رادیکال آزاد<SEP>زنجیرهٔ انتقال الکترون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رادیکال آزاد<SEP>زنجیرهٔ انتقال الکترون"
+  },
+  "تخمیر<SEP>تخمیر الکلی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر<SEP>تخمیر الکلی"
+  },
+  "پاداکسنده<SEP>کاروتنوئید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پاداکسنده<SEP>کاروتنوئید"
+  },
+  "تخمیر الکلی<SEP>تخمیر در گیاهان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر الکلی<SEP>تخمیر در گیاهان"
+  },
+  "تخمیر<SEP>تخمیر لاکتیکی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر<SEP>تخمیر لاکتیکی"
+  },
+  "زنجیرهٔ انتقال الکترون<SEP>سیانید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ انتقال الکترون<SEP>سیانید"
+  },
+  "رادیکال آزاد<SEP>پاداکسنده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-043",
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 2,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رادیکال آزاد<SEP>پاداکسنده"
+  },
+  "هموگلوبین<SEP>کربن مونواکسید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "هموگلوبین<SEP>کربن مونواکسید"
+  },
+  "تخمیر<SEP>گفتار ۳ زیستن مستقل از اکسیژن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر<SEP>گفتار ۳ زیستن مستقل از اکسیژن"
+  },
+  "اثر الکل بر کبد<SEP>رادیکال آزاد": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اثر الکل بر کبد<SEP>رادیکال آزاد"
+  },
+  "زنجیرهٔ انتقال الکترون<SEP>هیدروژن سیانید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ انتقال الکترون<SEP>هیدروژن سیانید"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۶ از انرژی به ماده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۶ از انرژی به ماده"
+  },
+  "رادیکال آزاد<SEP>نقص ژنی زنجیرهٔ انتقال الکترون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رادیکال آزاد<SEP>نقص ژنی زنجیرهٔ انتقال الکترون"
+  },
+  "اثر الکل بر کبد<SEP>راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اثر الکل بر کبد<SEP>راکیزه"
+  },
+  "زنجیرهٔ انتقال الکترون<SEP>کربن مونواکسید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زنجیرهٔ انتقال الکترون<SEP>کربن مونواکسید"
+  },
+  "میانبرگ<SEP>پهنک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میانبرگ<SEP>پهنک"
+  },
+  "فتوسنتز<SEP>فصل ۶ از انرژی به ماده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسنتز<SEP>فصل ۶ از انرژی به ماده"
+  },
+  "اثر الکل بر کبد<SEP>سیروز کبدی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اثر الکل بر کبد<SEP>سیروز کبدی"
+  },
+  "برگ<SEP>فتوسنتز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "برگ<SEP>فتوسنتز"
+  },
+  "فتوسیستم<SEP>مرکز واکنش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسیستم<SEP>مرکز واکنش"
+  },
+  "سبزدیسه<SEP>فتوسنتز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سبزدیسه<SEP>فتوسنتز"
+  },
+  "برگ<SEP>پهنک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "برگ<SEP>پهنک"
+  },
+  "سبزینهٔ a و b<SEP>فتوسیستم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سبزینهٔ a و b<SEP>فتوسیستم"
+  },
+  "فتوسیستم<SEP>کاروتنوئید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسیستم<SEP>کاروتنوئید"
+  },
+  "تیلاکوئید<SEP>سبزدیسه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تیلاکوئید<SEP>سبزدیسه"
+  },
+  "فتوسیستم ۱<SEP>مرکز واکنش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسیستم ۱<SEP>مرکز واکنش"
+  },
+  "فتوسیستم<SEP>ناقل الکترون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسیستم<SEP>ناقل الکترون"
+  },
+  "بستره<SEP>سبزدیسه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بستره<SEP>سبزدیسه"
+  },
+  "آزمایش اسپیروژیر<SEP>اسپیروژیر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش اسپیروژیر<SEP>اسپیروژیر"
+  },
+  "سبزینه<SEP>هم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سبزینه<SEP>هم"
+  },
+  "فتوسیستم ۲<SEP>مرکز واکنش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسیستم ۲<SEP>مرکز واکنش"
+  },
+  "الکترون برانگیخته<SEP>واکنش‌های وابسته به نور": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "الکترون برانگیخته<SEP>واکنش‌های وابسته به نور"
+  },
+  "تیلاکوئید<SEP>فتوسیستم": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تیلاکوئید<SEP>فتوسیستم"
+  },
+  "راکیزه<SEP>سبزدیسه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "راکیزه<SEP>سبزدیسه"
+  },
+  "واکنش‌های وابسته به نور<SEP>گفتار ۲ واکنش‌های فتوسنتزی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "واکنش‌های وابسته به نور<SEP>گفتار ۲ واکنش‌های فتوسنتزی"
+  },
+  "آزمایش اسپیروژیر<SEP>سبزینه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش اسپیروژیر<SEP>سبزینه"
+  },
+  "فتوسیستم ۱<SEP>فتوسیستم ۲": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فتوسیستم ۱<SEP>فتوسیستم ۲"
+  },
+  "شیب پروتون تیلاکوئید<SEP>پمپ پروتون تیلاکوئید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شیب پروتون تیلاکوئید<SEP>پمپ پروتون تیلاکوئید"
+  },
+  "تجزیهٔ نوری آب<SEP>فتوسیستم ۲": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تجزیهٔ نوری آب<SEP>فتوسیستم ۲"
+  },
+  "NADPH<SEP>فتوسیستم ۱": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NADPH<SEP>فتوسیستم ۱"
+  },
+  "آنزیم ATP‌ساز<SEP>شیب پروتون تیلاکوئید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم ATP‌ساز<SEP>شیب پروتون تیلاکوئید"
+  },
+  "ریبولوزبیس‌فسفات<SEP>چرخهٔ کالوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ریبولوزبیس‌فسفات<SEP>چرخهٔ کالوین"
+  },
+  "اکسیژن<SEP>تجزیهٔ نوری آب": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اکسیژن<SEP>تجزیهٔ نوری آب"
+  },
+  "NADP+<SEP>NADPH": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NADP+<SEP>NADPH"
+  },
+  "آنزیم ATP‌ساز<SEP>تیلاکوئید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم ATP‌ساز<SEP>تیلاکوئید"
+  },
+  "بستره<SEP>چرخهٔ کالوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بستره<SEP>چرخهٔ کالوین"
+  },
+  "روبیسکو<SEP>ریبولوزبیس‌فسفات": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "روبیسکو<SEP>ریبولوزبیس‌فسفات"
+  },
+  "تجزیهٔ نوری آب<SEP>شیب پروتون تیلاکوئید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تجزیهٔ نوری آب<SEP>شیب پروتون تیلاکوئید"
+  },
+  "آنزیم ATP‌ساز<SEP>ساخته شدن نوری ATP": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم ATP‌ساز<SEP>ساخته شدن نوری ATP"
+  },
+  "ATP<SEP>چرخهٔ کالوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ATP<SEP>چرخهٔ کالوین"
+  },
+  "کالوین<SEP>کربن ۱۴": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "کالوین<SEP>کربن ۱۴"
+  },
+  "بسته شدن روزنه<SEP>تنفس نوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "بسته شدن روزنه<SEP>تنفس نوری"
+  },
+  "تنفس نوری<SEP>روبیسکو": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس نوری<SEP>روبیسکو"
+  },
+  "NADPH<SEP>چرخهٔ کالوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "NADPH<SEP>چرخهٔ کالوین"
+  },
+  "تنفس نوری<SEP>راکیزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس نوری<SEP>راکیزه"
+  },
+  "اثر محیط بر فتوسنتز<SEP>فتوسنتز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اثر محیط بر فتوسنتز<SEP>فتوسنتز"
+  },
+  "تثبیت کربن<SEP>چرخهٔ کالوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تثبیت کربن<SEP>چرخهٔ کالوین"
+  },
+  "گیاهان C4<SEP>یاختهٔ غلاف آوندی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گیاهان C4<SEP>یاختهٔ غلاف آوندی"
+  },
+  "تنفس نوری<SEP>فتوسنتز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس نوری<SEP>فتوسنتز"
+  },
+  "چرخهٔ کالوین<SEP>کالوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چرخهٔ کالوین<SEP>کالوین"
+  },
+  "فسفوانول‌پیرووات کربوکسیلاز<SEP>گیاهان C4": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فسفوانول‌پیرووات کربوکسیلاز<SEP>گیاهان C4"
+  },
+  "تنفس نوری<SEP>گفتار ۳ فتوسنتز در شرایط دشوار": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تنفس نوری<SEP>گفتار ۳ فتوسنتز در شرایط دشوار"
+  },
+  "آناناس<SEP>گیاهان CAM": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آناناس<SEP>گیاهان CAM"
+  },
+  "پلاسمودسم<SEP>گیاهان C4": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پلاسمودسم<SEP>گیاهان C4"
+  },
+  "چرخهٔ کالوین<SEP>گیاهان CAM": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "چرخهٔ کالوین<SEP>گیاهان CAM"
+  },
+  "جانداران فتوسنتزکنندهٔ دیگر<SEP>سیانوباکتری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جانداران فتوسنتزکنندهٔ دیگر<SEP>سیانوباکتری"
+  },
+  "سبزینهٔ a و b<SEP>سیانوباکتری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "سبزینهٔ a و b<SEP>سیانوباکتری"
+  },
+  "باکتریوکلروفیل<SEP>باکتری‌های گوگردی ارغوانی و سبز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتریوکلروفیل<SEP>باکتری‌های گوگردی ارغوانی و سبز"
+  },
+  "گیاهان C4<SEP>گیاهان CAM": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گیاهان C4<SEP>گیاهان CAM"
+  },
+  "باکتری‌های گوگردی ارغوانی و سبز<SEP>هیدروژن سولفید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌های گوگردی ارغوانی و سبز<SEP>هیدروژن سولفید"
+  },
+  "گیاهان C3<SEP>گیاهان C4": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گیاهان C3<SEP>گیاهان C4"
+  },
+  "مقایسهٔ فتوسنتز C3، C4 و CAM<SEP>گیاهان CAM": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مقایسهٔ فتوسنتز C3، C4 و CAM<SEP>گیاهان CAM"
+  },
+  "آغازیان فتوسنتزکننده<SEP>اوگلنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آغازیان فتوسنتزکننده<SEP>اوگلنا"
+  },
+  "باکتری‌های گوگردی ارغوانی و سبز<SEP>سیانوباکتری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌های گوگردی ارغوانی و سبز<SEP>سیانوباکتری"
+  },
+  "باکتری‌های شیمیوسنتزکننده<SEP>شیمیوسنتز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌های شیمیوسنتزکننده<SEP>شیمیوسنتز"
+  },
+  "شیمیوسنتز<SEP>هیدروژن سولفید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شیمیوسنتز<SEP>هیدروژن سولفید"
+  },
+  "باکتری‌های شیمیوسنتزکننده<SEP>باکتری‌های نیترات‌ساز": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌های شیمیوسنتزکننده<SEP>باکتری‌های نیترات‌ساز"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۷ فناوری‌های نوین زیستی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۷ فناوری‌های نوین زیستی"
+  },
+  "ذرت<SEP>گیاهان C4": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ذرت<SEP>گیاهان C4"
+  },
+  "باکتری‌های شیمیوسنتزکننده<SEP>کرم‌های لوله‌ای": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌های شیمیوسنتزکننده<SEP>کرم‌های لوله‌ای"
+  },
+  "زیست‌فناوری<SEP>فصل ۷ فناوری‌های نوین زیستی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>فصل ۷ فناوری‌های نوین زیستی"
+  },
+  "تاج خروس<SEP>گیاهان C4": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تاج خروس<SEP>گیاهان C4"
+  },
+  "زیست‌فناوری نوین<SEP>مهندسی ژنتیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری نوین<SEP>مهندسی ژنتیک"
+  },
+  "جاندار تراژنی<SEP>مهندسی ژنتیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جاندار تراژنی<SEP>مهندسی ژنتیک"
+  },
+  "تخمیر<SEP>زیست‌فناوری سنتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تخمیر<SEP>زیست‌فناوری سنتی"
+  },
+  "زیست‌فناوری<SEP>مهندسی ژنتیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>مهندسی ژنتیک"
+  },
+  "آنزیم برش‌دهنده<SEP>همسانه‌سازی دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم برش‌دهنده<SEP>همسانه‌سازی دنا"
+  },
+  "زیست‌فناوری<SEP>زیست‌فناوری سنتی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>زیست‌فناوری سنتی"
+  },
+  "EcoRI<SEP>آنزیم برش‌دهنده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "EcoRI<SEP>آنزیم برش‌دهنده"
+  },
+  "زیست‌فناوری<SEP>زیست‌فناوری کلاسیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>زیست‌فناوری کلاسیک"
+  },
+  "EcoRI<SEP>جایگاه تشخیص": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "EcoRI<SEP>جایگاه تشخیص"
+  },
+  "دنای نوترکیب<SEP>ناقل همسانه‌سازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای نوترکیب<SEP>ناقل همسانه‌سازی"
+  },
+  "زیست‌فناوری<SEP>زیست‌فناوری نوین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>زیست‌فناوری نوین"
+  },
+  "EcoRI<SEP>انتهای چسبنده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "EcoRI<SEP>انتهای چسبنده"
+  },
+  "دیسک<SEP>ناقل همسانه‌سازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دیسک<SEP>ناقل همسانه‌سازی"
+  },
+  "دنای نوترکیب<SEP>همسانه‌سازی دنا": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای نوترکیب<SEP>همسانه‌سازی دنا"
+  },
+  "مراحل تولید گیاه تراژنی<SEP>مهندسی ژنتیک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مراحل تولید گیاه تراژنی<SEP>مهندسی ژنتیک"
+  },
+  "زیست‌فناوری<SEP>شاخه‌های رنگی زیست‌فناوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>شاخه‌های رنگی زیست‌فناوری"
+  },
+  "EcoRI<SEP>پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-055"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "EcoRI<SEP>پیوند فسفودی‌استر"
+  },
+  "آنزیم لیگاز<SEP>دنای نوترکیب": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم لیگاز<SEP>دنای نوترکیب"
+  },
+  "دیسک<SEP>ژن مقاومت به پادزیست": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دیسک<SEP>ژن مقاومت به پادزیست"
+  },
+  "زیست‌فناوری<SEP>مهندسی پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌فناوری<SEP>مهندسی پروتئین"
+  },
+  "باکتری‌خوار<SEP>ناقل همسانه‌سازی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "باکتری‌خوار<SEP>ناقل همسانه‌سازی"
+  },
+  "دنای نوترکیب<SEP>وارد کردن دنای نوترکیب به یاختهٔ میزبان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دنای نوترکیب<SEP>وارد کردن دنای نوترکیب به یاختهٔ میزبان"
+  },
+  "آنزیم لیگاز<SEP>پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم لیگاز<SEP>پیوند فسفودی‌استر"
+  },
+  "جایگاه شروع همانندسازی<SEP>دیسک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جایگاه شروع همانندسازی<SEP>دیسک"
+  },
+  "آمپی‌سیلین<SEP>جداسازی یاخته‌های تراژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمپی‌سیلین<SEP>جداسازی یاخته‌های تراژنی"
+  },
+  "همسانه‌سازی دنا<SEP>وارد کردن دنای نوترکیب به یاختهٔ میزبان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "همسانه‌سازی دنا<SEP>وارد کردن دنای نوترکیب به یاختهٔ میزبان"
+  },
+  "افزایش پایداری پروتئین<SEP>مهندسی پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "افزایش پایداری پروتئین<SEP>مهندسی پروتئین"
+  },
+  "آنزیم لیگاز<SEP>انتهای چسبنده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-056"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم لیگاز<SEP>انتهای چسبنده"
+  },
+  "جداسازی یاخته‌های تراژنی<SEP>ژن مقاومت به پادزیست": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جداسازی یاخته‌های تراژنی<SEP>ژن مقاومت به پادزیست"
+  },
+  "مهندسی پروتئین<SEP>گفتار ۲ فناوری مهندسی پروتئین و بافت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مهندسی پروتئین<SEP>گفتار ۲ فناوری مهندسی پروتئین و بافت"
+  },
+  "آمیلاز<SEP>افزایش پایداری پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمیلاز<SEP>افزایش پایداری پروتئین"
+  },
+  "لخته در سرخرگ‌ها<SEP>پلاسمین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "لخته در سرخرگ‌ها<SEP>پلاسمین"
+  },
+  "مهندسی بافت<SEP>یاخته‌های بنیادی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مهندسی بافت<SEP>یاخته‌های بنیادی"
+  },
+  "اینترفرون<SEP>مهندسی پروتئین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اینترفرون<SEP>مهندسی پروتئین"
+  },
+  "آمیلاز<SEP>باکتری‌های مقاوم به گرما": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمیلاز<SEP>باکتری‌های مقاوم به گرما"
+  },
+  "غضروف<SEP>مهندسی بافت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "غضروف<SEP>مهندسی بافت"
+  },
+  "یاخته‌های بنیادی<SEP>یاخته‌های بنیادی بالغ": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "یاخته‌های بنیادی<SEP>یاخته‌های بنیادی بالغ"
+  },
+  "افزایش پایداری پروتئین<SEP>اینترفرون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-057"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "افزایش پایداری پروتئین<SEP>اینترفرون"
+  },
+  "گفتار ۳ کاربردهای زیست‌فناوری<SEP>گیاه مقاوم به آفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "گفتار ۳ کاربردهای زیست‌فناوری<SEP>گیاه مقاوم به آفت"
+  },
+  "یاخته‌های بنیادی بالغ<SEP>یاخته‌های بنیادی مغز استخوان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "یاخته‌های بنیادی بالغ<SEP>یاخته‌های بنیادی مغز استخوان"
+  },
+  "یاخته‌های بنیادی<SEP>یاخته‌های بنیادی جنینی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-058"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "یاخته‌های بنیادی<SEP>یاخته‌های بنیادی جنینی"
+  },
+  "پیش‌سم باکتری خاکزی<SEP>گیاه مقاوم به آفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پیش‌سم باکتری خاکزی<SEP>گیاه مقاوم به آفت"
+  },
+  "مورولا و بلاستولا<SEP>یاخته‌های بنیادی جنینی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مورولا و بلاستولا<SEP>یاخته‌های بنیادی جنینی"
+  },
+  "انسولین<SEP>تولید دارو با دنای نوترکیب": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انسولین<SEP>تولید دارو با دنای نوترکیب"
+  },
+  "پنبهٔ مقاوم<SEP>گیاه مقاوم به آفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "پنبهٔ مقاوم<SEP>گیاه مقاوم به آفت"
+  },
+  "آنزیم<SEP>پیش‌سم باکتری خاکزی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آنزیم<SEP>پیش‌سم باکتری خاکزی"
+  },
+  "تولید انسولین با مهندسی ژنتیک<SEP>دیسک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تولید انسولین با مهندسی ژنتیک<SEP>دیسک"
+  },
+  "انسولین<SEP>زنجیرهٔ C": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انسولین<SEP>زنجیرهٔ C"
+  },
+  "واکسن نوترکیب<SEP>واکسن هپاتیت B": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "واکسن نوترکیب<SEP>واکسن هپاتیت B"
+  },
+  "همسانه‌سازی دنا<SEP>گیاه مقاوم به آفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "همسانه‌سازی دنا<SEP>گیاه مقاوم به آفت"
+  },
+  "تولید دارو با دنای نوترکیب<SEP>گفتار ۳ کاربردهای زیست‌فناوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تولید دارو با دنای نوترکیب<SEP>گفتار ۳ کاربردهای زیست‌فناوری"
+  },
+  "انسولین<SEP>دیابت نوع یک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انسولین<SEP>دیابت نوع یک"
+  },
+  "ایدز<SEP>تشخیص بیماری با زیست‌فناوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ایدز<SEP>تشخیص بیماری با زیست‌فناوری"
+  },
+  "کشاورزی نوین<SEP>گیاه مقاوم به آفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-059"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "کشاورزی نوین<SEP>گیاه مقاوم به آفت"
+  },
+  "کاربردهای زیست‌فناوری در کشاورزی<SEP>گفتار ۳ کاربردهای زیست‌فناوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-060"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "کاربردهای زیست‌فناوری در کشاورزی<SEP>گفتار ۳ کاربردهای زیست‌فناوری"
+  },
+  "شبیه‌سازی<SEP>پژوهشکدهٔ رویان": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شبیه‌سازی<SEP>پژوهشکدهٔ رویان"
+  },
+  "ایدز<SEP>نوکلئیک اسید": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ایدز<SEP>نوکلئیک اسید"
+  },
+  "جانوران تراژنی<SEP>گوسفند تراژنی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جانوران تراژنی<SEP>گوسفند تراژنی"
+  },
+  "ژن‌درمانی<SEP>گفتار ۳ کاربردهای زیست‌فناوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ژن‌درمانی<SEP>گفتار ۳ کاربردهای زیست‌فناوری"
+  },
+  "ایمنی زیستی<SEP>زیست‌فناوری و اخلاق": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ایمنی زیستی<SEP>زیست‌فناوری و اخلاق"
+  },
+  "زیست‌شناسی ۳<SEP>فصل ۸ رفتارهای جانوران": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیست‌شناسی ۳<SEP>فصل ۸ رفتارهای جانوران"
+  },
+  "جوجه کاکایی<SEP>رفتار غریزی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جوجه کاکایی<SEP>رفتار غریزی"
+  },
+  "رفتار مراقبت مادری موش<SEP>ژن B موش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رفتار مراقبت مادری موش<SEP>ژن B موش"
+  },
+  "ویروس<SEP>ژن‌درمانی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-061"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ویروس<SEP>ژن‌درمانی"
+  },
+  "رفتار<SEP>فصل ۸ رفتارهای جانوران": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رفتار<SEP>فصل ۸ رفتارهای جانوران"
+  },
+  "زیرنهنج<SEP>ژن B موش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زیرنهنج<SEP>ژن B موش"
+  },
+  "رفتار غریزی<SEP>رفتار مراقبت مادری موش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رفتار غریزی<SEP>رفتار مراقبت مادری موش"
+  },
+  "جوجه کاکایی<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جوجه کاکایی<SEP>یادگیری"
+  },
+  "انتخاب طبیعی<SEP>فصل ۸ رفتارهای جانوران": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-062"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>فصل ۸ رفتارهای جانوران"
+  },
+  "تین‌برگن، لورنز و فون فریش<SEP>رفتارشناسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تین‌برگن، لورنز و فون فریش<SEP>رفتارشناسی"
+  },
+  "رفتار غریزی<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رفتار غریزی<SEP>یادگیری"
+  },
+  "انتخاب طبیعی<SEP>بوم‌شناسی رفتاری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-063"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>بوم‌شناسی رفتاری"
+  },
+  "خوگیری<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-064"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خوگیری<SEP>یادگیری"
+  },
+  "جوجه کاکایی<SEP>کاکایی سرسیاه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-064"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جوجه کاکایی<SEP>کاکایی سرسیاه"
+  },
+  "اسکینر<SEP>جعبهٔ اسکینر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اسکینر<SEP>جعبهٔ اسکینر"
+  },
+  "شرطی شدن کلاسیک<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-064"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شرطی شدن کلاسیک<SEP>یادگیری"
+  },
+  "شرطی شدن فعال<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-064"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شرطی شدن فعال<SEP>یادگیری"
+  },
+  "شرطی شدن کلاسیک<SEP>پاولوف": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-064"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شرطی شدن کلاسیک<SEP>پاولوف"
+  },
+  "حل مسئله<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "حل مسئله<SEP>یادگیری"
+  },
+  "شرطی شدن فعال<SEP>پروانهٔ مونارک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شرطی شدن فعال<SEP>پروانهٔ مونارک"
+  },
+  "شرطی شدن کلاسیک<SEP>محرک شرطی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-064"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "شرطی شدن کلاسیک<SEP>محرک شرطی"
+  },
+  "اسکینر<SEP>شرطی شدن فعال": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اسکینر<SEP>شرطی شدن فعال"
+  },
+  "نقش‌پذیری<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نقش‌پذیری<SEP>یادگیری"
+  },
+  "حل مسئله<SEP>شامپانزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "حل مسئله<SEP>شامپانزه"
+  },
+  "برهم‌کنش غریزه و یادگیری<SEP>رفتار غریزی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "برهم‌کنش غریزه و یادگیری<SEP>رفتار غریزی"
+  },
+  "لورنز<SEP>نقش‌پذیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "لورنز<SEP>نقش‌پذیری"
+  },
+  "حل مسئله<SEP>کلاغ سیاه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-065"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "حل مسئله<SEP>کلاغ سیاه"
+  },
+  "خوگیری<SEP>شقایق دریایی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خوگیری<SEP>شقایق دریایی"
+  },
+  "فصل ۸ رفتارهای جانوران<SEP>گفتار ۲ انتخاب طبیعی و رفتار": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فصل ۸ رفتارهای جانوران<SEP>گفتار ۲ انتخاب طبیعی و رفتار"
+  },
+  "برهم‌کنش غریزه و یادگیری<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "برهم‌کنش غریزه و یادگیری<SEP>یادگیری"
+  },
+  "آزمایش پوستهٔ تخم کاکایی<SEP>تین‌برگن": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش پوستهٔ تخم کاکایی<SEP>تین‌برگن"
+  },
+  "دورهٔ حساس<SEP>نقش‌پذیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دورهٔ حساس<SEP>نقش‌پذیری"
+  },
+  "انتخاب طبیعی<SEP>رفتار سازگارکننده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>رفتار سازگارکننده"
+  },
+  "انتخاب جفت<SEP>زادآوری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب جفت<SEP>زادآوری"
+  },
+  "رنگ درخشان پرنده<SEP>طاووس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رنگ درخشان پرنده<SEP>طاووس"
+  },
+  "جوجه‌غاز<SEP>نقش‌پذیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-066"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جوجه‌غاز<SEP>نقش‌پذیری"
+  },
+  "آزمایش پوستهٔ تخم کاکایی<SEP>رفتار سازگارکننده": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آزمایش پوستهٔ تخم کاکایی<SEP>رفتار سازگارکننده"
+  },
+  "انتخاب جفت<SEP>طاووس": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب جفت<SEP>طاووس"
+  },
+  "نظام جفت‌گیری<SEP>چندهمسری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "نظام جفت‌گیری<SEP>چندهمسری"
+  },
+  "غذایابی<SEP>غذایابی بهینه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "غذایابی<SEP>غذایابی بهینه"
+  },
+  "آمیزش غیرتصادفی<SEP>انتخاب جفت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-067"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "آمیزش غیرتصادفی<SEP>انتخاب جفت"
+  },
+  "طاووس<SEP>چندهمسری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "طاووس<SEP>چندهمسری"
+  },
+  "تک‌همسری<SEP>نظام جفت‌گیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "تک‌همسری<SEP>نظام جفت‌گیری"
+  },
+  "خرچنگ ساحلی<SEP>غذایابی بهینه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خرچنگ ساحلی<SEP>غذایابی بهینه"
+  },
+  "قلمرو<SEP>قلمروخواهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "قلمرو<SEP>قلمروخواهی"
+  },
+  "جهت‌یابی<SEP>مهاجرت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهت‌یابی<SEP>مهاجرت"
+  },
+  "انتخاب جفت<SEP>صفات ثانویهٔ جنسی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب جفت<SEP>صفات ثانویهٔ جنسی"
+  },
+  "میدان مغناطیسی زمین<SEP>کبوتر خانگی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "میدان مغناطیسی زمین<SEP>کبوتر خانگی"
+  },
+  "انتخاب طبیعی<SEP>غذایابی بهینه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>غذایابی بهینه"
+  },
+  "مهاجرت<SEP>پرندگان مهاجر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مهاجرت<SEP>پرندگان مهاجر"
+  },
+  "الک‌پشت دریایی<SEP>میدان مغناطیسی زمین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "الک‌پشت دریایی<SEP>میدان مغناطیسی زمین"
+  },
+  "الک‌پشت منقار عقابی<SEP>جزیرهٔ شیدور": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "الک‌پشت منقار عقابی<SEP>جزیرهٔ شیدور"
+  },
+  "انتخاب جفت<SEP>جیرجیرک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-068"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب جفت<SEP>جیرجیرک"
+  },
+  "خرس قهوه‌ای<SEP>خواب زمستانی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خرس قهوه‌ای<SEP>خواب زمستانی"
+  },
+  "مهاجرت<SEP>یادگیری": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "مهاجرت<SEP>یادگیری"
+  },
+  "جهت‌یابی<SEP>میدان مغناطیسی زمین": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-069"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "جهت‌یابی<SEP>میدان مغناطیسی زمین"
+  },
+  "الک‌پشت منقار عقابی<SEP>ردیابی ماهواره‌ای الک‌پشت‌ها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "الک‌پشت منقار عقابی<SEP>ردیابی ماهواره‌ای الک‌پشت‌ها"
+  },
+  "ارتباط بین جانوران<SEP>گفتار ۳ ارتباط و زندگی گروهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارتباط بین جانوران<SEP>گفتار ۳ ارتباط و زندگی گروهی"
+  },
+  "خواب زمستانی<SEP>رکود تابستانی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خواب زمستانی<SEP>رکود تابستانی"
+  },
+  "ارتباط در زنبور عسل<SEP>فون فریش": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارتباط در زنبور عسل<SEP>فون فریش"
+  },
+  "الک‌پشت منقار عقابی<SEP>مهاجرت": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "الک‌پشت منقار عقابی<SEP>مهاجرت"
+  },
+  "زندگی گروهی<SEP>مورچهٔ برگ‌بر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زندگی گروهی<SEP>مورچهٔ برگ‌بر"
+  },
+  "ارتباط بین جانوران<SEP>جیرجیرک": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-070"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارتباط بین جانوران<SEP>جیرجیرک"
+  },
+  "ارتباط در زنبور عسل<SEP>زنبور کارگر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارتباط در زنبور عسل<SEP>زنبور کارگر"
+  },
+  "دگرخواهی<SEP>زندگی گروهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگرخواهی<SEP>زندگی گروهی"
+  },
+  "ارتباط بین جانوران<SEP>فرومون": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارتباط بین جانوران<SEP>فرومون"
+  },
+  "دگرخواهی<SEP>زنبور کارگر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگرخواهی<SEP>زنبور کارگر"
+  },
+  "ارتباط بین جانوران<SEP>ارتباط در زنبور عسل": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-071"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "ارتباط بین جانوران<SEP>ارتباط در زنبور عسل"
+  },
+  "زندگی گروهی<SEP>مزیت زندگی گروهی کبوترها": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "زندگی گروهی<SEP>مزیت زندگی گروهی کبوترها"
+  },
+  "خویشاوندان<SEP>دگرخواهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خویشاوندان<SEP>دگرخواهی"
+  },
+  "دگره<SEP>واژه‌های مصوب فرهنگستان زیست ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگره<SEP>واژه‌های مصوب فرهنگستان زیست ۳"
+  },
+  "خفاش خون‌آشام<SEP>دگرخواهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خفاش خون‌آشام<SEP>دگرخواهی"
+  },
+  "خویشاوندان<SEP>زنبور کارگر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "خویشاوندان<SEP>زنبور کارگر"
+  },
+  "رمزه<SEP>واژه‌های مصوب فرهنگستان زیست ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رمزه<SEP>واژه‌های مصوب فرهنگستان زیست ۳"
+  },
+  "دم‌عصایی<SEP>دگرخواهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دم‌عصایی<SEP>دگرخواهی"
+  },
+  "واژه‌های مصوب فرهنگستان زیست ۳<SEP>پادرمزه": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "واژه‌های مصوب فرهنگستان زیست ۳<SEP>پادرمزه"
+  },
+  "دگرخواهی<SEP>یاریگر": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دگرخواهی<SEP>یاریگر"
+  },
+  "دفتر تألیف کتاب‌های درسی<SEP>کتاب زیست‌شناسی ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-074"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دفتر تألیف کتاب‌های درسی<SEP>کتاب زیست‌شناسی ۳"
+  },
+  "فام‌تن<SEP>واژه‌های مصوب فرهنگستان زیست ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "فام‌تن<SEP>واژه‌های مصوب فرهنگستان زیست ۳"
+  },
+  "انتخاب طبیعی<SEP>دگرخواهی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-072"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "انتخاب طبیعی<SEP>دگرخواهی"
+  },
+  "دفتر تألیف کتاب‌های درسی<SEP>سازمان پژوهش و برنامه‌ریزی آموزشی": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-074"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دفتر تألیف کتاب‌های درسی<SEP>سازمان پژوهش و برنامه‌ریزی آموزشی"
+  },
+  "اعتبارسنجی کتاب زیست ۳<SEP>کتاب زیست‌شناسی ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-074"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "اعتبارسنجی کتاب زیست ۳<SEP>کتاب زیست‌شناسی ۳"
+  },
+  "رناتن<SEP>واژه‌های مصوب فرهنگستان زیست ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "رناتن<SEP>واژه‌های مصوب فرهنگستان زیست ۳"
+  },
+  "دیسک<SEP>واژه‌های مصوب فرهنگستان زیست ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "دیسک<SEP>واژه‌های مصوب فرهنگستان زیست ۳"
+  },
+  "قندکافت<SEP>واژه‌های مصوب فرهنگستان زیست ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-073"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "قندکافت<SEP>واژه‌های مصوب فرهنگستان زیست ۳"
+  },
+  "واژه‌های مصوب فرهنگستان زیست ۳<SEP>کتاب زیست‌شناسی ۳": {
+    "chunk_ids": [
+      "doc-44196875fe1b5053df21cd015b3e611e-chunk-074"
+    ],
+    "count": 1,
+    "create_time": 1790343240,
+    "update_time": 1790343240,
+    "_id": "واژه‌های مصوب فرهنگستان زیست ۳<SEP>کتاب زیست‌شناسی ۳"
   }
 }

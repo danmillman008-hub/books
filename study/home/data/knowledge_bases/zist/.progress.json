@@ -1,16 +1,18 @@
 {
   "kb_name": "zist",
-  "task_id": "kb_init_20260925_103432_89b03ea6",
+  "task_id": "kb_upload_20260925_131413_eb043490",
   "stage": "completed",
-  "message": "Knowledge base initialization complete!",
+  "message": "Successfully processed 1 files!",
   "current": 1,
   "total": 1,
   "file_name": "",
   "progress_percent": 100,
-  "timestamp": "2026-09-25T10:53:07.470154",
-  "indexed_count": 2,
+  "timestamp": "2026-09-25T13:34:07.807280",
+  "indexed_count": 1,
   "index_changed": true,
-  "index_action": "create",
-  "message_key": "Knowledge base initialization complete!",
-  "message_params": {}
+  "index_action": "upload",
+  "message_key": "Successfully processed {{count}} files!",
+  "message_params": {
+    "count": 1
+  }
 }
