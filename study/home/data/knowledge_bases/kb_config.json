@@ -1,0 +1,84 @@
+{
+  "knowledge_bases": {
+    "zist": {
+      "path": "zist",
+      "description": "Knowledge base: zist",
+      "status": "processing",
+      "updated_at": "2026-09-25T10:34:33.787988",
+      "progress": {
+        "stage": "processing_documents",
+        "message": "Found 2 documents, starting to process...",
+        "percent": 0,
+        "current": 0,
+        "total": 2,
+        "file_name": "",
+        "error": null,
+        "error_code": null,
+        "retryable": null,
+        "timestamp": "2026-09-25T10:34:33.783620",
+        "task_id": "kb_init_20260925_103432_89b03ea6",
+        "indexed_count": null,
+        "index_changed": null,
+        "index_action": null,
+        "message_key": "Found {{count}} documents, starting to process...",
+        "message_params": {
+          "count": 2
+        }
+      },
+      "rag_provider": "lightrag",
+      "index_versions": [
+        {
+          "version": "version-1",
+          "signature": "version-1",
+          "ready": false,
+          "storage_path": "/home/user/books/study/home/data/knowledge_bases/zist/version-1",
+          "version_path": "/home/user/books/study/home/data/knowledge_bases/zist/version-1",
+          "layout": "flat",
+          "probe_diagnostics": {
+            "version_provider": null,
+            "version_signature": "version-1",
+            "provider_mismatch": true
+          }
+        }
+      ],
+      "needs_reindex": false,
+      "embedding_selection": {
+        "profile_id": "local-emb",
+        "model_id": "fa-ngram"
+      },
+      "embedding_model": "local-fa-ngram-hash-1024",
+      "embedding_dim": 1024,
+      "embedding_signature": "2602017c65b5b66e",
+      "embedding_status": "ready",
+      "pending_indexing_policy": {
+        "schema_version": 2,
+        "policy": "pending_pinned",
+        "extract": {
+          "policy": "pinned",
+          "descriptor": {
+            "binding": "custom",
+            "provider_mode": "direct",
+            "endpoint": "http://127.0.0.1:8765/v1",
+            "api_version": null,
+            "model": "agent-tutor",
+            "reasoning_effort": "",
+            "profile_id": "agent-bridge",
+            "model_id": "agent-tutor",
+            "wire_api": "auto",
+            "api_format": "auto",
+            "context_window": 128000
+          },
+          "fingerprint": "1ee7718239b7acb5a52c5d7254d8382c9be0437a325a2f74ec317085036007ca",
+          "vision_available": false,
+          "selection": {
+            "profile_id": "agent-bridge",
+            "model_id": "agent-tutor"
+          }
+        },
+        "vlm": {
+          "mode": "disabled"
+        }
+      }
+    }
+  }
+}

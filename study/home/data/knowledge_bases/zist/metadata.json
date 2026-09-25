@@ -1,0 +1,8 @@
+{
+  "name": "zist",
+  "created_at": "2026-09-25 10:34:32",
+  "description": "Knowledge base: zist",
+  "version": "1.0",
+  "rag_provider": "lightrag",
+  "needs_reindex": false
+}

@@ -1,0 +1,24 @@
+{
+  "parser_bridge_schema": 1,
+  "canonical_filename": "jozve_nokte_test_zist.pdf",
+  "parser": {
+    "engine": "text_only",
+    "source_hash": "02c13ae025ab9c17",
+    "parser_signature": "a16aaf2359a1ec81"
+  },
+  "source": {
+    "path": "../../pending/jozve_nokte_test_zist.pdf",
+    "sha256": "02c13ae025ab9c17502bd359a0eb5e605f891d0185563ca400b7e2a479940b82"
+  },
+  "markdown": {
+    "path": "markdown.utf8",
+    "sha256": "b5b27777a0ae5cf2c54b65dbe690d52fc037accff46e6c45d01046276cc7c201"
+  },
+  "blocks": null,
+  "assets": [],
+  "process_options": "F",
+  "chunk_options": {
+    "fixed_token": {}
+  },
+  "block_policy": null
+}

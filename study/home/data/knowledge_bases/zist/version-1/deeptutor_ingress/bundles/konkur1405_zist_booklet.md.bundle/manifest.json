@@ -1,0 +1,24 @@
+{
+  "parser_bridge_schema": 1,
+  "canonical_filename": "konkur1405_zist_booklet.md",
+  "parser": {
+    "engine": "text_only",
+    "source_hash": "594fff95a2ed4f51",
+    "parser_signature": "a16aaf2359a1ec81"
+  },
+  "source": {
+    "path": "../../pending/konkur1405_zist_booklet.md",
+    "sha256": "594fff95a2ed4f51c86401af4fb26b0be75e66041709944496a3ba5fea626082"
+  },
+  "markdown": {
+    "path": "markdown.utf8",
+    "sha256": "594fff95a2ed4f51c86401af4fb26b0be75e66041709944496a3ba5fea626082"
+  },
+  "blocks": null,
+  "assets": [],
+  "process_options": "F",
+  "chunk_options": {
+    "fixed_token": {}
+  },
+  "block_policy": null
+}

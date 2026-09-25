@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "connections": [],
+  "services": {
+    "llm": {
+      "active_profile_id": "agent-bridge",
+      "active_model_id": "agent-tutor",
+      "profiles": [
+        {
+          "id": "agent-bridge",
+          "name": "Agent (Arena) via local bridge",
+          "binding": "custom",
+          "base_url": "http://127.0.0.1:8765/v1",
+          "api_key": "local-bridge",
+          "api_version": "",
+          "extra_headers": {},
+          "models": [
+            {
+              "id": "agent-tutor",
+              "name": "agent-tutor",
+              "model": "agent-tutor",
+              "context_window": 128000,
+              "capabilities": {
+                "tools": true,
+                "json_output": true,
+                "vision": false,
+                "reasoning": false
+              }
+            }
+          ],
+          "api_format": "auto",
+          "wire_api": "auto"
+        }
+      ]
+    },
+    "task": {
+      "active_profile_id": null,
+      "active_model_id": null,
+      "profiles": []
+    },
+    "embedding": {
+      "active_profile_id": "local-emb",
+      "active_model_id": "fa-ngram",
+      "profiles": [
+        {
+          "id": "local-emb",
+          "name": "Local Persian n-gram hash embedding",
+          "binding": "custom",
+          "base_url": "http://127.0.0.1:8765/v1/embeddings",
+          "api_key": "local-bridge",
+          "api_version": "",
+          "extra_headers": {},
+          "models": [
+            {
+              "id": "fa-ngram",
+              "name": "local-fa-ngram-hash-1024",
+              "model": "local-fa-ngram-hash-1024",
+              "dimension": "1024",
+              "supported_dimensions": ""
+            }
+          ]
+        }
+      ]
+    },
+    "search": {
+      "active_profile_id": null,
+      "profiles": []
+    },
+    "tts": {
+      "active_profile_id": null,
+      "active_model_id": null,
+      "profiles": []
+    },
+    "stt": {
+      "active_profile_id": null,
+      "active_model_id": null,
+      "profiles": []
+    },
+    "imagegen": {
+      "active_profile_id": null,
+      "active_model_id": null,
+      "profiles": []
+    },
+    "videogen": {
+      "active_profile_id": null,
+      "active_model_id": null,
+      "profiles": []
+    }
+  }
+}

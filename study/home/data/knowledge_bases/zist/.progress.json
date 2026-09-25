@@ -1,0 +1,15 @@
+{
+  "kb_name": "zist",
+  "task_id": "kb_init_20260925_103432_89b03ea6",
+  "stage": "processing_documents",
+  "message": "Found 2 documents, starting to process...",
+  "current": 0,
+  "total": 2,
+  "file_name": "",
+  "progress_percent": 0,
+  "timestamp": "2026-09-25T10:34:33.783620",
+  "message_key": "Found {{count}} documents, starting to process...",
+  "message_params": {
+    "count": 2
+  }
+}

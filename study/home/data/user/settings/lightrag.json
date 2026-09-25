@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "top_k": 40,
+  "response_type": "Multiple Paragraphs",
+  "max_concurrent_files": 1,
+  "llm_model_max_async": 4,
+  "entity_extract_max_gleaning": 0,
+  "llm_timeout": 3600,
+  "llm_profile_id": "agent-bridge",
+  "llm_model_id": "agent-tutor",
+  "role_models": {
+    "base": {
+      "profile_id": "agent-bridge",
+      "model_id": "agent-tutor",
+      "reasoning_effort": null
+    },
+    "extract": {
+      "mode": "inherit",
+      "selection": null,
+      "reasoning_effort": null,
+      "max_async": 4,
+      "timeout": 3600
+    },
+    "keyword": {
+      "mode": "inherit",
+      "selection": null,
+      "reasoning_effort": null,
+      "max_async": 4,
+      "timeout": 3600
+    },
+    "query": {
+      "mode": "inherit",
+      "selection": null,
+      "reasoning_effort": null,
+      "max_async": 4,
+      "timeout": 3600
+    },
+    "vlm": {
+      "mode": "disabled",
+      "selection": null,
+      "reasoning_effort": null,
+      "max_async": 4,
+      "timeout": 3600
+    }
+  }
+}
