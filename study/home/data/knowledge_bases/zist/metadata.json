@@ -4,5 +4,9 @@
   "description": "Knowledge base: zist",
   "version": "1.0",
   "rag_provider": "lightrag",
-  "needs_reindex": false
+  "needs_reindex": false,
+  "last_updated": "2026-09-25 10:53:07",
+  "last_indexed_at": "2026-09-25 10:53:07",
+  "last_indexed_count": 2,
+  "last_indexed_action": "create"
 }

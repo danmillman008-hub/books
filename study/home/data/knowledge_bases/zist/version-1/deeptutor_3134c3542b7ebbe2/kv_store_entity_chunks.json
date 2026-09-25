@@ -1,0 +1,4883 @@
+{
+  "کنکور تجربی ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 10,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "کنکور تجربی ۱۴۰۵"
+  },
+  "سؤال ۱ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱ کنکور ۱۴۰۵"
+  },
+  "شرطی‌شدن فعال": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "شرطی‌شدن فعال"
+  },
+  "نقش‌پذیری": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "نقش‌پذیری"
+  },
+  "حل مسئله": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "حل مسئله"
+  },
+  "سؤال ۲ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۲ کنکور ۱۴۰۵"
+  },
+  "لکهٔ زرد": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "لکهٔ زرد"
+  },
+  "نقطهٔ کور": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "نقطهٔ کور"
+  },
+  "قرنیه": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "قرنیه"
+  },
+  "سؤال ۳ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۳ کنکور ۱۴۰۵"
+  },
+  "خرزهره": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "خرزهره"
+  },
+  "پوستک": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "پوستک"
+  },
+  "سؤال ۴ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۴ کنکور ۱۴۰۵"
+  },
+  "طحال": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "طحال"
+  },
+  "سؤال ۵ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۵ کنکور ۱۴۰۵"
+  },
+  "درشت‌خوار حبابکی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "درشت‌خوار حبابکی"
+  },
+  "یاختهٔ دارینه‌ای": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "یاختهٔ دارینه‌ای"
+  },
+  "ماستوسیت": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "ماستوسیت"
+  },
+  "سؤال ۶ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۶ کنکور ۱۴۰۵"
+  },
+  "حلزون گوش": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "حلزون گوش"
+  },
+  "یاختهٔ گیرندهٔ مژک‌دار": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "یاختهٔ گیرندهٔ مژک‌دار"
+  },
+  "عصب شنوایی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "عصب شنوایی"
+  },
+  "سؤال ۷ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۷ کنکور ۱۴۰۵"
+  },
+  "دانهٔ لوبیا": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "دانهٔ لوبیا"
+  },
+  "خواب دانه": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "خواب دانه"
+  },
+  "سؤال ۸ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۸ کنکور ۱۴۰۵"
+  },
+  "توالی افزاینده": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "توالی افزاینده"
+  },
+  "عوامل رونویسی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "عوامل رونویسی"
+  },
+  "سؤال ۹ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۹ کنکور ۱۴۰۵"
+  },
+  "جسم زرد": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "جسم زرد"
+  },
+  "آندومتر": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "آندومتر"
+  },
+  "انبانک": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "انبانک"
+  },
+  "سؤال ۱۰ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۰ کنکور ۱۴۰۵"
+  },
+  "کم‌خونی داسی‌شکل": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-001",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 5,
+    "update_time": 1790333582,
+    "_id": "کم‌خونی داسی‌شکل"
+  },
+  "مالاریا": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "مالاریا"
+  },
+  "سؤال ۱۱ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۱ کنکور ۱۴۰۵"
+  },
+  "کوررنگی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "کوررنگی"
+  },
+  "هموفیلی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 2,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "هموفیلی"
+  },
+  "چلیپایی‌شدن": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "چلیپایی‌شدن"
+  },
+  "سؤال ۱۲ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۲ کنکور ۱۴۰۵"
+  },
+  "سیتوکینین": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "سیتوکینین"
+  },
+  "اکسین": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "اکسین"
+  },
+  "کال": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "کال"
+  },
+  "سؤال ۱۳ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۳ کنکور ۱۴۰۵"
+  },
+  "یاختهٔ کناری معده": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "یاختهٔ کناری معده"
+  },
+  "سؤال ۱۴ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۴ کنکور ۱۴۰۵"
+  },
+  "جفت": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "جفت"
+  },
+  "مورولا": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "مورولا"
+  },
+  "سؤال ۱۵ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۵ کنکور ۱۴۰۵"
+  },
+  "مگس سرکه": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "مگس سرکه"
+  },
+  "سؤال ۱۶ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۶ کنکور ۱۴۰۵"
+  },
+  "هوای مرده": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "هوای مرده"
+  },
+  "حجم جاری": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "حجم جاری"
+  },
+  "حجم باقی‌مانده": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "حجم باقی‌مانده"
+  },
+  "سؤال ۱۷ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۷ کنکور ۱۴۰۵"
+  },
+  "رنای ناقل": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "رنای ناقل"
+  },
+  "سؤال ۱۸ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۸ کنکور ۱۴۰۵"
+  },
+  "نوار قلب": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "نوار قلب"
+  },
+  "گره دهلیزی‌بطنی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "گره دهلیزی‌بطنی"
+  },
+  "سؤال ۱۹ کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال ۱۹ کنکور ۱۴۰۵"
+  },
+  "هورمون محرک تیروئید": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "هورمون محرک تیروئید"
+  },
+  "هورمون‌های تیروئیدی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "هورمون‌های تیروئیدی"
+  },
+  "سؤال 19 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 19 کنکور ۱۴۰۵"
+  },
+  "هورمون‌های یددار تیروئیدی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "هورمون‌های یددار تیروئیدی"
+  },
+  "گواتر": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "گواتر"
+  },
+  "سؤال 20 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 20 کنکور ۱۴۰۵"
+  },
+  "پروتئین D": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "پروتئین D"
+  },
+  "گویچهٔ قرمز بالغ": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "گویچهٔ قرمز بالغ"
+  },
+  "سؤال 21 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 21 کنکور ۱۴۰۵"
+  },
+  "رفتار کاکایی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "رفتار کاکایی"
+  },
+  "جدایی تولیدمثلی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "جدایی تولیدمثلی"
+  },
+  "سؤال 22 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 22 کنکور ۱۴۰۵"
+  },
+  "سینوس سیاهرگی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "سینوس سیاهرگی"
+  },
+  "سؤال 23 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 23 کنکور ۱۴۰۵"
+  },
+  "لگن": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "لگن"
+  },
+  "سؤال 24 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 24 کنکور ۱۴۰۵"
+  },
+  "غدهٔ فوق‌کلیه": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "غدهٔ فوق‌کلیه"
+  },
+  "هورمون محرک فوق‌کلیه": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "هورمون محرک فوق‌کلیه"
+  },
+  "سؤال 25 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 25 کنکور ۱۴۰۵"
+  },
+  "ساختار دوم پروتئین": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "ساختار دوم پروتئین"
+  },
+  "سؤال 26 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 26 کنکور ۱۴۰۵"
+  },
+  "سؤال 27 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 27 کنکور ۱۴۰۵"
+  },
+  "نفرون": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "نفرون"
+  },
+  "پودوسیت": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "پودوسیت"
+  },
+  "سؤال 28 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 28 کنکور ۱۴۰۵"
+  },
+  "بلاستوسیست": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "بلاستوسیست"
+  },
+  "یاخته‌های بنیادی مغز استخوان": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "یاخته‌های بنیادی مغز استخوان"
+  },
+  "سؤال 29 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 29 کنکور ۱۴۰۵"
+  },
+  "شیب پروتون": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "شیب پروتون"
+  },
+  "آنزیم ATP‌ساز": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "آنزیم ATP‌ساز"
+  },
+  "زنجیرهٔ انتقال الکترون": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "زنجیرهٔ انتقال الکترون"
+  },
+  "سؤال 30 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 30 کنکور ۱۴۰۵"
+  },
+  "ملخ": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "ملخ"
+  },
+  "سؤال 31 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 31 کنکور ۱۴۰۵"
+  },
+  "ترجمه": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "ترجمه"
+  },
+  "سؤال 32 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 32 کنکور ۱۴۰۵"
+  },
+  "آبشش ماهی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "آبشش ماهی"
+  },
+  "سؤال 33 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 33 کنکور ۱۴۰۵"
+  },
+  "بکرزایی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "بکرزایی"
+  },
+  "سؤال 34 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 34 کنکور ۱۴۰۵"
+  },
+  "بافت چربی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "بافت چربی"
+  },
+  "سؤال 35 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 35 کنکور ۱۴۰۵"
+  },
+  "گیاهان CAM": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "گیاهان CAM"
+  },
+  "روبیسکو": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "روبیسکو"
+  },
+  "سؤال 36 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 36 کنکور ۱۴۰۵"
+  },
+  "غدد پیازی‌میزراهی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "غدد پیازی‌میزراهی"
+  },
+  "پروستات": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "پروستات"
+  },
+  "کیسهٔ منی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "کیسهٔ منی"
+  },
+  "سؤال 37 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 37 کنکور ۱۴۰۵"
+  },
+  "اشباع آنزیم": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "اشباع آنزیم"
+  },
+  "سؤال 38 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 2,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 38 کنکور ۱۴۰۵"
+  },
+  "سارکومر": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-007",
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "سارکومر"
+  },
+  "نوار روشن": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "نوار روشن"
+  },
+  "سؤال 39 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 39 کنکور ۱۴۰۵"
+  },
+  "سیانوباکتری": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سیانوباکتری"
+  },
+  "تثبیت نیتروژن": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "تثبیت نیتروژن"
+  },
+  "سؤال 40 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 40 کنکور ۱۴۰۵"
+  },
+  "گرهٔ لنفی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "گرهٔ لنفی"
+  },
+  "سؤال 41 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 41 کنکور ۱۴۰۵"
+  },
+  "قندکافت": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "قندکافت"
+  },
+  "سؤال 42 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 42 کنکور ۱۴۰۵"
+  },
+  "جوانهٔ چشایی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "جوانهٔ چشایی"
+  },
+  "سؤال 43 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 43 کنکور ۱۴۰۵"
+  },
+  "زیست‌شناسی نوین": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "زیست‌شناسی نوین"
+  },
+  "نگرش سامانه‌ای": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "نگرش سامانه‌ای"
+  },
+  "سؤال 44 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 44 کنکور ۱۴۰۵"
+  },
+  "سؤال 45 کنکور ۱۴۰۵": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "سؤال 45 کنکور ۱۴۰۵"
+  },
+  "رابط سه‌گوش": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "رابط سه‌گوش"
+  },
+  "تشریح مغز گوسفند": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333149,
+    "update_time": 1790333149,
+    "_id": "تشریح مغز گوسفند"
+  },
+  "انتخاب طبیعی": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "انتخاب طبیعی"
+  },
+  "مهندسی پروتئین": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "مهندسی پروتئین"
+  },
+  "اینترفرون": {
+    "chunk_ids": [
+      "doc-91a869610b9c2a0b99b26167cf6e3ad3-chunk-005",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "اینترفرون"
+  },
+  "هموگلوبین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 3,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هموگلوبین"
+  },
+  "گویچهٔ قرمز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گویچهٔ قرمز"
+  },
+  "جهش جانشینی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جهش جانشینی"
+  },
+  "رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رونویسی"
+  },
+  "رنابسپاراز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 3,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رنابسپاراز"
+  },
+  "راه‌انداز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 3,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "راه‌انداز"
+  },
+  "آغاز رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آغاز رونویسی"
+  },
+  "طویل‌شدن رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "طویل‌شدن رونویسی"
+  },
+  "پایان رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پایان رونویسی"
+  },
+  "پیوند هیدروژنی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیوند هیدروژنی"
+  },
+  "پیوند فسفودی‌استر": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیوند فسفودی‌استر"
+  },
+  "آغاز ترجمه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آغاز ترجمه"
+  },
+  "رناتن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رناتن"
+  },
+  "رنای پیک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رنای پیک"
+  },
+  "رمزهٔ آغاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رمزهٔ آغاز"
+  },
+  "متیونین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "متیونین"
+  },
+  "جایگاه P": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جایگاه P"
+  },
+  "جایگاه A": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جایگاه A"
+  },
+  "جایگاه E": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جایگاه E"
+  },
+  "پیوند پپتیدی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیوند پپتیدی"
+  },
+  "طویل‌شدن ترجمه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "طویل‌شدن ترجمه"
+  },
+  "پایان ترجمه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پایان ترجمه"
+  },
+  "رمزهٔ پایان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رمزهٔ پایان"
+  },
+  "عوامل آزادکننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "عوامل آزادکننده"
+  },
+  "تنظیم بیان ژن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم بیان ژن"
+  },
+  "تنظیم بیان ژن در پروکاریوت‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم بیان ژن در پروکاریوت‌ها"
+  },
+  "اشرشیاکلای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اشرشیاکلای"
+  },
+  "تنظیم منفی رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم منفی رونویسی"
+  },
+  "مهارکننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مهارکننده"
+  },
+  "اپراتور": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اپراتور"
+  },
+  "لاکتوز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لاکتوز"
+  },
+  "تنظیم مثبت رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم مثبت رونویسی"
+  },
+  "فعال‌کننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فعال‌کننده"
+  },
+  "جایگاه اتصال فعال‌کننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جایگاه اتصال فعال‌کننده"
+  },
+  "مالتوز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مالتوز"
+  },
+  "تنظیم بیان ژن در یوکاریوت‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم بیان ژن در یوکاریوت‌ها"
+  },
+  "خمیدگی دنا": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خمیدگی دنا"
+  },
+  "رناهای کوچک مکمل": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رناهای کوچک مکمل"
+  },
+  "تنظیم پس از رونویسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم پس از رونویسی"
+  },
+  "تنظیم در سطح فام‌تن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنظیم در سطح فام‌تن"
+  },
+  "فشردگی فام‌تن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فشردگی فام‌تن"
+  },
+  "طول عمر رنای پیک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "طول عمر رنای پیک"
+  },
+  "گلوکز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گلوکز"
+  },
+  "قند فروکتوز فسفاته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "قند فروکتوز فسفاته"
+  },
+  "اسید دوفسفاته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسید دوفسفاته"
+  },
+  "پیرووات": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیرووات"
+  },
+  "NADH": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "NADH"
+  },
+  "آنزیم ATPساز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آنزیم ATPساز"
+  },
+  "تنفس یاخته‌ای هوازی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنفس یاخته‌ای هوازی"
+  },
+  "اکسایش پیرووات": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اکسایش پیرووات"
+  },
+  "استیل کوآنزیم A": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "استیل کوآنزیم A"
+  },
+  "چرخهٔ کربس": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چرخهٔ کربس"
+  },
+  "اگزالواستات": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اگزالواستات"
+  },
+  "FADH2": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "FADH2"
+  },
+  "فضای بین دو غشای راکیزه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فضای بین دو غشای راکیزه"
+  },
+  "تخمیر": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تخمیر"
+  },
+  "تقسیم یاخته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تقسیم یاخته"
+  },
+  "اینترفاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اینترفاز"
+  },
+  "مرحلهٔ G1": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مرحلهٔ G1"
+  },
+  "مرحلهٔ S": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مرحلهٔ S"
+  },
+  "مرحلهٔ G2": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مرحلهٔ G2"
+  },
+  "میتوز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میتوز"
+  },
+  "پروفاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پروفاز"
+  },
+  "پرومتافاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پرومتافاز"
+  },
+  "متافاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "متافاز"
+  },
+  "آنافاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آنافاز"
+  },
+  "تلوفاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تلوفاز"
+  },
+  "تقسیم سیتوپلاسم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تقسیم سیتوپلاسم"
+  },
+  "حلقهٔ انقباضی اکتین و میوزین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "حلقهٔ انقباضی اکتین و میوزین"
+  },
+  "سانترومر": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سانترومر"
+  },
+  "میوز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "میوز"
+  },
+  "پروفاز ۱": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پروفاز ۱"
+  },
+  "تتراد": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "تتراد"
+  },
+  "متافاز ۱": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "متافاز ۱"
+  },
+  "آنافاز ۱": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آنافاز ۱"
+  },
+  "تلوفاز ۱": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تلوفاز ۱"
+  },
+  "میوز ۲": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میوز ۲"
+  },
+  "گریفیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گریفیت"
+  },
+  "آزمایش گریفیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آزمایش گریفیت"
+  },
+  "باکتری پوشینه‌دار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "باکتری پوشینه‌دار"
+  },
+  "ایوری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ایوری"
+  },
+  "چارگاف": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چارگاف"
+  },
+  "ویلکینز و فرانکلین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ویلکینز و فرانکلین"
+  },
+  "واتسون و کریک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "واتسون و کریک"
+  },
+  "مزلسون و استال": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مزلسون و استال"
+  },
+  "دنا": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دنا"
+  },
+  "همانندسازی نیمه‌حفاظتی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "همانندسازی نیمه‌حفاظتی"
+  },
+  "یوکاریوت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یوکاریوت"
+  },
+  "پروکاریوت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پروکاریوت"
+  },
+  "دیسک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دیسک"
+  },
+  "آنزیم برش‌دهنده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آنزیم برش‌دهنده"
+  },
+  "تعادل ژنی جمعیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تعادل ژنی جمعیت"
+  },
+  "جهش": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جهش"
+  },
+  "رانش دگره‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رانش دگره‌ای"
+  },
+  "شارش ژن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "شارش ژن"
+  },
+  "آمیزش غیرتصادفی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آمیزش غیرتصادفی"
+  },
+  "خزانهٔ ژن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خزانهٔ ژن"
+  },
+  "گوناگونی جمعیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گوناگونی جمعیت"
+  },
+  "گوناگونی دگره‌ای در گامت‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گوناگونی دگره‌ای در گامت‌ها"
+  },
+  "نوترکیبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نوترکیبی"
+  },
+  "چلیپایی شدن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چلیپایی شدن"
+  },
+  "گامت نوترکیب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گامت نوترکیب"
+  },
+  "اهمیت ناخالص‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اهمیت ناخالص‌ها"
+  },
+  "آمیلاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آمیلاز"
+  },
+  "پلاسمین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پلاسمین"
+  },
+  "لخته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لخته"
+  },
+  "زیست‌فناوری در کشاورزی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "زیست‌فناوری در کشاورزی"
+  },
+  "زیست‌فناوری در پزشکی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "زیست‌فناوری در پزشکی"
+  },
+  "فناوری دنای نوترکیب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فناوری دنای نوترکیب"
+  },
+  "انسولین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "انسولین"
+  },
+  "پیش‌هورمون انسولین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیش‌هورمون انسولین"
+  },
+  "تولید واکسن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تولید واکسن"
+  },
+  "ژن‌درمانی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ژن‌درمانی"
+  },
+  "اولین ژن‌درمانی موفق": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اولین ژن‌درمانی موفق"
+  },
+  "لنفوسیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لنفوسیت"
+  },
+  "تشخیص بیماری با فناوری دنا": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تشخیص بیماری با فناوری دنا"
+  },
+  "جانوران تراژنی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جانوران تراژنی"
+  },
+  "گیاهان C3": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گیاهان C3"
+  },
+  "گیاهان C4": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گیاهان C4"
+  },
+  "تنفس نوری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنفس نوری"
+  },
+  "چرخهٔ کالوین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چرخهٔ کالوین"
+  },
+  "زنجیرهٔ انتقال الکترون راکیزه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "زنجیرهٔ انتقال الکترون راکیزه"
+  },
+  "زنجیرهٔ انتقال الکترون سبزدیسه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "زنجیرهٔ انتقال الکترون سبزدیسه"
+  },
+  "تیغهٔ میانی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "تیغهٔ میانی"
+  },
+  "دیوارهٔ نخستین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دیوارهٔ نخستین"
+  },
+  "دیوارهٔ پسین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-008",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "دیوارهٔ پسین"
+  },
+  "چوبی شدن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چوبی شدن"
+  },
+  "کوتینی شدن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کوتینی شدن"
+  },
+  "چوب‌پنبه‌ای شدن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چوب‌پنبه‌ای شدن"
+  },
+  "کانی شدن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کانی شدن"
+  },
+  "ژله‌ای شدن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ژله‌ای شدن"
+  },
+  "لیگنین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لیگنین"
+  },
+  "آندودرم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آندودرم"
+  },
+  "تک‌لپه‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تک‌لپه‌ای"
+  },
+  "دولپه‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دولپه‌ای"
+  },
+  "روزنهٔ هوایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "روزنهٔ هوایی"
+  },
+  "روزنهٔ آبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "روزنهٔ آبی"
+  },
+  "سرلاد نخستین ریشه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سرلاد نخستین ریشه"
+  },
+  "سرلاد نخستین ساقه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سرلاد نخستین ساقه"
+  },
+  "بن‌لاد آوندساز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بن‌لاد آوندساز"
+  },
+  "بن‌لاد چوب‌پنبه‌ساز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بن‌لاد چوب‌پنبه‌ساز"
+  },
+  "پیراپوست": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیراپوست"
+  },
+  "پارانشیم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پارانشیم"
+  },
+  "کلانشیم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کلانشیم"
+  },
+  "فیبر": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فیبر"
+  },
+  "اسکلرئید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسکلرئید"
+  },
+  "لایهٔ ریشه‌زا": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لایهٔ ریشه‌زا"
+  },
+  "تراکئید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تراکئید"
+  },
+  "عناصر آوندی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "عناصر آوندی"
+  },
+  "یاخته‌های آبکشی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یاخته‌های آبکشی"
+  },
+  "میوهٔ حقیقی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میوهٔ حقیقی"
+  },
+  "میوهٔ کاذب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میوهٔ کاذب"
+  },
+  "زمین‌ساقه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "زمین‌ساقه"
+  },
+  "غده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "غده"
+  },
+  "پیاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیاز"
+  },
+  "ساقهٔ رونده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ساقهٔ رونده"
+  },
+  "جیبرلین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جیبرلین"
+  },
+  "آبسیزیک اسید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آبسیزیک اسید"
+  },
+  "عامل نارنجی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "عامل نارنجی"
+  },
+  "اتیلن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اتیلن"
+  },
+  "سالیسیلیک اسید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سالیسیلیک اسید"
+  },
+  "مرگ برنامه‌ریزی‌شده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مرگ برنامه‌ریزی‌شده"
+  },
+  "چیرگی راسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چیرگی راسی"
+  },
+  "تک‌یاخته‌ای‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تک‌یاخته‌ای‌ها"
+  },
+  "پارامسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پارامسی"
+  },
+  "کریچهٔ غذایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کریچهٔ غذایی"
+  },
+  "کافنده‌تن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کافنده‌تن"
+  },
+  "کریچهٔ دفعی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کریچهٔ دفعی"
+  },
+  "کریچهٔ انقباضی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کریچهٔ انقباضی"
+  },
+  "کرم کدو": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کرم کدو"
+  },
+  "تبادل گاز با انتشار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تبادل گاز با انتشار"
+  },
+  "اسفنج": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسفنج"
+  },
+  "یاخته‌های یقه‌دار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یاخته‌های یقه‌دار"
+  },
+  "نرم‌تنان خشکی‌زی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نرم‌تنان خشکی‌زی"
+  },
+  "کیسه‌تنان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کیسه‌تنان"
+  },
+  "حفرهٔ گوارشی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "حفرهٔ گوارشی"
+  },
+  "هیدر": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هیدر"
+  },
+  "شبکهٔ عصبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "شبکهٔ عصبی"
+  },
+  "اسکلت آب‌ایستایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسکلت آب‌ایستایی"
+  },
+  "عروس دریایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "عروس دریایی"
+  },
+  "پلاناریا": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پلاناریا"
+  },
+  "پروتونفریدی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "پروتونفریدی"
+  },
+  "یاخته‌های شعله‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یاخته‌های شعله‌ای"
+  },
+  "دستگاه عصبی نردبانی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دستگاه عصبی نردبانی"
+  },
+  "گرهٔ عصبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گرهٔ عصبی"
+  },
+  "کرم کبد": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کرم کبد"
+  },
+  "هرمافرودیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هرمافرودیت"
+  },
+  "کرم خاکی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کرم خاکی"
+  },
+  "گردش خون بسته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گردش خون بسته"
+  },
+  "کمان رگی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کمان رگی"
+  },
+  "متانفریدی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "متانفریدی"
+  },
+  "لقاح دوطرفی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لقاح دوطرفی"
+  },
+  "حشرات": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "حشرات"
+  },
+  "چینه‌دان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-014",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "چینه‌دان"
+  },
+  "پیش‌معده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیش‌معده"
+  },
+  "کیسه‌های معده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کیسه‌های معده"
+  },
+  "تنفس نایدیسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنفس نایدیسی"
+  },
+  "نایدیس": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نایدیس"
+  },
+  "لوله‌های مالپیگی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لوله‌های مالپیگی"
+  },
+  "اوریک اسید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اوریک اسید"
+  },
+  "همولنف": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "همولنف"
+  },
+  "اسکلت بیرونی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسکلت بیرونی"
+  },
+  "کیتین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کیتین"
+  },
+  "چشم مرکب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چشم مرکب"
+  },
+  "لقاح داخلی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لقاح داخلی"
+  },
+  "دستگاه عصبی حشرات": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دستگاه عصبی حشرات"
+  },
+  "طناب عصبی شکمی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "طناب عصبی شکمی"
+  },
+  "مگس": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مگس"
+  },
+  "جیرجیرک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جیرجیرک"
+  },
+  "فرومون": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فرومون"
+  },
+  "پروانهٔ مونارک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پروانهٔ مونارک"
+  },
+  "سخت‌پوستان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سخت‌پوستان"
+  },
+  "غدد شاخکی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "غدد شاخکی"
+  },
+  "غذایابی بهینه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "غذایابی بهینه"
+  },
+  "ستارهٔ دریایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ستارهٔ دریایی"
+  },
+  "مچنیکوف": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مچنیکوف"
+  },
+  "بیگانه‌خواری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بیگانه‌خواری"
+  },
+  "مهره‌داران": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-016",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مهره‌داران"
+  },
+  "پمپ فشار مثبت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پمپ فشار مثبت"
+  },
+  "فشار منفی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فشار منفی"
+  },
+  "قورباغه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "قورباغه"
+  },
+  "گردش خون مضاعف": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "گردش خون مضاعف"
+  },
+  "گردش خون ساده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گردش خون ساده"
+  },
+  "جدایی کامل بطن‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "جدایی کامل بطن‌ها"
+  },
+  "اسکلت غضروفی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسکلت غضروفی"
+  },
+  "ایمنی اختصاصی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ایمنی اختصاصی"
+  },
+  "ماهی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "ماهی"
+  },
+  "غدد راست‌روده‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "غدد راست‌روده‌ای"
+  },
+  "ماهیان آب شیرین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ماهیان آب شیرین"
+  },
+  "ماهیان دریایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ماهیان دریایی"
+  },
+  "خط جانبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خط جانبی"
+  },
+  "مخروط سرخرگی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مخروط سرخرگی"
+  },
+  "لقاح خارجی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لقاح خارجی"
+  },
+  "دوزیستان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دوزیستان"
+  },
+  "تنفس پوستی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تنفس پوستی"
+  },
+  "قلب سه‌حفره‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "قلب سه‌حفره‌ای"
+  },
+  "مثانهٔ دوزیستان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مثانهٔ دوزیستان"
+  },
+  "خزندگان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خزندگان"
+  },
+  "غدد نمکی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "غدد نمکی"
+  },
+  "مار زنگی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مار زنگی"
+  },
+  "گیرندهٔ فروسرخ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گیرندهٔ فروسرخ"
+  },
+  "پرندگان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پرندگان"
+  },
+  "کیسه‌های هوادار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کیسه‌های هوادار"
+  },
+  "نشخوارکنندگان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نشخوارکنندگان"
+  },
+  "سیرابی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سیرابی"
+  },
+  "نگاری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نگاری"
+  },
+  "هزارلا": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هزارلا"
+  },
+  "شیردان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "شیردان"
+  },
+  "سلولز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سلولز"
+  },
+  "گیاهخواران غیرنشخوارکننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گیاهخواران غیرنشخوارکننده"
+  },
+  "پستانداران کیسه‌دار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پستانداران کیسه‌دار"
+  },
+  "پستانداران جفت‌دار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پستانداران جفت‌دار"
+  },
+  "رفتار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رفتار"
+  },
+  "رفتار غریزی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "رفتار غریزی"
+  },
+  "یادگیری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یادگیری"
+  },
+  "دگرخواهی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دگرخواهی"
+  },
+  "حرکات قطعه‌قطعه‌کننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "حرکات قطعه‌قطعه‌کننده"
+  },
+  "حرکات کرمی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-019",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "حرکات کرمی"
+  },
+  "ماهیچهٔ مخاطی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "ماهیچهٔ مخاطی"
+  },
+  "گوارش کربوهیدرات‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گوارش کربوهیدرات‌ها"
+  },
+  "گوارش پروتئین‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گوارش پروتئین‌ها"
+  },
+  "گوارش لیپیدها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گوارش لیپیدها"
+  },
+  "پپسین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "پپسین"
+  },
+  "لیپاز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لیپاز"
+  },
+  "بنداره": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بنداره"
+  },
+  "پیلور": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پیلور"
+  },
+  "بندارهٔ انتهای مری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بندارهٔ انتهای مری"
+  },
+  "بندارهٔ خارجی مخرج": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "بندارهٔ خارجی مخرج"
+  },
+  "بندارهٔ خارجی میزراه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بندارهٔ خارجی میزراه"
+  },
+  "چین‌های حلقوی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "چین‌های حلقوی"
+  },
+  "پرز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-020"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "پرز"
+  },
+  "ریزپرز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ریزپرز"
+  },
+  "بیماری سلیاک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بیماری سلیاک"
+  },
+  "لایهٔ مخاط": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لایهٔ مخاط"
+  },
+  "لایهٔ زیرمخاط": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لایهٔ زیرمخاط"
+  },
+  "لایهٔ ماهیچه‌ای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لایهٔ ماهیچه‌ای"
+  },
+  "لایهٔ بیرونی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لایهٔ بیرونی"
+  },
+  "صفاق": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "صفاق"
+  },
+  "بافت پیوندی سست": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بافت پیوندی سست"
+  },
+  "غدد ترشحی گوارشی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "غدد ترشحی گوارشی"
+  },
+  "یاخته اصلی معده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یاخته اصلی معده"
+  },
+  "یاخته کناری معده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یاخته کناری معده"
+  },
+  "پپسینوژن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پپسینوژن"
+  },
+  "فاکتور داخلی معده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "فاکتور داخلی معده"
+  },
+  "گاسترین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گاسترین"
+  },
+  "سکرتین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سکرتین"
+  },
+  "موسین و لیزوزیم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "موسین و لیزوزیم"
+  },
+  "بخش هادی دستگاه تنفس": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بخش هادی دستگاه تنفس"
+  },
+  "بخش مبادله‌ای دستگاه تنفس": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بخش مبادله‌ای دستگاه تنفس"
+  },
+  "حبابک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "حبابک"
+  },
+  "سورفاکتانت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سورفاکتانت"
+  },
+  "نایژک انتهایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نایژک انتهایی"
+  },
+  "دم عادی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دم عادی"
+  },
+  "دم عمیق": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دم عمیق"
+  },
+  "بازدم عادی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بازدم عادی"
+  },
+  "بازدم عمیق": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بازدم عمیق"
+  },
+  "دیافراگم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دیافراگم"
+  },
+  "ماهیچه بین‌دنده‌ای خارجی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ماهیچه بین‌دنده‌ای خارجی"
+  },
+  "ماهیچه بین‌دنده‌ای داخلی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ماهیچه بین‌دنده‌ای داخلی"
+  },
+  "ذخیرهٔ دمی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ذخیرهٔ دمی"
+  },
+  "ذخیرهٔ بازدمی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ذخیرهٔ بازدمی"
+  },
+  "هوای باقی‌مانده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هوای باقی‌مانده"
+  },
+  "ظرفیت حیاتی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ظرفیت حیاتی"
+  },
+  "ظرفیت تام": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ظرفیت تام"
+  },
+  "حجم تنفسی در دقیقه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "حجم تنفسی در دقیقه"
+  },
+  "اکسیژن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اکسیژن"
+  },
+  "کربن دی‌اکسید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کربن دی‌اکسید"
+  },
+  "انیدراز کربنیک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "انیدراز کربنیک"
+  },
+  "کربن مونواکسید": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کربن مونواکسید"
+  },
+  "آب آهک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آب آهک"
+  },
+  "برم‌تیمول آبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "برم‌تیمول آبی"
+  },
+  "دریچهٔ سینی آئورتی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچهٔ سینی آئورتی"
+  },
+  "دریچهٔ دولختی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچهٔ دولختی"
+  },
+  "دریچهٔ سه‌لختی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچهٔ سه‌لختی"
+  },
+  "دریچه‌های دهلیزی‌بطنی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچه‌های دهلیزی‌بطنی"
+  },
+  "دریچه‌های سینی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچه‌های سینی"
+  },
+  "دریچه‌های قلب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچه‌های قلب"
+  },
+  "مویرگ پیوسته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مویرگ پیوسته"
+  },
+  "مویرگ منفذدار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مویرگ منفذدار"
+  },
+  "مویرگ ناپیوسته": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مویرگ ناپیوسته"
+  },
+  "پریکارد": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پریکارد"
+  },
+  "اپیکارد": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اپیکارد"
+  },
+  "میوکارد": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میوکارد"
+  },
+  "آندوکارد": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آندوکارد"
+  },
+  "صدای اول قلب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "صدای اول قلب"
+  },
+  "صدای دوم قلب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "صدای دوم قلب"
+  },
+  "دورهٔ قلبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دورهٔ قلبی"
+  },
+  "انقباض دهلیزها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "انقباض دهلیزها"
+  },
+  "انقباض بطن‌ها": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "انقباض بطن‌ها"
+  },
+  "استراحت عمومی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "استراحت عمومی"
+  },
+  "الکتروکاردیوگرام": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "الکتروکاردیوگرام"
+  },
+  "گره پیشاهنگ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گره پیشاهنگ"
+  },
+  "سرخرگ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سرخرگ"
+  },
+  "سیاهرگ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سیاهرگ"
+  },
+  "مویرگ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مویرگ"
+  },
+  "گردش خون عمومی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گردش خون عمومی"
+  },
+  "گردش خون ششی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "گردش خون ششی"
+  },
+  "تراوش": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "تراوش"
+  },
+  "بازجذب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "بازجذب"
+  },
+  "ترشح": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ترشح"
+  },
+  "آمونیاک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آمونیاک"
+  },
+  "اوره": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اوره"
+  },
+  "کراتینین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کراتینین"
+  },
+  "شبکهٔ مویرگی اول": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "شبکهٔ مویرگی اول"
+  },
+  "شبکهٔ مویرگی دوم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "شبکهٔ مویرگی دوم"
+  },
+  "سرخرگ آوران": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سرخرگ آوران"
+  },
+  "سرخرگ وابران": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "سرخرگ وابران"
+  },
+  "کپسول بومن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کپسول بومن"
+  },
+  "لولهٔ پیچ‌خوردهٔ نزدیک": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لولهٔ پیچ‌خوردهٔ نزدیک"
+  },
+  "لولهٔ هنله": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لولهٔ هنله"
+  },
+  "لولهٔ پیچ‌خوردهٔ دور": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لولهٔ پیچ‌خوردهٔ دور"
+  },
+  "لولهٔ جمع‌کنندهٔ ادرار": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لولهٔ جمع‌کنندهٔ ادرار"
+  },
+  "بندارهٔ داخلی میزراه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بندارهٔ داخلی میزراه"
+  },
+  "دریچهٔ انتهای میزنای": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دریچهٔ انتهای میزنای"
+  },
+  "نورون حسی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "نورون حسی"
+  },
+  "نورون رابط": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "نورون رابط"
+  },
+  "نورون حرکتی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نورون حرکتی"
+  },
+  "لوب پیشانی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لوب پیشانی"
+  },
+  "لوب آهیانه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لوب آهیانه"
+  },
+  "لوب پس‌سری": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لوب پس‌سری"
+  },
+  "لوب گیجگاهی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لوب گیجگاهی"
+  },
+  "ناقل عصبی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ناقل عصبی"
+  },
+  "هورمون": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هورمون"
+  },
+  "انعکاس عقب کشیدن دست": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "انعکاس عقب کشیدن دست"
+  },
+  "ماهیچهٔ دوسر بازو": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ماهیچهٔ دوسر بازو"
+  },
+  "ماهیچهٔ سه‌سر بازو": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ماهیچهٔ سه‌سر بازو"
+  },
+  "تار ماهیچه‌ای کند": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تار ماهیچه‌ای کند"
+  },
+  "تار ماهیچه‌ای تند": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "تار ماهیچه‌ای تند"
+  },
+  "میوگلوبین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-029",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میوگلوبین"
+  },
+  "خط Z": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خط Z"
+  },
+  "نوار تیره": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نوار تیره"
+  },
+  "اکتین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اکتین"
+  },
+  "میوزین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "میوزین"
+  },
+  "مغز قرمز استخوان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مغز قرمز استخوان"
+  },
+  "مغز زرد استخوان": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مغز زرد استخوان"
+  },
+  "نوتروفیل": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نوتروفیل"
+  },
+  "ائوزینوفیل": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "ائوزینوفیل"
+  },
+  "بازوفیل": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "بازوفیل"
+  },
+  "ماکروفاژ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "ماکروفاژ"
+  },
+  "مونوسیت": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "مونوسیت"
+  },
+  "یاختهٔ کشندهٔ طبیعی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 3,
+    "update_time": 1790333582,
+    "_id": "یاختهٔ کشندهٔ طبیعی"
+  },
+  "لنفوسیت B و T": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-030",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 2,
+    "update_time": 1790333582,
+    "_id": "لنفوسیت B و T"
+  },
+  "دیاپدز": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "دیاپدز"
+  },
+  "لیزوزیم": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لیزوزیم"
+  },
+  "پروتئین مکمل": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پروتئین مکمل"
+  },
+  "اینترفرون نوع ۱": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اینترفرون نوع ۱"
+  },
+  "اینترفرون نوع ۲": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اینترفرون نوع ۲"
+  },
+  "هیستامین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "هیستامین"
+  },
+  "پادتن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پادتن"
+  },
+  "پرفورین": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "پرفورین"
+  },
+  "آنزیم مرگ": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آنزیم مرگ"
+  },
+  "لنفوسیت کشنده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لنفوسیت کشنده"
+  },
+  "لنفوسیت کمک‌کننده": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لنفوسیت کمک‌کننده"
+  },
+  "لنفوسیت خاطره": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031",
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 2,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "لنفوسیت خاطره"
+  },
+  "اسپرم‌زایی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسپرم‌زایی"
+  },
+  "یاختهٔ سرتولی": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "یاختهٔ سرتولی"
+  },
+  "اسپرماتوسیت اولیه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "اسپرماتوسیت اولیه"
+  },
+  "خط دوم دفاع": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خط دوم دفاع"
+  },
+  "خط سوم دفاع": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "خط سوم دفاع"
+  },
+  "برخورد اول با میکروب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "برخورد اول با میکروب"
+  },
+  "برخورد دوم با میکروب": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "برخورد دوم با میکروب"
+  },
+  "آنتی‌ژن": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "آنتی‌ژن"
+  },
+  "کلیه": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "کلیه"
+  },
+  "نقرس": {
+    "chunk_ids": [
+      "doc-7aef00e820de0332e3e2bceb88d7e69c-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1790333582,
+    "update_time": 1790333582,
+    "_id": "نقرس"
+  }
+}

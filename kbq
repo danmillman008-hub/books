@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Query the LightRAG KB 'zist' through the real pipeline (LLM calls go to the bridge queue).
+# Usage: ./kbq "سؤال" [mode=hybrid|local|global|naive|mix]   -> answer JSON in study/logs/kbq_last.json
+cd "$(dirname "$0")"
+export DEEPTUTOR_HOME="$PWD/study/home" TIKTOKEN_CACHE_DIR="$PWD/study/tiktoken_cache" HF_HUB_OFFLINE=1 SUMMARY_LANGUAGE=Persian
+mkdir -p study/logs
+cd DeepTutor && .venv/bin/deeptutor kb search zist "$1" --mode "${2:-hybrid}" -f json > ../study/logs/kbq_last.json 2> ../study/logs/kbq_last.err

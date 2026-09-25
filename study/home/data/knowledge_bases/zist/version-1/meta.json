@@ -1,0 +1,52 @@
+{
+  "version": "version-1",
+  "signature": "lightrag",
+  "provider": "lightrag",
+  "state": "published",
+  "lightrag_adapter_schema": 2,
+  "lightrag_package_version": "1.5.7",
+  "parser_bridge_schema": 1,
+  "parser_inputs": [
+    {
+      "engine": "text_only",
+      "parser_signature": "a16aaf2359a1ec81"
+    }
+  ],
+  "workspace": "deeptutor_3134c3542b7ebbe2",
+  "layout": "flat",
+  "created_at": "2026-09-25T10:53:07.456819Z",
+  "updated_at": "2026-09-25T10:53:07.456819Z",
+  "indexing_policy": {
+    "schema_version": 2,
+    "policy": "pinned",
+    "extract": {
+      "policy": "pinned",
+      "descriptor": {
+        "binding": "custom",
+        "provider_mode": "direct",
+        "endpoint": "http://127.0.0.1:8765/v1",
+        "api_version": null,
+        "model": "agent-tutor",
+        "reasoning_effort": "",
+        "profile_id": "agent-bridge",
+        "model_id": "agent-tutor",
+        "wire_api": "auto",
+        "api_format": "auto",
+        "context_window": 128000
+      },
+      "fingerprint": "1ee7718239b7acb5a52c5d7254d8382c9be0437a325a2f74ec317085036007ca",
+      "vision_available": false,
+      "selection": {
+        "profile_id": "agent-bridge",
+        "model_id": "agent-tutor"
+      }
+    },
+    "vlm": {
+      "mode": "disabled"
+    },
+    "vlm_used": false
+  },
+  "embedding_signature": "2602017c65b5b66e",
+  "embedding_model": "local-fa-ngram-hash-1024",
+  "embedding_dim": 1024
+}
