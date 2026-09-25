@@ -64,4 +64,10 @@ MP_MODE=study ./mp mastery_grade '{"answer":"B"}'
 - Embedding از نوع n-gram محلی فارسی (۱۰۲۴ بعدی) است، چون دسترسی به huggingface از این محیط مسدود است.
 - راه‌اندازی: `./setup.sh` (یک بار) و سپس `./start.sh`.
 - پرسش از پایگاه دانش: `./kbq "سؤال"`. خروجی در `study/logs/kbq_last.json` ذخیره می‌شود.
-- این پایگاه دانش به‌عنوان منبع به مسیر تسلط `zist` وصل شده است (`mp_link_kb.py`).
+- این پایگاه دانش به‌عنوان منبع به مسیرهای تسلط `zist` و `zist3` وصل شده است (`mp_link_kb.py [path]`).
+
+## مستری‌کورس زیست ۳
+
+- [`course/zist3/`](course/zist3/README.md): درسنامهٔ کامل ۸ فصل همراه با ۶۵ تست تشریحی. فایل یک‌جا: `course/zist3/zist3_mastery_course.md`
+- تست‌ها در بانک آزمون وارد شده‌اند (`study/banks/zist3_course.json`).
+- مسیر تسلط `zist3` ساخته شده است (۸ ماژول، ۲۵ هدف).
