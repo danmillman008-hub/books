@@ -29,7 +29,7 @@ async def main():
     name = sys.argv[1]
     kw = json.loads(sys.argv[2]) if len(sys.argv) > 2 else {}
     kw.setdefault("_mastery_path_id", os.environ.get("MP_PATH", "zist"))
-    kw.setdefault("_session_id", "cli"); kw.setdefault("_turn_id", "cli")
+    kw.setdefault("_session_id", ""); kw.setdefault("_turn_id", "")
     if "_mastery_session_mode" not in kw and os.environ.get("MP_MODE"):
         kw["_mastery_session_mode"] = os.environ["MP_MODE"]
     r = await tools[name]().execute(**kw)
