@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Wrapper: runs the DeepTutor CLI with the exam DB stored inside the repo (study/exam.db)
+ROOT="$(cd "$(dirname "$0")" && pwd)"
+export DEEPTUTOR_EXAM_DB="${DEEPTUTOR_EXAM_DB:-$ROOT/study/exam.db}"
+[ -x "$ROOT/DeepTutor/.venv/bin/deeptutor" ] || "$ROOT/setup.sh"
+cd "$ROOT/DeepTutor" && exec .venv/bin/deeptutor "$@"
