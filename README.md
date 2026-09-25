@@ -41,3 +41,12 @@
 
 ## قابلیت‌های هوش مصنوعی DeepTutor
 چت، پایگاه دانش یا RAG روی کتاب‌ها، `deep_solve`، `mastery_path` و `exam generate` به **کلید API یک مدل زبانی** نیاز دارند. تنظیمات در `DeepTutor/data/user/settings/` ذخیره می‌شود. این پوشه در `.gitignore` است و **هرگز push نمی‌شود**.
+
+## Mastery Path (مسیر تسلط) بدون کلید API
+`./mp` ابزارهای واقعی موتور Mastery Path دیپ‌تیوتر را مستقیم صدا می‌زند (نقش مدل را ایجنت بازی می‌کند).
+داده‌ها در `study/mastery/` ذخیره می‌شود. مسیر فعلی: `zist` (۲۴ ماژول، ۹۴ نقطهٔ دانشی، آستانهٔ تسلط ۹۰٪).
+```
+./mp tools                                  # فهرست ابزارها
+MP_MODE=study ./mp mastery_status '{}'      # هدف بعدی + درصد تسلط
+MP_MODE=study ./mp mastery_grade '{"answer":"B"}'
+```
