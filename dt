@@ -3,4 +3,7 @@
 ROOT="$(cd "$(dirname "$0")" && pwd)"
 export DEEPTUTOR_EXAM_DB="${DEEPTUTOR_EXAM_DB:-$ROOT/study/exam.db}"
 [ -x "$ROOT/DeepTutor/.venv/bin/deeptutor" ] || "$ROOT/setup.sh"
-cd "$ROOT/DeepTutor" && exec .venv/bin/deeptutor "$@"
+# make relative file arguments absolute (we cd into DeepTutor below)
+args=()
+for a in "$@"; do if [ -e "$a" ]; then args+=("$(realpath "$a")"); else args+=("$a"); fi; done
+cd "$ROOT/DeepTutor" && exec .venv/bin/deeptutor "${args[@]}"
