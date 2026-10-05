@@ -13,11 +13,13 @@
 | [`03-exam-analysis.md`](03-exam-analysis.md) | تحلیل آزمون — مهارت اصلی مشاور + مقایسهٔ آزمون‌های آزمایشی |
 | [`04-motivation.md`](04-motivation.md) | انگیزه، اهمال‌کاری، استرس، گفت‌وگو با والدین، خط قرمز حرفه‌ای |
 | [`05-sources.md`](05-sources.md) | منابع رایگان و قانونی برای یادگیری |
+| [`06-telegram.md`](06-telegram.md) | **گشتن در کانال‌های تلگرام** — گزارش فنی + کانال‌های واقعی انسانی |
 | [`templates/01-first-session.md`](templates/01-first-session.md) | فرم جلسهٔ اول (سطح‌سنجی و نیازسنجی) |
 | [`templates/02-weekly-plan.md`](templates/02-weekly-plan.md) | فرم خام برنامهٔ هفتگی |
 | [`templates/03-exam-analysis.md`](templates/03-exam-analysis.md) | فرم تحلیل آزمون |
 | [`templates/04-nightly-check.md`](templates/04-nightly-check.md) | الگوی چک شبانه و علائم خطر |
 | [`tools/plan_builder.py`](tools/plan_builder.py) | ابزار ساخت برنامهٔ هفتگی و زنجیرهٔ مرور |
+| [`tools/tgsearch.py`](tools/tgsearch.py) | جست‌وجو در کانال‌های عمومی تلگرام، بدون اکانت و بدون API key |
 
 ---
 
