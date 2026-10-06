@@ -15,6 +15,7 @@
 | [`05-sources.md`](05-sources.md) | منابع رایگان و قانونی برای یادگیری |
 | [`06-telegram.md`](06-telegram.md) | **گشتن در کانال‌های تلگرام** — گزارش فنی + کانال‌های واقعی انسانی |
 | [`07-tajrobi-channels.md`](07-tajrobi-channels.md) | **تجربی، مشاوره، انگیزشی، روان‌شناسی** — جدول کانال‌ها، نام و آدرس فایل‌ها، متدولوژی استخراج‌شده |
+| [`08-downloader-test.md`](08-downloader-test.md) | **تست ابزارهای دانلود** — نتیجهٔ تست سه ریپو + دستورالعمل `tgdl.py` |
 | [`templates/01-first-session.md`](templates/01-first-session.md) | فرم جلسهٔ اول (سطح‌سنجی و نیازسنجی) |
 | [`templates/02-weekly-plan.md`](templates/02-weekly-plan.md) | فرم خام برنامهٔ هفتگی |
 | [`templates/03-exam-analysis.md`](templates/03-exam-analysis.md) | فرم تحلیل آزمون |
