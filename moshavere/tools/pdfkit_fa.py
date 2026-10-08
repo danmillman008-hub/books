@@ -405,7 +405,192 @@ class FaDoc:
         c.setFillColor(INK)
         self.y -= 28
 
+    # ------------------------------------------------ بلوک سرصفحهٔ سند
+    def cover(self, meta, purpose=""):
+        """بلوک مشخصات سند: شمارهٔ سند، طرفین، تاریخ، تماس.
+
+        meta: فهرست زوج (برچسب، مقدار). مقدار خالی یعنی خط پرکردنی.
+        """
+        self.need(90)
+        c = self.c
+        top = self.y
+        rows = (len(meta) + 1) // 2
+        h = 16 + rows * 15 + 8
+        c.setFillColor(BOX_BG)
+        c.rect(self.left, top - h, self.width, h, stroke=0, fill=1)
+        c.setStrokeColor(RULE)
+        c.setLineWidth(0.6)
+        c.rect(self.left, top - h, self.width, h, stroke=1, fill=0)
+
+        colw = self.width / 2
+        y = top - 18
+        for i, (lab, val) in enumerate(meta):
+            col = i % 2
+            if col == 0 and i:
+                y -= 15
+            x_right = self.right - 10 - col * colw
+            c.setFont("FA-B", 7.6)
+            c.setFillColor(MUTED)
+            c.drawRightString(x_right, y, shape(lab))
+            lw = pdfmetrics.stringWidth(shape(lab), "FA-B", 7.6) + 6
+            c.setFont("FA", 8.4)
+            c.setFillColor(INK)
+            if val:
+                c.drawRightString(x_right - lw, y, shape(str(val)))
+            else:
+                c.setStrokeColor(RULE)
+                c.setLineWidth(0.5)
+                c.line(x_right - colw + 16, y - 2, x_right - lw, y - 2)
+        self.y = top - h - 10
+        if purpose:
+            self.para(purpose, size=8.6, leading=14, color=MUTED)
+            self.space(4)
+        c.setFillColor(INK)
+
+    # ------------------------------------------------ کاتالوگ
+    def display(self, text, size=26, color=None, gap=14):
+        """تیتر درشت تبلیغاتی."""
+        self.need(size + gap + 8)
+        self.c.setFont("FA-B", size)
+        self.c.setFillColor(color or ACCENT)
+        self.c.drawRightString(self.right, self.y - size, shape(text))
+        self.c.setFillColor(INK)
+        self.y -= size + gap
+
+    def stat_row(self, stats):
+        """ردیف آمار برجسته: فهرست (عدد، برچسب)."""
+        self.need(58)
+        c = self.c
+        n = len(stats)
+        cw = self.width / n
+        x_right = self.right
+        for num, lab in stats:
+            c.setFont("FA-B", 21)
+            c.setFillColor(ACCENT)
+            c.drawCentredString(x_right - cw / 2, self.y - 22, shape(str(num)))
+            c.setFont("FA", 8.2)
+            c.setFillColor(MUTED)
+            c.drawCentredString(x_right - cw / 2, self.y - 38, shape(lab))
+            x_right -= cw
+        c.setFillColor(INK)
+        self.y -= 52
+
+    def plan_cards(self, plans, highlight=None):
+        """کارت طرح‌های خدمات. هر طرح: (نام، قیمت، [ویژگی‌ها])."""
+        n = len(plans)
+        gap = 9
+        cw = (self.width - gap * (n - 1)) / n
+        maxf = max(len(p[2]) for p in plans)
+        h = 56 + maxf * 13 + 10
+        self.need(h + 10)
+        top = self.y
+        c = self.c
+        x_right = self.right
+        for name, price, feats in plans:
+            hot = (name == highlight)
+            c.setFillColor(ACCENT if hot else BOX_BG)
+            c.roundRect(x_right - cw, top - h, cw, h, 6, stroke=0, fill=1)
+            if not hot:
+                c.setStrokeColor(RULE)
+                c.setLineWidth(0.7)
+                c.roundRect(x_right - cw, top - h, cw, h, 6,
+                            stroke=1, fill=0)
+            cx = x_right - cw / 2
+            c.setFont("FA-B", 11)
+            c.setFillColor(colors.white if hot else ACCENT)
+            c.drawCentredString(cx, top - 20, shape(name))
+            c.setFont("FA-B", 13)
+            c.drawCentredString(cx, top - 40, shape(str(price)))
+            yy = top - 58
+            for f in feats:
+                c.setFont("FA", 7.4)
+                c.setFillColor(colors.white if hot else INK)
+                c.drawRightString(x_right - 9, yy, shape(f))
+                yy -= 13
+            x_right -= cw + gap
+        self.y = top - h - 12
+        c.setFillColor(INK)
+
+    # ------------------------------------------------ پاسخ‌برگ
+    def bubbles(self, start, count, cols=4, opts=4, size=7.2,
+                row_h=14.5, col_gap=12):
+        """شبکهٔ حباب پاسخ‌برگ از شمارهٔ start تا start+count-1."""
+        per = (count + cols - 1) // cols
+        cw = (self.width - col_gap * (cols - 1)) / cols
+        self.need(per * row_h + 30)
+        c = self.c
+        r = size / 2
+        # برچسب گزینه‌ها بالای هر ستون
+        for ci in range(cols):
+            xr = self.right - ci * (cw + col_gap)
+            c.setFont("FA-B", 6.2)
+            c.setFillColor(MUTED)
+            for o in range(opts):
+                c.drawCentredString(xr - 20 - o * (size + 7) - r,
+                                    self.y - 7, shape(fa_num(o + 1)))
+        self.y -= 12
+        top = self.y
+        for ci in range(cols):
+            x_right = self.right - ci * (cw + col_gap)
+            y = top
+            for ri in range(per):
+                q = start + ci * per + ri
+                if q >= start + count:
+                    break
+                c.setFont("FA", 6.8)
+                c.setFillColor(MUTED)
+                c.drawRightString(x_right, y - size, shape(fa_num(q)))
+                bx = x_right - 20
+                for o in range(opts):
+                    c.setStrokeColor(MUTED)
+                    c.setLineWidth(0.55)
+                    c.circle(bx - o * (size + 7) - r, y - size + r + 0.6,
+                             r, stroke=1, fill=0)
+                y -= row_h
+        self.y = top - per * row_h - 10
+        c.setFillColor(INK)
+
     def save(self):
         self._footer()
         self.c.save()
         return self.path
+
+
+# ------------------------------------------------------------------ کارت
+def business_cards(path, front_fn, back_fn=None, cols=2, rows=5,
+                   card_w=85 * 2.8346, card_h=55 * 2.8346, marks=True):
+    """ورق A4 پر از کارت ویزیت ۸۵×۵۵ میلی‌متر، آمادهٔ چاپ و برش.
+
+    front_fn(c, x, y, w, h) محتوای یک کارت را رسم می‌کند.
+    """
+    W, H = A4
+    c = canvas.Canvas(str(path), pagesize=A4)
+    c.setTitle("کارت ویزیت")
+
+    def sheet(fn):
+        gx = (W - cols * card_w) / (cols + 1)
+        gy = (H - rows * card_h) / (rows + 1)
+        for r in range(rows):
+            for col in range(cols):
+                x = gx + col * (card_w + gx)
+                y = H - gy - card_h - r * (card_h + gy)
+                c.saveState()
+                fn(c, x, y, card_w, card_h)
+                c.restoreState()
+                if marks:
+                    c.setStrokeColor(colors.HexColor("#c9c9cf"))
+                    c.setLineWidth(0.3)
+                    for (mx, my) in ((x, y), (x + card_w, y),
+                                     (x, y + card_h),
+                                     (x + card_w, y + card_h)):
+                        c.line(mx - 7, my, mx - 2, my)
+                        c.line(mx + 2, my, mx + 7, my)
+                        c.line(mx, my - 7, mx, my - 2)
+                        c.line(mx, my + 2, mx, my + 7)
+        c.showPage()
+
+    sheet(front_fn)
+    if back_fn:
+        sheet(back_fn)
+    c.save()
+    return str(path)

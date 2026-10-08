@@ -1,60 +1,66 @@
-# بستهٔ فرم‌های مشاوره — PDF آمادهٔ چاپ
+# اسناد مؤسسهٔ مشاوره — PDF آمادهٔ چاپ
 
-۱۰ سند، ۲۳ صفحه، فارسی راست‌چین، آمادهٔ چاپ روی A4.
+۱۰ سند، ۲۳ صفحه، فارسی راست‌چین، A4 (کارت ویزیت ۸۵×۵۵ میلی‌متر).
 
-| فایل | نوع | کِی استفاده می‌شود | تناوب |
+## اسناد عملیاتی
+
+| سند | کد | کِی | تناوب |
 |---|---|---|---|
-| [`00-fehrest-baste.pdf`](00-fehrest-baste.pdf) | نقشه | اول از همه بخوان | — |
-| [`01-form-jalase-aval.pdf`](01-form-jalase-aval.pdf) | فرم | اولین نشست با دانش‌آموز | یک‌بار |
-| [`02-form-barname-haftegi.pdf`](02-form-barname-haftegi.pdf) | فرم | طراحی برنامهٔ هر هفته | هفتگی |
-| [`03-form-gozaresh-rozane.pdf`](03-form-gozaresh-rozane.pdf) | فرم | ثبت عملکرد توسط دانش‌آموز | روزانه |
-| [`04-form-tahlil-azmun.pdf`](04-form-tahlil-azmun.pdf) | فرم | بعد از هر آزمون آزمایشی | دو‌هفته‌ای |
-| [`05-form-arzyabi-angizeshi.pdf`](05-form-arzyabi-angizeshi.pdf) | فرم | جلسهٔ اول و هر دو ماه | دوماهه |
-| [`06-sharh-khadamat.pdf`](06-sharh-khadamat.pdf) | اداری | قبل از شروع همکاری | یک‌بار |
-| [`07-form-gozaresh-valedeyn.pdf`](07-form-gozaresh-valedeyn.pdf) | اداری | پایان هر ماه | ماهانه |
-| [`08-rahnama-moshaver.pdf`](08-rahnama-moshaver.pdf) | راهنما | برای خودت، قبل از شروع | مرجع |
-| [`09-rahnama-dabir.pdf`](09-rahnama-dabir.pdf) | راهنما | تحویل به دبیر همکار | مرجع |
+| [`01-mosahebe-avalieh.pdf`](01-mosahebe-avalieh.pdf) | MSH-۰۱ | اولین نشست | یک‌بار |
+| [`02-barname-haftegi.pdf`](02-barname-haftegi.pdf) | MSH-۰۲ | طراحی برنامه | هفتگی |
+| [`03-gozaresh-rozane.pdf`](03-gozaresh-rozane.pdf) | MSH-۰۳ | ثبت عملکرد | روزانه |
+| [`04-pasokhbarg.pdf`](04-pasokhbarg.pdf) | MSH-۰۴ | آزمون‌های مؤسسه | هر آزمون |
+| [`05-arzeshyabi-azmun-jame.pdf`](05-arzeshyabi-azmun-jame.pdf) | MSH-۰۵ | بعد از آزمون جامع | دو‌هفته‌ای |
+| [`06-karname-pishraft.pdf`](06-karname-pishraft.pdf) | MSH-۰۶ | پایان ماه | ماهانه |
+| [`07-sabtenam-sharh-khadamat.pdf`](07-sabtenam-sharh-khadamat.pdf) | MSH-۰۷ | قبل از شروع | یک‌بار |
 
-## ساخت دوباره / ویرایش
+## تبلیغاتی و داخلی
 
-فایل‌ها از روی کد ساخته می‌شوند، پس هر تغییری را در کد بده و دوباره بساز — نه در PDF.
+| سند | توضیح |
+|---|---|
+| [`08-katalog-moassese.pdf`](08-katalog-moassese.pdf) | کاتالوگ معرفی: فرایند شش‌گامی، تمایزها، سه طرح همکاری، تیم، سؤال‌های پرتکرار، تماس |
+| [`09-cart-vizit.pdf`](09-cart-vizit.pdf) | کارت ویزیت ۸۵×۵۵mm — ۱۰ کارت در ورق با علامت برش، رو و پشت |
+| [`10-rahnama-dakheli-moshaver.pdf`](10-rahnama-dakheli-moshaver.pdf) | **سند داخلی** — استاندارد کاری مشاوران. به دانش‌آموز نده |
+
+## شخصی‌سازی
+
+تمام برندینگ در یک بلوک بالای `../tools/make_docs.py` است:
+
+```python
+INST       = "مؤسسهٔ مشاورهٔ «نام مؤسسه»"
+INST_SHORT = "«نام مؤسسه»"
+TAGLINE    = "برنامه‌ریزی اختصاصی، پیگیری روزانه، تحلیل آزمون"
+PHONE      = "۰۹۱۲ ۰۰۰ ۰۰۰۰"
+SITE       = "example.ir"
+INSTAGRAM  = "@example"
+
+COUNSELORS = [
+    ("خلیل اختری",      "مشاور تحصیلی"),
+    ("محمدباقر صادقی",  "مشاور تحصیلی"),
+]
+```
+
+سِمَت‌ها فعلاً «مشاور تحصیلی» گذاشته شده؛ هر وقت تصمیم گرفتید همین‌جا عوضش کنید.
+رنگ برند در `../tools/pdfkit_fa.py` یک‌جا تعریف شده (`ACCENT`).
+درس‌ها هم بالای `make_docs.py` قابل تغییرند — برای انسانی `SUBJ_T` را عوض کنید.
+
+## ساخت دوباره
 
 ```bash
 pip install reportlab arabic-reshaper python-bidi
 git clone --depth 1 https://github.com/rastikerdar/vazirmatn.git /tmp/vazir
 
 cd moshavere/tools
-python3 make_forms.py --out ../forms
+python3 make_docs.py --out ../forms
 ```
 
-- `pdfkit_fa.py` — موتور راست‌چین (شکل‌دهی حروف چسبان، الگوریتم دوجهته، جدول/چک‌باکس/فیلد)
-- `make_forms.py` — محتوای هر ده سند
-
-اگر فونت را جای دیگری گذاشتی: `export FA_FONT_DIR=/path/to/ttf`
-
-## شخصی‌سازی
-
-برای گذاشتن نام و برند خودت، در `make_forms.py` این خط را عوض کن:
-
-```python
-BRAND = "بستهٔ مشاورهٔ کنکور — رشتهٔ تجربی"
-```
-
-رنگ بسته هم در `pdfkit_fa.py` یک‌جا تعریف شده:
-
-```python
-ACCENT    = colors.HexColor("#0f5132")   # سبز تیره
-ACCENT_BG = colors.HexColor("#e7f1ec")
-```
-
-درس‌ها هم بالای `make_forms.py` قابل تغییرند — برای رشتهٔ انسانی کافی است
-`SUBJ_T` را عوض کنی.
+- `pdfkit_fa.py` — موتور راست‌چین: شکل‌دهی حروف چسبان، الگوریتم دوجهته، جدول با ستون معکوس، چک‌باکس، خط فرم، بلوک سرصفحهٔ سند، کارت طرح، شبکهٔ حباب پاسخ‌برگ، ورق کارت ویزیت
+- `make_docs.py` — محتوای هر ده سند
 
 ## نکتهٔ حقوقی
 
-همهٔ متن‌ها تألیف تازه‌اند و بر پایهٔ روش‌شناسی مستندشده در
-`01-system.md` تا `08-downloader-test.md` نوشته شده‌اند. هیچ محتوایی از
-هیچ مؤسسه یا مشاوری بازتولید نشده است، پس می‌توانی با خیال راحت با نام
-خودت استفاده و توزیعشان کنی.
+همهٔ متن‌ها تألیف تازه‌اند. ساختار اسناد از کنوانسیون‌های استاندارد
+اسناد حرفه‌ای پیروی می‌کند (بلوک مشخصات، شماره‌گذاری، سربرگ و پانویس) —
+محتوای هیچ قالب یا مؤسسهٔ دیگری بازتولید نشده است.
 
-فونت Vazirmatn تحت لایسنس آزاد SIL OFL است و استفادهٔ تجاری‌اش مجاز است.
+فونت Vazirmatn تحت SIL OFL است و استفادهٔ تجاری‌اش آزاد است.
