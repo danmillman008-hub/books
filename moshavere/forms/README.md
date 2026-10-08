@@ -1,4 +1,6 @@
-# اسناد مؤسسهٔ مشاوره — PDF آمادهٔ چاپ
+# اسناد مؤسسهٔ مشاوره — راهنما
+
+> **فایل‌های PDF در پوشهٔ [`/pdf`](../../pdf/) قرار دارند.** این صفحه فقط توضیح و راهنمای ساخت است.
 
 ۱۰ سند، ۲۳ صفحه، فارسی راست‌چین، A4 (کارت ویزیت ۸۵×۵۵ میلی‌متر).
 
@@ -6,21 +8,21 @@
 
 | سند | کد | کِی | تناوب |
 |---|---|---|---|
-| [`01-mosahebe-avalieh.pdf`](01-mosahebe-avalieh.pdf) | MSH-۰۱ | اولین نشست | یک‌بار |
-| [`02-barname-haftegi.pdf`](02-barname-haftegi.pdf) | MSH-۰۲ | طراحی برنامه | هفتگی |
-| [`03-gozaresh-rozane.pdf`](03-gozaresh-rozane.pdf) | MSH-۰۳ | ثبت عملکرد | روزانه |
-| [`04-pasokhbarg.pdf`](04-pasokhbarg.pdf) | MSH-۰۴ | آزمون‌های مؤسسه | هر آزمون |
-| [`05-arzeshyabi-azmun-jame.pdf`](05-arzeshyabi-azmun-jame.pdf) | MSH-۰۵ | بعد از آزمون جامع | دو‌هفته‌ای |
-| [`06-karname-pishraft.pdf`](06-karname-pishraft.pdf) | MSH-۰۶ | پایان ماه | ماهانه |
-| [`07-sabtenam-sharh-khadamat.pdf`](07-sabtenam-sharh-khadamat.pdf) | MSH-۰۷ | قبل از شروع | یک‌بار |
+| [`01-mosahebe-avalieh.pdf`](../../pdf/01-mosahebe-avalieh.pdf) | MSH-۰۱ | اولین نشست | یک‌بار |
+| [`02-barname-haftegi.pdf`](../../pdf/02-barname-haftegi.pdf) | MSH-۰۲ | طراحی برنامه | هفتگی |
+| [`03-gozaresh-rozane.pdf`](../../pdf/03-gozaresh-rozane.pdf) | MSH-۰۳ | ثبت عملکرد | روزانه |
+| [`04-pasokhbarg.pdf`](../../pdf/04-pasokhbarg.pdf) | MSH-۰۴ | آزمون‌های مؤسسه | هر آزمون |
+| [`05-arzeshyabi-azmun-jame.pdf`](../../pdf/05-arzeshyabi-azmun-jame.pdf) | MSH-۰۵ | بعد از آزمون جامع | دو‌هفته‌ای |
+| [`06-karname-pishraft.pdf`](../../pdf/06-karname-pishraft.pdf) | MSH-۰۶ | پایان ماه | ماهانه |
+| [`07-sabtenam-sharh-khadamat.pdf`](../../pdf/07-sabtenam-sharh-khadamat.pdf) | MSH-۰۷ | قبل از شروع | یک‌بار |
 
 ## تبلیغاتی و داخلی
 
 | سند | توضیح |
 |---|---|
-| [`08-katalog-moassese.pdf`](08-katalog-moassese.pdf) | کاتالوگ معرفی: فرایند شش‌گامی، تمایزها، سه طرح همکاری، تیم، سؤال‌های پرتکرار، تماس |
-| [`09-cart-vizit.pdf`](09-cart-vizit.pdf) | کارت ویزیت ۸۵×۵۵mm — ۱۰ کارت در ورق با علامت برش، رو و پشت |
-| [`10-rahnama-dakheli-moshaver.pdf`](10-rahnama-dakheli-moshaver.pdf) | **سند داخلی** — استاندارد کاری مشاوران. به دانش‌آموز نده |
+| [`08-katalog-moassese.pdf`](../../pdf/08-katalog-moassese.pdf) | کاتالوگ معرفی: فرایند شش‌گامی، تمایزها، سه طرح همکاری، تیم، سؤال‌های پرتکرار، تماس |
+| [`09-cart-vizit.pdf`](../../pdf/09-cart-vizit.pdf) | کارت ویزیت ۸۵×۵۵mm — ۱۰ کارت در ورق با علامت برش، رو و پشت |
+| [`10-rahnama-dakheli-moshaver.pdf`](../../pdf/10-rahnama-dakheli-moshaver.pdf) | **سند داخلی** — استاندارد کاری مشاوران. به دانش‌آموز نده |
 
 ## شخصی‌سازی
 
@@ -51,7 +53,7 @@ pip install reportlab arabic-reshaper python-bidi
 git clone --depth 1 https://github.com/rastikerdar/vazirmatn.git /tmp/vazir
 
 cd moshavere/tools
-python3 make_docs.py --out ../forms
+python3 make_docs.py --out ../../pdf
 ```
 
 - `pdfkit_fa.py` — موتور راست‌چین: شکل‌دهی حروف چسبان، الگوریتم دوجهته، جدول با ستون معکوس، چک‌باکس، خط فرم، بلوک سرصفحهٔ سند، کارت طرح، شبکهٔ حباب پاسخ‌برگ، ورق کارت ویزیت

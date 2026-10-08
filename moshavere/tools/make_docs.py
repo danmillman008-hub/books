@@ -9,7 +9,7 @@ make_docs.py — بستهٔ اسناد عملیاتی و تبلیغاتی مؤس
 اجرا:
     pip install reportlab arabic-reshaper python-bidi
     git clone --depth 1 https://github.com/rastikerdar/vazirmatn.git /tmp/vazir
-    python3 make_docs.py --out ../forms
+    python3 make_docs.py --out ../../pdf
 
 شخصی‌سازی: فقط بلوک «هویت مؤسسه» پایین را عوض کن.
 """
@@ -663,7 +663,7 @@ BUILDERS = [d_interview, d_weekly, d_daily, d_answersheet, d_exam,
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="../forms")
+    ap.add_argument("--out", default="../../pdf")
     a = ap.parse_args()
     print(f"فونت: {register_fonts()}", file=sys.stderr)
     out = Path(a.out).expanduser().resolve()
